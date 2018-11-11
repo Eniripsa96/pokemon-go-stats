@@ -22,13 +22,6 @@ const routes = {
     icon: 'home'
   },
 
-  poke: {
-    component: PokeResult,
-    exact: true,
-    path: '/:pokemon/:algorithm',
-    title: 'Top Move Sets'
-  },
-
   editor: {
     component: PokemonEditor,
     exact: true,
