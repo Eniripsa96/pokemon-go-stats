@@ -1,0 +1,6 @@
+[100] Aggron / Dragon Tail / Heavy Slam
+[100] Aggron / Iron Tail / Heavy Slam
+[81] Aggron / Dragon Tail / Stone Edge
+[81] Aggron / Iron Tail / Stone Edge
+[81] Aggron / Dragon Tail / Thunder
+[81] Aggron / Iron Tail / Thunder

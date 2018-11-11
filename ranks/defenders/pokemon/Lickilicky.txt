@@ -1,0 +1,6 @@
+[100] Lickilicky / Zen Headbutt / Solarbeam
+[87] Lickilicky / Zen Headbutt / Hyper Beam
+[85] Lickilicky / Lick / Solarbeam
+[75] Lickilicky / Zen Headbutt / Earthquake
+[72] Lickilicky / Lick / Hyper Beam
+[60] Lickilicky / Lick / Earthquake

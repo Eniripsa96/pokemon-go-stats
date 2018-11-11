@@ -1,0 +1,6 @@
+[2384] Sudowoodo / Counter / Earthquake
+[2384] Sudowoodo / Rock Throw / Earthquake
+[2384] Sudowoodo / Counter / Rock Slide
+[2384] Sudowoodo / Rock Throw / Rock Slide
+[2384] Sudowoodo / Counter / Stone Edge
+[2384] Sudowoodo / Rock Throw / Stone Edge

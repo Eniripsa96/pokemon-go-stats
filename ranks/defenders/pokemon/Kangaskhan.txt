@@ -1,0 +1,8 @@
+[100] Kangaskhan / Mud Slap / Outrage
+[84] Kangaskhan / Low Kick / Outrage
+[66] Kangaskhan / Mud Slap / Brick Break
+[66] Kangaskhan / Mud Slap / Earthquake
+[62] Kangaskhan / Mud Slap / Stomp
+[50] Kangaskhan / Low Kick / Brick Break
+[50] Kangaskhan / Low Kick / Earthquake
+[47] Kangaskhan / Low Kick / Stomp

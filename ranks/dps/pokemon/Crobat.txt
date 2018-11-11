@@ -1,0 +1,6 @@
+[100] Crobat / Air Slash / Sludge Bomb
+[90] Crobat / Bite / Sludge Bomb
+[88] Crobat / Air Slash / Shadow Ball
+[86] Crobat / Air Slash / Air Cutter
+[80] Crobat / Bite / Shadow Ball
+[77] Crobat / Bite / Air Cutter

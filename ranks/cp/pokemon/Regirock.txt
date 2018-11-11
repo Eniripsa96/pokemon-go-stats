@@ -1,0 +1,6 @@
+[3309] Regirock / Rock Smash / Focus Blast
+[3309] Regirock / Rock Throw / Focus Blast
+[3309] Regirock / Rock Smash / Stone Edge
+[3309] Regirock / Rock Throw / Stone Edge
+[3309] Regirock / Rock Smash / Zap Cannon
+[3309] Regirock / Rock Throw / Zap Cannon

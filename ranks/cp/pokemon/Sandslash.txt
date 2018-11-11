@@ -1,0 +1,6 @@
+[2404] Sandslash / Metal Claw / Bulldoze
+[2404] Sandslash / Mud Shot / Bulldoze
+[2404] Sandslash / Metal Claw / Earthquake
+[2404] Sandslash / Mud Shot / Earthquake
+[2404] Sandslash / Metal Claw / Rock Tomb
+[2404] Sandslash / Mud Shot / Rock Tomb

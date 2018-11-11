@@ -1,0 +1,6 @@
+[100] Tropius / Razor Leaf / Leaf Blade
+[99] Tropius / Air Slash / Leaf Blade
+[88] Tropius / Razor Leaf / Aerial Ace
+[86] Tropius / Air Slash / Aerial Ace
+[86] Tropius / Razor Leaf / Stomp
+[83] Tropius / Air Slash / Stomp

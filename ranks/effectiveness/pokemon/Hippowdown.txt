@@ -1,0 +1,9 @@
+[100] Hippowdown / Earthquake / Body Slam
+[100] Hippowdown / Earthquake / Earthquake
+[98] Hippowdown / Earthquake / Stone Edge
+[44] Hippowdown / Fire Fang / Body Slam
+[44] Hippowdown / Fire Fang / Earthquake
+[42] Hippowdown / Bite / Body Slam
+[42] Hippowdown / Bite / Earthquake
+[39] Hippowdown / Fire Fang / Stone Edge
+[37] Hippowdown / Bite / Stone Edge

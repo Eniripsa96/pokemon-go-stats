@@ -1,0 +1,6 @@
+[2439] Infernape / Fire Spin / Close Combat
+[2439] Infernape / Rock Smash / Close Combat
+[2439] Infernape / Fire Spin / Flamethrower
+[2439] Infernape / Rock Smash / Flamethrower
+[2439] Infernape / Fire Spin / Solarbeam
+[2439] Infernape / Rock Smash / Solarbeam

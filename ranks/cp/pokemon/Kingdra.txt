@@ -1,0 +1,9 @@
+[2529] Kingdra / Dragon Breath / Blizzard
+[2529] Kingdra / Water Gun / Blizzard
+[2529] Kingdra / Waterfall / Blizzard
+[2529] Kingdra / Dragon Breath / Hydro Pump
+[2529] Kingdra / Water Gun / Hydro Pump
+[2529] Kingdra / Waterfall / Hydro Pump
+[2529] Kingdra / Dragon Breath / Outrage
+[2529] Kingdra / Water Gun / Outrage
+[2529] Kingdra / Waterfall / Outrage

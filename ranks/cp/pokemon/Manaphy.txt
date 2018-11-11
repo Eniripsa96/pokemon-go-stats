@@ -1,0 +1,6 @@
+[3007] Manaphy / Bubble / Bubblebeam
+[3007] Manaphy / Waterfall / Bubblebeam
+[3007] Manaphy / Bubble / Psychic
+[3007] Manaphy / Waterfall / Psychic
+[3007] Manaphy / Bubble / Surf
+[3007] Manaphy / Waterfall / Surf

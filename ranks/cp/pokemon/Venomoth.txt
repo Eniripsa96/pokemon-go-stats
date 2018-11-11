@@ -1,0 +1,12 @@
+[1962] Venomoth / Bug Bite / Bug Buzz
+[1962] Venomoth / Confusion / Bug Buzz
+[1962] Venomoth / Infestation / Bug Buzz
+[1962] Venomoth / Bug Bite / Poison Fang
+[1962] Venomoth / Confusion / Poison Fang
+[1962] Venomoth / Infestation / Poison Fang
+[1962] Venomoth / Bug Bite / Psychic
+[1962] Venomoth / Confusion / Psychic
+[1962] Venomoth / Infestation / Psychic
+[1962] Venomoth / Bug Bite / Silver Wind
+[1962] Venomoth / Confusion / Silver Wind
+[1962] Venomoth / Infestation / Silver Wind

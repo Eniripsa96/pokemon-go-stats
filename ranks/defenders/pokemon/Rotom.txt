@@ -1,0 +1,6 @@
+[100] Rotom / Tackle / Thunderbolt
+[100] Rotom / Thunder Shock / Thunderbolt
+[94] Rotom / Tackle / Ominous Wind
+[94] Rotom / Thunder Shock / Ominous Wind
+[67] Rotom / Tackle / Thunder
+[67] Rotom / Thunder Shock / Thunder

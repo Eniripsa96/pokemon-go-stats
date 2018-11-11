@@ -1,0 +1,6 @@
+[100] Celebi / Confusion / Hyper Beam
+[99] Celebi / Confusion / Psychic
+[94] Celebi / Confusion / Dazzling Gleam
+[84] Celebi / Charge Beam / Hyper Beam
+[82] Celebi / Charge Beam / Psychic
+[81] Celebi / Charge Beam / Dazzling Gleam

@@ -1,0 +1,6 @@
+[100] Mesprit / Confusion / Blizzard
+[95] Mesprit / Confusion / Future Sight
+[95] Mesprit / Confusion / Swift
+[82] Mesprit / Extrasensory / Blizzard
+[78] Mesprit / Extrasensory / Future Sight
+[78] Mesprit / Extrasensory / Swift

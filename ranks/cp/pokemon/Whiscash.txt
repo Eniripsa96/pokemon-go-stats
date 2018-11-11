@@ -1,0 +1,6 @@
+[2120] Whiscash / Mud Shot / Blizzard
+[2120] Whiscash / Water Gun / Blizzard
+[2120] Whiscash / Mud Shot / Mud Bomb
+[2120] Whiscash / Water Gun / Mud Bomb
+[2120] Whiscash / Mud Shot / Water Pulse
+[2120] Whiscash / Water Gun / Water Pulse

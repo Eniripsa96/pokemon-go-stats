@@ -1,0 +1,12 @@
+[2925] Muk / Acid / Dark Pulse
+[2925] Muk / Infestation / Dark Pulse
+[2925] Muk / Lick / Dark Pulse
+[2925] Muk / Poison Jab / Dark Pulse
+[2925] Muk / Acid / Gunk Shot
+[2925] Muk / Infestation / Gunk Shot
+[2925] Muk / Lick / Gunk Shot
+[2925] Muk / Poison Jab / Gunk Shot
+[2925] Muk / Acid / Sludge Wave
+[2925] Muk / Infestation / Sludge Wave
+[2925] Muk / Lick / Sludge Wave
+[2925] Muk / Poison Jab / Sludge Wave

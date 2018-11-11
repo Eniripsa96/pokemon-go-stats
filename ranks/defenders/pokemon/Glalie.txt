@@ -1,0 +1,6 @@
+[100] Glalie / Ice Shard / Shadow Ball
+[96] Glalie / Frost Breath / Shadow Ball
+[92] Glalie / Ice Shard / Avalanche
+[88] Glalie / Frost Breath / Avalanche
+[84] Glalie / Ice Shard / Gyro Ball
+[80] Glalie / Frost Breath / Gyro Ball

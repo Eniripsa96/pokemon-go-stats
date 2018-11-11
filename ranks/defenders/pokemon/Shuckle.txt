@@ -1,0 +1,6 @@
+[100] Shuckle / Struggle Bug / Gyro Ball
+[95] Shuckle / Struggle Bug / Rock Blast
+[93] Shuckle / Rock Throw / Gyro Ball
+[89] Shuckle / Rock Throw / Rock Blast
+[74] Shuckle / Struggle Bug / Stone Edge
+[68] Shuckle / Rock Throw / Stone Edge

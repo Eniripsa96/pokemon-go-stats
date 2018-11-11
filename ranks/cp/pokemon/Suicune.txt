@@ -1,0 +1,9 @@
+[2850] Suicune / Extrasensory / Bubble Beam
+[2850] Suicune / Hidden Power / Bubble Beam
+[2850] Suicune / Snarl / Bubble Beam
+[2850] Suicune / Extrasensory / Hydro Pump
+[2850] Suicune / Hidden Power / Hydro Pump
+[2850] Suicune / Snarl / Hydro Pump
+[2850] Suicune / Extrasensory / Water Pulse
+[2850] Suicune / Hidden Power / Water Pulse
+[2850] Suicune / Snarl / Water Pulse

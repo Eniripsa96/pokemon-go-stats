@@ -1,0 +1,9 @@
+[100] Dugtrio / Mud Slap / Earthquake
+[99] Dugtrio / Mud Shot / Earthquake
+[98] Dugtrio / Mud Slap / Mud Bomb
+[97] Dugtrio / Mud Shot / Mud Bomb
+[96] Dugtrio / Sucker Punch / Earthquake
+[95] Dugtrio / Sucker Punch / Mud Bomb
+[89] Dugtrio / Mud Slap / Stone Edge
+[85] Dugtrio / Mud Shot / Stone Edge
+[83] Dugtrio / Sucker Punch / Stone Edge

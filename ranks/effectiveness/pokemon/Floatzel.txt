@@ -1,0 +1,6 @@
+[100] Floatzel / Waterfall / Hydro Pump
+[96] Floatzel / Water Gun / Hydro Pump
+[87] Floatzel / Waterfall / Aqua Jet
+[84] Floatzel / Waterfall / Swift
+[80] Floatzel / Water Gun / Aqua Jet
+[76] Floatzel / Water Gun / Swift

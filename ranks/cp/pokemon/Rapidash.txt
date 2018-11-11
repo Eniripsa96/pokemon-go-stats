@@ -1,0 +1,9 @@
+[2250] Rapidash / Ember / Drill Run
+[2250] Rapidash / Fire Spin / Drill Run
+[2250] Rapidash / Low Kick / Drill Run
+[2250] Rapidash / Ember / Fire Blast
+[2250] Rapidash / Fire Spin / Fire Blast
+[2250] Rapidash / Low Kick / Fire Blast
+[2250] Rapidash / Ember / Heat Wave
+[2250] Rapidash / Fire Spin / Heat Wave
+[2250] Rapidash / Low Kick / Heat Wave

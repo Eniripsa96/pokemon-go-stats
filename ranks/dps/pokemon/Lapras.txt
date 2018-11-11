@@ -1,0 +1,15 @@
+[100] Lapras / Frost Breath / Surf
+[99] Lapras / Ice Shard / Surf
+[99] Lapras / Water Gun / Surf
+[92] Lapras / Frost Breath / Blizzard
+[92] Lapras / Frost Breath / Hydro Pump
+[91] Lapras / Ice Shard / Blizzard
+[91] Lapras / Water Gun / Blizzard
+[91] Lapras / Ice Shard / Hydro Pump
+[91] Lapras / Water Gun / Hydro Pump
+[91] Lapras / Frost Breath / Ice Beam
+[90] Lapras / Ice Shard / Ice Beam
+[90] Lapras / Water Gun / Ice Beam
+[81] Lapras / Frost Breath / Dragon Pulse
+[79] Lapras / Ice Shard / Dragon Pulse
+[79] Lapras / Water Gun / Dragon Pulse

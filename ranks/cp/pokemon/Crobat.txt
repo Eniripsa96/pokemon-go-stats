@@ -1,0 +1,6 @@
+[2254] Crobat / Air Slash / Air Cutter
+[2254] Crobat / Bite / Air Cutter
+[2254] Crobat / Air Slash / Shadow Ball
+[2254] Crobat / Bite / Shadow Ball
+[2254] Crobat / Air Slash / Sludge Bomb
+[2254] Crobat / Bite / Sludge Bomb

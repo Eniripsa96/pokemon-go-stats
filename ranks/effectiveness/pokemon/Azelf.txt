@@ -1,0 +1,6 @@
+[100] Azelf / Confusion / Future Sight
+[98] Azelf / Extrasensory / Future Sight
+[83] Azelf / Confusion / Fire Blast
+[80] Azelf / Extrasensory / Fire Blast
+[78] Azelf / Confusion / Swift
+[74] Azelf / Extrasensory / Swift

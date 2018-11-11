@@ -1,0 +1,20 @@
+[100] Charizard / Fire Spin / Blast Burn
+[97] Charizard / Wing Attack / Blast Burn
+[94] Charizard / Ember / Blast Burn
+[94] Charizard / Fire Spin / Overheat
+[94] Charizard / Air Slash / Blast Burn
+[91] Charizard / Wing Attack / Overheat
+[88] Charizard / Air Slash / Overheat
+[88] Charizard / Fire Spin / Fire Blast
+[88] Charizard / Fire Spin / Flamethrower
+[87] Charizard / Ember / Overheat
+[87] Charizard / Fire Spin / Dragon Claw
+[83] Charizard / Wing Attack / Fire Blast
+[83] Charizard / Wing Attack / Flamethrower
+[82] Charizard / Wing Attack / Dragon Claw
+[82] Charizard / Air Slash / Fire Blast
+[82] Charizard / Air Slash / Flamethrower
+[81] Charizard / Air Slash / Dragon Claw
+[80] Charizard / Ember / Fire Blast
+[80] Charizard / Ember / Flamethrower
+[79] Charizard / Ember / Dragon Claw

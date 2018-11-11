@@ -1,0 +1,32 @@
+#main .poke-entry {
+  color: black;
+}
+
+.poke-entry {
+  cursor: pointer;
+  display: block;
+
+  span {
+    padding: 5px;
+    margin: 10px;
+    display: inline-block;
+  }
+
+  .poke-index {
+    width: 30px;
+    text-align: center;
+  }
+
+  .poke-rating {
+    width: 65px;
+    text-align: center;
+  }
+}
+
+.poke-entry:nth-child(2n) {
+  background-color: #eee;
+}
+
+.poke-entry.custom-entry {
+  background-color: #cef;
+}

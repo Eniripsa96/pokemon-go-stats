@@ -1,0 +1,6 @@
+[2244] Magmar / Ember / Fire Blast
+[2244] Magmar / Karate Chop / Fire Blast
+[2244] Magmar / Ember / Fire Punch
+[2244] Magmar / Karate Chop / Fire Punch
+[2244] Magmar / Ember / Flamethrower
+[2244] Magmar / Karate Chop / Flamethrower

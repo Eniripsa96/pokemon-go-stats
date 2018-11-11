@@ -1,0 +1,6 @@
+[100] Gastrodon / Mud Slap / Body Slam
+[100] Gastrodon / Mud Slap / Earthquake
+[92] Gastrodon / Hidden Power / Body Slam
+[92] Gastrodon / Hidden Power / Earthquake
+[89] Gastrodon / Mud Slap / Water Pulse
+[82] Gastrodon / Hidden Power / Water Pulse

@@ -1,0 +1,10 @@
+[1090] Onix / Rock Throw / Heavy Slam
+[1090] Onix / Tackle / Heavy Slam
+[1090] Onix / Rock Throw / Iron Head
+[1090] Onix / Tackle / Iron Head
+[1090] Onix / Rock Throw / Rock Slide
+[1090] Onix / Tackle / Rock Slide
+[1090] Onix / Rock Throw / Sand Tomb
+[1090] Onix / Tackle / Sand Tomb
+[1090] Onix / Rock Throw / Stone Edge
+[1090] Onix / Tackle / Stone Edge

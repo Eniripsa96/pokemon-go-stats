@@ -1,0 +1,6 @@
+[100] Heracross / Struggle Bug / Earthquake
+[92] Heracross / Counter / Earthquake
+[89] Heracross / Struggle Bug / Close Combat
+[84] Heracross / Struggle Bug / Megahorn
+[82] Heracross / Counter / Close Combat
+[76] Heracross / Counter / Megahorn

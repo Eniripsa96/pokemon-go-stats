@@ -1,0 +1,6 @@
+[3277] Magnezone / Charge Beam / Flash Cannon
+[3277] Magnezone / Spark / Flash Cannon
+[3277] Magnezone / Charge Beam / Wild Charge
+[3277] Magnezone / Spark / Wild Charge
+[3277] Magnezone / Charge Beam / Zap Cannon
+[3277] Magnezone / Spark / Zap Cannon

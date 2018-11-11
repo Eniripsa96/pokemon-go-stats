@@ -1,0 +1,6 @@
+[100] Hitmontop / Rock Smash / Gyro Ball
+[93] Hitmontop / Counter / Gyro Ball
+[74] Hitmontop / Rock Smash / Close Combat
+[74] Hitmontop / Rock Smash / Stone Edge
+[68] Hitmontop / Counter / Close Combat
+[68] Hitmontop / Counter / Stone Edge

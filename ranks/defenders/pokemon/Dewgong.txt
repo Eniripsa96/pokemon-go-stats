@@ -1,0 +1,15 @@
+[100] Dewgong / Iron Tail / Icy Wind
+[94] Dewgong / Ice Shard / Icy Wind
+[92] Dewgong / Iron Tail / Aurora Beam
+[90] Dewgong / Frost Breath / Icy Wind
+[86] Dewgong / Ice Shard / Aurora Beam
+[84] Dewgong / Iron Tail / Water Pulse
+[82] Dewgong / Iron Tail / Aqua Jet
+[82] Dewgong / Frost Breath / Aurora Beam
+[80] Dewgong / Iron Tail / Blizzard
+[78] Dewgong / Ice Shard / Water Pulse
+[76] Dewgong / Ice Shard / Aqua Jet
+[74] Dewgong / Ice Shard / Blizzard
+[74] Dewgong / Frost Breath / Water Pulse
+[72] Dewgong / Frost Breath / Aqua Jet
+[70] Dewgong / Frost Breath / Blizzard

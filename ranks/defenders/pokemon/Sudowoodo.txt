@@ -1,0 +1,6 @@
+[100] Sudowoodo / Counter / Rock Slide
+[100] Sudowoodo / Rock Throw / Rock Slide
+[81] Sudowoodo / Counter / Earthquake
+[81] Sudowoodo / Rock Throw / Earthquake
+[72] Sudowoodo / Counter / Stone Edge
+[72] Sudowoodo / Rock Throw / Stone Edge

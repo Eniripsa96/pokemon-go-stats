@@ -1,0 +1,9 @@
+[100] Nidoking / Iron Tail / Earthquake
+[94] Nidoking / Iron Tail / Sludge Wave
+[87] Nidoking / Poison Jab / Earthquake
+[84] Nidoking / Iron Tail / Megahorn
+[82] Nidoking / Poison Jab / Sludge Wave
+[71] Nidoking / Poison Jab / Megahorn
+[69] Nidoking / Fury Cutter / Earthquake
+[64] Nidoking / Fury Cutter / Sludge Wave
+[53] Nidoking / Fury Cutter / Megahorn

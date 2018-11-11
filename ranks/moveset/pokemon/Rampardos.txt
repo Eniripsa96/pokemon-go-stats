@@ -1,0 +1,6 @@
+[100] Rampardos / Smack Down / Rock Slide
+[94] Rampardos / Smack Down / Outrage
+[90] Rampardos / Zen Headbutt / Rock Slide
+[86] Rampardos / Smack Down / Flamethrower
+[84] Rampardos / Zen Headbutt / Outrage
+[73] Rampardos / Zen Headbutt / Flamethrower

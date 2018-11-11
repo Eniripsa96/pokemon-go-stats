@@ -1,0 +1,6 @@
+[100] Grumpig / Extrasensory / Psychic
+[95] Grumpig / Extrasensory / Shadow Ball
+[93] Grumpig / Extrasensory / Mirror Coat
+[85] Grumpig / Charge Beam / Psychic
+[84] Grumpig / Charge Beam / Shadow Ball
+[80] Grumpig / Charge Beam / Mirror Coat

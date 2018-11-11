@@ -1,0 +1,6 @@
+[100] Deoxys Attack Form / Zen Headbutt / Dark Pulse
+[95] Deoxys Attack Form / Poison Jab / Dark Pulse
+[90] Deoxys Attack Form / Zen Headbutt / Psycho Boost
+[90] Deoxys Attack Form / Zen Headbutt / Zap Cannon
+[86] Deoxys Attack Form / Poison Jab / Psycho Boost
+[86] Deoxys Attack Form / Poison Jab / Zap Cannon

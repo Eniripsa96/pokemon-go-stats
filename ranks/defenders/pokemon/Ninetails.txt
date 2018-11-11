@@ -1,0 +1,15 @@
+[100] Ninetails / Fire Spin / Solarbeam
+[92] Ninetails / Fire Spin / Overheat
+[92] Ninetails / Ember / Solarbeam
+[92] Ninetails / Feint Attack / Solarbeam
+[84] Ninetails / Fire Spin / Fire Blast
+[84] Ninetails / Fire Spin / Flamethrower
+[84] Ninetails / Ember / Overheat
+[84] Ninetails / Feint Attack / Overheat
+[76] Ninetails / Ember / Fire Blast
+[76] Ninetails / Feint Attack / Fire Blast
+[76] Ninetails / Ember / Flamethrower
+[76] Ninetails / Feint Attack / Flamethrower
+[66] Ninetails / Fire Spin / Heat Wave
+[58] Ninetails / Ember / Heat Wave
+[58] Ninetails / Feint Attack / Heat Wave

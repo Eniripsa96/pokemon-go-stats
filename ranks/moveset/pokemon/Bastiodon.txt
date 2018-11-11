@@ -1,0 +1,6 @@
+[100] Bastiodon / Iron Tail / Flash Cannon
+[100] Bastiodon / Iron Tail / Stone Edge
+[99] Bastiodon / Smack Down / Flash Cannon
+[99] Bastiodon / Smack Down / Stone Edge
+[93] Bastiodon / Iron Tail / Flamethrower
+[92] Bastiodon / Smack Down / Flamethrower

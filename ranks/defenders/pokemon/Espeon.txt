@@ -1,0 +1,8 @@
+[100] Espeon / Confusion / Last Resort
+[85] Espeon / Zen Headbutt / Last Resort
+[85] Espeon / Confusion / Psybeam
+[78] Espeon / Confusion / Future Sight
+[71] Espeon / Zen Headbutt / Psybeam
+[71] Espeon / Confusion / Psychic
+[64] Espeon / Zen Headbutt / Future Sight
+[57] Espeon / Zen Headbutt / Psychic

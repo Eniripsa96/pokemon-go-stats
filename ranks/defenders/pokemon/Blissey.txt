@@ -1,0 +1,6 @@
+[99] Blissey / Zen Headbutt / Dazzling Gleam
+[90] Blissey / Pound / Dazzling Gleam
+[80] Blissey / Zen Headbutt / Hyper Beam
+[71] Blissey / Pound / Hyper Beam
+[61] Blissey / Zen Headbutt / Psychic
+[51] Blissey / Pound / Psychic

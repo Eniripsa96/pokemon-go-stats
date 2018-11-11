@@ -1,0 +1,6 @@
+[100] Infernape / Rock Smash / Solarbeam
+[98] Infernape / Fire Spin / Solarbeam
+[84] Infernape / Rock Smash / Flamethrower
+[82] Infernape / Fire Spin / Flamethrower
+[68] Infernape / Rock Smash / Close Combat
+[66] Infernape / Fire Spin / Close Combat

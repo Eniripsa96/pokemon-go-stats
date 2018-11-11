@@ -1,0 +1,12 @@
+[2503] Magneton / Charge Beam / Discharge
+[2503] Magneton / Spark / Discharge
+[2503] Magneton / Thunder Shock / Discharge
+[2503] Magneton / Charge Beam / Flash Cannon
+[2503] Magneton / Spark / Flash Cannon
+[2503] Magneton / Thunder Shock / Flash Cannon
+[2503] Magneton / Charge Beam / Magnet Bomb
+[2503] Magneton / Spark / Magnet Bomb
+[2503] Magneton / Thunder Shock / Magnet Bomb
+[2503] Magneton / Charge Beam / Zap Cannon
+[2503] Magneton / Spark / Zap Cannon
+[2503] Magneton / Thunder Shock / Zap Cannon

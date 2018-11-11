@@ -1,0 +1,6 @@
+[2870] Electivire / Low Kick / Thunder
+[2870] Electivire / Thunder Shock / Thunder
+[2870] Electivire / Low Kick / Thunder Punch
+[2870] Electivire / Thunder Shock / Thunder Punch
+[2870] Electivire / Low Kick / Wild Charge
+[2870] Electivire / Thunder Shock / Wild Charge

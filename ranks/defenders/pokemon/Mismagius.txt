@@ -1,0 +1,6 @@
+[100] Mismagius / Hex / Dazzling Gleam
+[100] Mismagius / Hex / Shadow Ball
+[94] Mismagius / Sucker Punch / Dazzling Gleam
+[94] Mismagius / Sucker Punch / Shadow Ball
+[84] Mismagius / Hex / Dark Pulse
+[78] Mismagius / Sucker Punch / Dark Pulse

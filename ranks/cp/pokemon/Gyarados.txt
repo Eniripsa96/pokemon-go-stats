@@ -1,0 +1,20 @@
+[3290] Gyarados / Bite / Crunch
+[3290] Gyarados / Dragon Breath / Crunch
+[3290] Gyarados / Dragon Tail / Crunch
+[3290] Gyarados / Waterfall / Crunch
+[3290] Gyarados / Bite / Dragon Pulse
+[3290] Gyarados / Dragon Breath / Dragon Pulse
+[3290] Gyarados / Dragon Tail / Dragon Pulse
+[3290] Gyarados / Waterfall / Dragon Pulse
+[3290] Gyarados / Bite / Hydro Pump
+[3290] Gyarados / Dragon Breath / Hydro Pump
+[3290] Gyarados / Dragon Tail / Hydro Pump
+[3290] Gyarados / Waterfall / Hydro Pump
+[3290] Gyarados / Bite / Outrage
+[3290] Gyarados / Dragon Breath / Outrage
+[3290] Gyarados / Dragon Tail / Outrage
+[3290] Gyarados / Waterfall / Outrage
+[3290] Gyarados / Bite / Twister
+[3290] Gyarados / Dragon Breath / Twister
+[3290] Gyarados / Dragon Tail / Twister
+[3290] Gyarados / Waterfall / Twister

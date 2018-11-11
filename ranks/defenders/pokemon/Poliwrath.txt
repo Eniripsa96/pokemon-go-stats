@@ -1,0 +1,12 @@
+[100] Poliwrath / Rock Smash / Dynamic Punch
+[94] Poliwrath / Bubble / Dynamic Punch
+[88] Poliwrath / Rock Smash / Ice Punch
+[82] Poliwrath / Bubble / Ice Punch
+[80] Poliwrath / Mud Shot / Dynamic Punch
+[80] Poliwrath / Rock Smash / Hydro Pump
+[76] Poliwrath / Rock Smash / Submission
+[74] Poliwrath / Bubble / Hydro Pump
+[70] Poliwrath / Bubble / Submission
+[68] Poliwrath / Mud Shot / Ice Punch
+[60] Poliwrath / Mud Shot / Hydro Pump
+[56] Poliwrath / Mud Shot / Submission

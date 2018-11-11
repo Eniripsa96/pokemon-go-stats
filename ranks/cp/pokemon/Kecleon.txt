@@ -1,0 +1,12 @@
+[2219] Kecleon / Lick / Aerial Ace
+[2219] Kecleon / Sucker Punch / Aerial Ace
+[2219] Kecleon / Lick / Flamethrower
+[2219] Kecleon / Sucker Punch / Flamethrower
+[2219] Kecleon / Lick / Foul Play
+[2219] Kecleon / Sucker Punch / Foul Play
+[2219] Kecleon / Lick / Ice Beam
+[2219] Kecleon / Sucker Punch / Ice Beam
+[2219] Kecleon / Lick / Shadow Sneak
+[2219] Kecleon / Sucker Punch / Shadow Sneak
+[2219] Kecleon / Lick / Thunder
+[2219] Kecleon / Sucker Punch / Thunder

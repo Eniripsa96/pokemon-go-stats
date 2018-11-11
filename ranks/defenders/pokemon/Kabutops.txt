@@ -1,0 +1,9 @@
+[100] Kabutops / Rock Smash / Ancient Power
+[82] Kabutops / Mud Shot / Ancient Power
+[78] Kabutops / Fury Cutter / Ancient Power
+[75] Kabutops / Rock Smash / Water Pulse
+[61] Kabutops / Rock Smash / Stone Edge
+[57] Kabutops / Mud Shot / Water Pulse
+[54] Kabutops / Fury Cutter / Water Pulse
+[43] Kabutops / Mud Shot / Stone Edge
+[40] Kabutops / Fury Cutter / Stone Edge

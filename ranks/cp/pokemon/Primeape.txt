@@ -1,0 +1,12 @@
+[2117] Primeape / Counter / Close Combat
+[2117] Primeape / Karate Chop / Close Combat
+[2117] Primeape / Low Kick / Close Combat
+[2117] Primeape / Counter / Cross Chop
+[2117] Primeape / Karate Chop / Cross Chop
+[2117] Primeape / Low Kick / Cross Chop
+[2117] Primeape / Counter / Low Sweep
+[2117] Primeape / Karate Chop / Low Sweep
+[2117] Primeape / Low Kick / Low Sweep
+[2117] Primeape / Counter / Night Slash
+[2117] Primeape / Karate Chop / Night Slash
+[2117] Primeape / Low Kick / Night Slash

@@ -1,0 +1,6 @@
+[2532] Gastrodon / Hidden Power / Body Slam
+[2532] Gastrodon / Mud Slap / Body Slam
+[2532] Gastrodon / Hidden Power / Earthquake
+[2532] Gastrodon / Mud Slap / Earthquake
+[2532] Gastrodon / Hidden Power / Water Pulse
+[2532] Gastrodon / Mud Slap / Water Pulse

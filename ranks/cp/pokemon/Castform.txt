@@ -1,0 +1,6 @@
+[1616] Castform / Hex / Energy Ball
+[1616] Castform / Tackle / Energy Ball
+[1616] Castform / Hex / Hurricane
+[1616] Castform / Tackle / Hurricane
+[1616] Castform / Hex / Weather Ball Fire
+[1616] Castform / Tackle / Weather Ball Fire

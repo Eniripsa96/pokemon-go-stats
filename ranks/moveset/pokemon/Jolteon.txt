@@ -1,0 +1,8 @@
+[100] Jolteon / Thunder Shock / Thunderbolt
+[98] Jolteon / Thunder Shock / Discharge
+[93] Jolteon / Volt Switch / Thunderbolt
+[93] Jolteon / Volt Switch / Discharge
+[92] Jolteon / Thunder Shock / Last Resort
+[88] Jolteon / Thunder Shock / Thunder
+[87] Jolteon / Volt Switch / Last Resort
+[83] Jolteon / Volt Switch / Thunder

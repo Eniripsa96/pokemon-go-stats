@@ -1,0 +1,28 @@
+@import './colors';
+
+@mixin nav-highlighted-mixin() {
+  background: $secondary-brand-color;
+
+  a {
+    color: $navbar-link-active-color;
+    text-decoration: none;
+  }
+}
+
+@mixin navbar-mixin() {
+  padding: 0px 10px;
+
+  background: $primary-brand-color;
+  color: $navbar-text-color;
+  text-shadow: 1px 1px 1px $navbar-text-color-shadow;
+
+  a {
+    color: $navbar-link-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $navbar-link-active-color;
+      text-decoration: underline;
+    }
+  }
+}

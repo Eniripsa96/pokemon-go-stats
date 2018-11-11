@@ -1,0 +1,6 @@
+[100] Scizor / Bullet Punch / Night Slash
+[92] Scizor / Bullet Punch / X Scissor
+[84] Scizor / Bullet Punch / Iron Head
+[84] Scizor / Fury Cutter / Night Slash
+[76] Scizor / Fury Cutter / X Scissor
+[69] Scizor / Fury Cutter / Iron Head

@@ -1,0 +1,6 @@
+[100] Luvdisc / Water Gun / Water Pulse
+[97] Luvdisc / Water Gun / Aqua Jet
+[93] Luvdisc / Water Gun / Draining Kiss
+[63] Luvdisc / Splash / Water Pulse
+[61] Luvdisc / Splash / Aqua Jet
+[50] Luvdisc / Splash / Draining Kiss

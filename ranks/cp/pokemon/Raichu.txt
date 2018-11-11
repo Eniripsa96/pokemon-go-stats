@@ -1,0 +1,12 @@
+[1956] Raichu / Spark / Brick Break
+[1956] Raichu / Thunder Shock / Brick Break
+[1956] Raichu / Volt Switch / Brick Break
+[1956] Raichu / Spark / Thunder
+[1956] Raichu / Thunder Shock / Thunder
+[1956] Raichu / Volt Switch / Thunder
+[1956] Raichu / Spark / Thunder Punch
+[1956] Raichu / Thunder Shock / Thunder Punch
+[1956] Raichu / Volt Switch / Thunder Punch
+[1956] Raichu / Spark / Wild Charge
+[1956] Raichu / Thunder Shock / Wild Charge
+[1956] Raichu / Volt Switch / Wild Charge

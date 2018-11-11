@@ -1,0 +1,6 @@
+[100] Magmortar / Fire Spin / Fire Blast
+[96] Magmortar / Fire Spin / Fire Punch
+[91] Magmortar / Karate Chop / Fire Blast
+[90] Magmortar / Fire Spin / Brick Break
+[87] Magmortar / Karate Chop / Fire Punch
+[77] Magmortar / Karate Chop / Brick Break

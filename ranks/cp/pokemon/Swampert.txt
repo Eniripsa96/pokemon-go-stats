@@ -1,0 +1,6 @@
+[3051] Swampert / Mud Shot / Earthquake
+[3051] Swampert / Water Gun / Earthquake
+[3051] Swampert / Mud Shot / Sludge Wave
+[3051] Swampert / Water Gun / Sludge Wave
+[3051] Swampert / Mud Shot / Surf
+[3051] Swampert / Water Gun / Surf

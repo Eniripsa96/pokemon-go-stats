@@ -1,0 +1,6 @@
+[100] Octillery / Water Gun / Gunk Shot
+[95] Octillery / Water Gun / Water Pulse
+[90] Octillery / Water Gun / Aurora Beam
+[88] Octillery / Mud Shot / Gunk Shot
+[86] Octillery / Mud Shot / Water Pulse
+[80] Octillery / Mud Shot / Aurora Beam

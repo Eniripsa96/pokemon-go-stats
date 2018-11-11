@@ -1,0 +1,6 @@
+[3016] Magmortar / Fire Spin / Brick Break
+[3016] Magmortar / Karate Chop / Brick Break
+[3016] Magmortar / Fire Spin / Fire Blast
+[3016] Magmortar / Karate Chop / Fire Blast
+[3016] Magmortar / Fire Spin / Fire Punch
+[3016] Magmortar / Karate Chop / Fire Punch

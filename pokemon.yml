@@ -1,0 +1,4873 @@
+Beedrill: 
+  hp: 65
+  atk: 90
+  def: 40
+  spAtk: 45
+  spDef: 80
+  speed: 75
+  quickMoves: 
+  - 'Poison Jab'
+  - 'Bug Bite'
+  - 'Infestation'
+  chargeMoves: 
+  - 'Sludge Bomb'
+  - 'X Scissor'
+  - 'Aerial Ace'
+  types: 
+  - 'BUG'
+  - 'POISON'
+Meganium: 
+  hp: 80
+  atk: 82
+  def: 100
+  spAtk: 83
+  spDef: 100
+  speed: 80
+  quickMoves: 
+  - 'Razor Leaf'
+  - 'Vine Whip'
+  chargeMoves: 
+  - 'Petal Blizzard'
+  - 'Solarbeam'
+  - 'Earthquake'
+  - 'Frenzy Plant'
+  types: 
+  - 'GRASS'
+Solrock: 
+  hp: 90
+  atk: 95
+  def: 85
+  spAtk: 55
+  spDef: 65
+  speed: 70
+  quickMoves: 
+  - 'Rock Throw'
+  - 'Confusion'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Solarbeam'
+  - 'Rock Slide'
+  types: 
+  - 'ROCK'
+  - 'PSYCHIC'
+Lumineon: 
+  hp: 69
+  atk: 69
+  def: 76
+  spAtk: 69
+  spDef: 86
+  speed: 91
+  quickMoves: 
+  - 'Waterfall'
+  - 'Water Gun'
+  chargeMoves: 
+  - 'Water Pulse'
+  - 'Blizzard'
+  - 'Silver Wind'
+  types: 
+  - 'WATER'
+Banette: 
+  hp: 64
+  atk: 115
+  def: 65
+  spAtk: 83
+  spDef: 63
+  speed: 65
+  quickMoves: 
+  - 'Shadow Claw'
+  - 'Hex'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Shadow Ball'
+  - 'Dazzling Gleam'
+  types: 
+  - 'GHOST'
+Blaziken: 
+  hp: 80
+  atk: 120
+  def: 70
+  spAtk: 110
+  spDef: 70
+  speed: 80
+  quickMoves: 
+  - 'Fire Spin'
+  - 'Counter'
+  chargeMoves: 
+  - 'Focus Blast'
+  - 'Overheat'
+  - 'Brave Bird'
+  - 'Stone Edge'
+  types: 
+  - 'FIRE'
+  - 'FIGHTING'
+Gengar: 
+  hp: 60
+  atk: 65
+  def: 60
+  spAtk: 130
+  spDef: 75
+  speed: 110
+  quickMoves: 
+  - 'Shadow Claw'
+  - 'Hex'
+  - 'Sucker Punch'
+  chargeMoves: 
+  - 'Sludge Wave'
+  - 'Sludge Bomb'
+  - 'Shadow Ball'
+  - 'Focus Blast'
+  - 'Dark Pulse'
+  types: 
+  - 'GHOST'
+  - 'POISON'
+Seviper: 
+  hp: 73
+  atk: 100
+  def: 60
+  spAtk: 100
+  spDef: 60
+  speed: 65
+  quickMoves: 
+  - 'Poison Jab'
+  - 'Iron Tail'
+  chargeMoves: 
+  - 'Poison Fang'
+  - 'Crunch'
+  - 'Wrap'
+  types: 
+  - 'POISON'
+Gyarados: 
+  hp: 95
+  atk: 125
+  def: 79
+  spAtk: 60
+  spDef: 100
+  speed: 81
+  quickMoves: 
+  - 'Waterfall'
+  - 'Dragon Tail'
+  - 'Dragon Breath'
+  - 'Bite'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Outrage'
+  - 'Dragon Pulse'
+  - 'Crunch'
+  - 'Twister'
+  types: 
+  - 'WATER'
+  - 'FLYING'
+Manaphy: 
+  hp: 100
+  atk: 100
+  def: 100
+  spAtk: 100
+  spDef: 100
+  speed: 100
+  quickMoves: 
+  - 'Waterfall'
+  - 'Bubble'
+  chargeMoves: 
+  - 'Bubblebeam'
+  - 'Psychic'
+  - 'Surf'
+  types: 
+  - 'WATER'
+Snorlax: 
+  hp: 160
+  atk: 110
+  def: 65
+  spAtk: 65
+  spDef: 110
+  speed: 30
+  quickMoves: 
+  - 'Lick'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Heavy Slam'
+  - 'Earthquake'
+  - 'Body Slam'
+  types: 
+  - 'NORMAL'
+Lopunny: 
+  hp: 65
+  atk: 76
+  def: 83
+  spAtk: 54
+  spDef: 96
+  speed: 105
+  quickMoves: 
+  - 'Pound'
+  - 'Low Kick'
+  chargeMoves: 
+  - 'Fire Punch'
+  - 'Hyper Beam'
+  - 'Focus Blast'
+  types: 
+  - 'NORMAL'
+Cloyster: 
+  hp: 50
+  atk: 95
+  def: 180
+  spAtk: 85
+  spDef: 45
+  speed: 70
+  quickMoves: 
+  - 'Frost Breath'
+  - 'Ice Shard'
+  chargeMoves: 
+  - 'Blizzard'
+  - 'Hydro Pump'
+  - 'Avalanche'
+  - 'Aurora Beam'
+  - 'Icy Wind'
+  types: 
+  - 'WATER'
+  - 'ICE'
+Ariados: 
+  hp: 70
+  atk: 90
+  def: 70
+  spAtk: 60
+  spDef: 70
+  speed: 40
+  quickMoves: 
+  - 'Infestation'
+  - 'Poison Sting'
+  chargeMoves: 
+  - 'Megahorn'
+  - 'Cross Poison'
+  - 'Shadow Sneak'
+  types: 
+  - 'BUG'
+  - 'POISON'
+Grumpig: 
+  hp: 80
+  atk: 45
+  def: 65
+  spAtk: 90
+  spDef: 110
+  speed: 80
+  quickMoves: 
+  - 'Extrasensory'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Shadow Ball'
+  - 'Mirror Coat'
+  types: 
+  - 'PSYCHIC'
+Altaria: 
+  hp: 75
+  atk: 70
+  def: 90
+  spAtk: 70
+  spDef: 105
+  speed: 50
+  quickMoves: 
+  - 'Dragon Breath'
+  - 'Peck'
+  chargeMoves: 
+  - 'Sky Attack'
+  - 'Dragon Pulse'
+  - 'Dazzling Gleam'
+  types: 
+  - 'DRAGON'
+  - 'FLYING'
+Ninetails: 
+  hp: 73
+  atk: 76
+  def: 75
+  spAtk: 81
+  spDef: 100
+  speed: 100
+  quickMoves: 
+  - 'Fire Spin'
+  - 'Ember'
+  - 'Feint Attack'
+  chargeMoves: 
+  - 'Overheat'
+  - 'Fire Blast'
+  - 'Flamethrower'
+  - 'Heat Wave'
+  - 'Solarbeam'
+  types: 
+  - 'FIRE'
+Persian: 
+  hp: 65
+  atk: 70
+  def: 60
+  spAtk: 65
+  spDef: 65
+  speed: 115
+  quickMoves: 
+  - 'Scratch'
+  - 'Feint Attack'
+  chargeMoves: 
+  - 'Foul Play'
+  - 'Play Rough'
+  - 'Power Gem'
+  - 'Night Slash'
+  types: 
+  - 'NORMAL'
+Moltres: 
+  hp: 90
+  atk: 100
+  def: 90
+  spAtk: 125
+  spDef: 85
+  speed: 90
+  quickMoves: 
+  - 'Fire Spin'
+  - 'Ember'
+  chargeMoves: 
+  - 'Overheat'
+  - 'Fire Blast'
+  - 'Flamethrower'
+  - 'Heat Wave'
+  types: 
+  - 'FIRE'
+  - 'FLYING'
+Alakazam: 
+  hp: 55
+  atk: 50
+  def: 45
+  spAtk: 135
+  spDef: 95
+  speed: 120
+  quickMoves: 
+  - 'Confusion'
+  - 'Psycho Cut'
+  chargeMoves: 
+  - 'Future Sight'
+  - 'Psychic'
+  - 'Focus Blast'
+  - 'Shadow Ball'
+  - 'Dazzling Gleam'
+  types: 
+  - 'PSYCHIC'
+Alolan Persian: 
+  hp: 65
+  atk: 60
+  def: 60
+  spAtk: 75
+  spDef: 65
+  speed: 115
+  quickMoves: 
+  - 'Feint Attack'
+  - 'Scratch'
+  chargeMoves: 
+  - 'Foul Play'
+  - 'Dark Pulse'
+  - 'Play Rough'
+  types: 
+  - 'DARK'
+Sharpedo: 
+  hp: 70
+  atk: 120
+  def: 40
+  spAtk: 95
+  spDef: 40
+  speed: 95
+  quickMoves: 
+  - 'Waterfall'
+  - 'Bite'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Crunch'
+  - 'Poison Fang'
+  types: 
+  - 'WATER'
+  - 'DARK'
+Stantler: 
+  hp: 73
+  atk: 95
+  def: 62
+  spAtk: 85
+  spDef: 65
+  speed: 85
+  quickMoves: 
+  - 'Tackle'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Megahorn'
+  - 'Stomp'
+  - 'Wild Charge'
+  types: 
+  - 'NORMAL'
+Bronzong: 
+  hp: 67
+  atk: 89
+  def: 116
+  spAtk: 79
+  spDef: 116
+  speed: 33
+  quickMoves: 
+  - 'Feint Attack'
+  - 'Confusion'
+  chargeMoves: 
+  - 'Flash Cannon'
+  - 'Psychic'
+  - 'Heavy Slam'
+  types: 
+  - 'STEEL'
+  - 'PSYCHIC'
+Ninjask: 
+  hp: 61
+  atk: 90
+  def: 45
+  spAtk: 50
+  spDef: 50
+  speed: 160
+  quickMoves: 
+  - 'Metal Claw'
+  - 'Fury Cutter'
+  chargeMoves: 
+  - 'Shadow Ball'
+  - 'Bug Buzz'
+  - 'Aerial Ace'
+  types: 
+  - 'BUG'
+  - 'FLYING'
+Cacturne: 
+  hp: 70
+  atk: 115
+  def: 60
+  spAtk: 115
+  spDef: 60
+  speed: 55
+  quickMoves: 
+  - 'Sucker Punch'
+  - 'Poison Jab'
+  chargeMoves: 
+  - 'Grass Knot'
+  - 'Dynamic Punch'
+  - 'Dark Pulse'
+  types: 
+  - 'GRASS'
+  - 'DARK'
+Lickilicky: 
+  hp: 110
+  atk: 85
+  def: 95
+  spAtk: 80
+  spDef: 95
+  speed: 50
+  quickMoves: 
+  - 'Lick'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Earthquake'
+  - 'Solarbeam'
+  types: 
+  - 'NORMAL'
+Poliwrath: 
+  hp: 90
+  atk: 95
+  def: 95
+  spAtk: 70
+  spDef: 90
+  speed: 70
+  quickMoves: 
+  - 'Rock Smash'
+  - 'Bubble'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Dynamic Punch'
+  - 'Submission'
+  - 'Ice Punch'
+  types: 
+  - 'WATER'
+  - 'FIGHTING'
+Pinsir: 
+  hp: 65
+  atk: 125
+  def: 100
+  spAtk: 55
+  spDef: 70
+  speed: 85
+  quickMoves: 
+  - 'Rock Smash'
+  - 'Bug Bite'
+  - 'Fury Cutter'
+  chargeMoves: 
+  - 'Close Combat'
+  - 'X Scissor'
+  - 'Submission'
+  - 'Vice Grip'
+  types: 
+  - 'BUG'
+Nidoking: 
+  hp: 81
+  atk: 102
+  def: 77
+  spAtk: 85
+  spDef: 75
+  speed: 85
+  quickMoves: 
+  - 'Iron Tail'
+  - 'Poison Jab'
+  - 'Fury Cutter'
+  chargeMoves: 
+  - 'Megahorn'
+  - 'Sludge Wave'
+  - 'Earthquake'
+  types: 
+  - 'POISON'
+  - 'GROUND'
+Girafarig: 
+  hp: 70
+  atk: 80
+  def: 65
+  spAtk: 90
+  spDef: 65
+  speed: 85
+  quickMoves: 
+  - 'Confusion'
+  - 'Tackle'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Thunderbolt'
+  - 'Mirror Coat'
+  types: 
+  - 'NORMAL'
+  - 'PSYCHIC'
+Registeel: 
+  hp: 80
+  atk: 75
+  def: 150
+  spAtk: 75
+  spDef: 150
+  speed: 50
+  quickMoves: 
+  - 'Metal Claw'
+  - 'Rock Smash'
+  chargeMoves: 
+  - 'Flash Cannon'
+  - 'Focus Blast'
+  - 'Hyper Beam'
+  types: 
+  - 'STEEL'
+Cherrim: 
+  hp: 70
+  atk: 60
+  def: 70
+  spAtk: 87
+  spDef: 78
+  speed: 85
+  quickMoves: 
+  - 'Razor Leaf'
+  - 'Bullet Seed'
+  chargeMoves: 
+  - 'Power Whip'
+  - 'Hyper Beam'
+  - 'Solarbeam'
+  types: 
+  - 'GRASS'
+Honchkrow: 
+  hp: 100
+  atk: 125
+  def: 52
+  spAtk: 105
+  spDef: 52
+  speed: 71
+  quickMoves: 
+  - 'Peck'
+  - 'Snarl'
+  chargeMoves: 
+  - 'Brave Bird'
+  - 'Psychic'
+  - 'Dark Pulse'
+  types: 
+  - 'DARK'
+  - 'FLYING'
+Raichu: 
+  hp: 60
+  atk: 90
+  def: 55
+  spAtk: 90
+  spDef: 80
+  speed: 110
+  quickMoves: 
+  - 'Thunder Shock'
+  - 'Spark'
+  - 'Volt Switch'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Wild Charge'
+  - 'Thunder Punch'
+  - 'Brick Break'
+  types: 
+  - 'ELECTRIC'
+Azelf: 
+  hp: 75
+  atk: 125
+  def: 70
+  spAtk: 125
+  spDef: 70
+  speed: 115
+  quickMoves: 
+  - 'Confusion'
+  - 'Extrasensory'
+  chargeMoves: 
+  - 'Future Sight'
+  - 'Swift'
+  - 'Fire Blast'
+  types: 
+  - 'PSYCHIC'
+Dunsparce: 
+  hp: 100
+  atk: 70
+  def: 70
+  spAtk: 65
+  spDef: 65
+  speed: 45
+  quickMoves: 
+  - 'Bite'
+  - 'Astonish'
+  chargeMoves: 
+  - 'Rock Slide'
+  - 'Drill Run'
+  - 'Dig'
+  types: 
+  - 'NORMAL'
+Absol: 
+  hp: 65
+  atk: 130
+  def: 60
+  spAtk: 75
+  spDef: 60
+  speed: 75
+  quickMoves: 
+  - 'Snarl'
+  - 'Psycho Cut'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Megahorn'
+  - 'Dark Pulse'
+  types: 
+  - 'DARK'
+Vaporeon: 
+  hp: 130
+  atk: 65
+  def: 60
+  spAtk: 110
+  spDef: 95
+  speed: 65
+  quickMoves: 
+  - 'Water Gun'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Aqua Tail'
+  - 'Water Pulse'
+  - 'Last Resort'
+  types: 
+  - 'WATER'
+Porygon2: 
+  hp: 85
+  atk: 80
+  def: 90
+  spAtk: 105
+  spDef: 95
+  speed: 60
+  quickMoves: 
+  - 'Hidden Power'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Zap Cannon'
+  - 'Solarbeam'
+  types: 
+  - 'NORMAL'
+Sandslash: 
+  hp: 75
+  atk: 100
+  def: 110
+  spAtk: 45
+  spDef: 55
+  speed: 65
+  quickMoves: 
+  - 'Metal Claw'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Earthquake'
+  - 'Bulldoze'
+  - 'Rock Tomb'
+  types: 
+  - 'GROUND'
+Tauros: 
+  hp: 75
+  atk: 100
+  def: 95
+  spAtk: 40
+  spDef: 70
+  speed: 110
+  quickMoves: 
+  - 'Tackle'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Earthquake'
+  - 'Iron Head'
+  - 'Horn Attack'
+  types: 
+  - 'NORMAL'
+Noctowl: 
+  hp: 100
+  atk: 50
+  def: 50
+  spAtk: 86
+  spDef: 96
+  speed: 70
+  quickMoves: 
+  - 'Wing Attack'
+  - 'Extrasensory'
+  chargeMoves: 
+  - 'Sky Attack'
+  - 'Psychic'
+  - 'Night Shade'
+  types: 
+  - 'NORMAL'
+  - 'FLYING'
+Aggron: 
+  hp: 70
+  atk: 110
+  def: 180
+  spAtk: 60
+  spDef: 60
+  speed: 50
+  quickMoves: 
+  - 'Iron Tail'
+  - 'Dragon Tail'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Thunder'
+  - 'Heavy Slam'
+  types: 
+  - 'STEEL'
+  - 'ROCK'
+Celebi: 
+  hp: 100
+  atk: 100
+  def: 100
+  spAtk: 100
+  spDef: 100
+  speed: 100
+  quickMoves: 
+  - 'Confusion'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Hyper Beam'
+  - 'Dazzling Gleam'
+  types: 
+  - 'GRASS'
+  - 'PSYCHIC'
+Torkoal: 
+  hp: 70
+  atk: 85
+  def: 140
+  spAtk: 85
+  spDef: 70
+  speed: 20
+  quickMoves: 
+  - 'Fire Spin'
+  - 'Ember'
+  chargeMoves: 
+  - 'Overheat'
+  - 'Solarbeam'
+  - 'Earthquake'
+  types: 
+  - 'FIRE'
+Quagsire: 
+  hp: 95
+  atk: 85
+  def: 85
+  spAtk: 65
+  spDef: 65
+  speed: 35
+  quickMoves: 
+  - 'Water Gun'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Earthquake'
+  - 'Sludge Bomb'
+  types: 
+  - 'WATER'
+  - 'GROUND'
+Luvdisc: 
+  hp: 43
+  atk: 30
+  def: 55
+  spAtk: 40
+  spDef: 65
+  speed: 97
+  quickMoves: 
+  - 'Water Gun'
+  - 'Splash'
+  chargeMoves: 
+  - 'Water Pulse'
+  - 'Draining Kiss'
+  - 'Aqua Jet'
+  types: 
+  - 'WATER'
+Charizard: 
+  hp: 78
+  atk: 84
+  def: 78
+  spAtk: 109
+  spDef: 85
+  speed: 100
+  quickMoves: 
+  - 'Fire Spin'
+  - 'Air Slash'
+  - 'Ember'
+  - 'Wing Attack'
+  chargeMoves: 
+  - 'Overheat'
+  - 'Fire Blast'
+  - 'Flamethrower'
+  - 'Dragon Claw'
+  - 'Blast Burn'
+  types: 
+  - 'FIRE'
+  - 'FLYING'
+Wigglytuff: 
+  hp: 140
+  atk: 70
+  def: 45
+  spAtk: 85
+  spDef: 50
+  speed: 45
+  quickMoves: 
+  - 'Pound'
+  - 'Feint Attack'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Play Rough'
+  - 'Dazzling Gleam'
+  types: 
+  - 'NORMAL'
+  - 'FAIRY'
+Minun: 
+  hp: 60
+  atk: 40
+  def: 50
+  spAtk: 75
+  spDef: 85
+  speed: 95
+  quickMoves: 
+  - 'Quick Attack'
+  - 'Spark'
+  chargeMoves: 
+  - 'Thunderbolt'
+  - 'Discharge'
+  - 'Swift'
+  types: 
+  - 'ELECTRIC'
+Breloom: 
+  hp: 60
+  atk: 130
+  def: 80
+  spAtk: 60
+  spDef: 60
+  speed: 70
+  quickMoves: 
+  - 'Counter'
+  - 'Bullet Seed'
+  chargeMoves: 
+  - 'Dynamic Punch'
+  - 'Sludge Bomb'
+  - 'Seed Bomb'
+  types: 
+  - 'GRASS'
+  - 'FIGHTING'
+Starmie: 
+  hp: 60
+  atk: 75
+  def: 85
+  spAtk: 100
+  spDef: 85
+  speed: 115
+  quickMoves: 
+  - 'Water Gun'
+  - 'Tackle'
+  - 'Quick Attack'
+  - 'Hidden Power'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Psychic'
+  - 'Power Gem'
+  - 'Psybeam'
+  types: 
+  - 'WATER'
+  - 'PSYCHIC'
+Swampert: 
+  hp: 100
+  atk: 110
+  def: 90
+  spAtk: 85
+  spDef: 90
+  speed: 60
+  quickMoves: 
+  - 'Water Gun'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Surf'
+  - 'Earthquake'
+  - 'Sludge Wave'
+  types: 
+  - 'WATER'
+  - 'GROUND'
+Arbok: 
+  hp: 60
+  atk: 95
+  def: 69
+  spAtk: 65
+  spDef: 79
+  speed: 80
+  quickMoves: 
+  - 'Acid'
+  - 'Bite'
+  chargeMoves: 
+  - 'Gunk Shot'
+  - 'Sludge Wave'
+  - 'Dark Pulse'
+  types: 
+  - 'POISON'
+Alolan Ninetails: 
+  hp: 73
+  atk: 67
+  def: 75
+  spAtk: 81
+  spDef: 100
+  speed: 109
+  quickMoves: 
+  - 'Feint Attack'
+  - 'Powder Snow'
+  chargeMoves: 
+  - 'Blizzard'
+  - 'Dazzling Gleam'
+  - 'Ice Beam'
+  types: 
+  - 'ICE'
+  - 'FAIRY'
+Dugtrio: 
+  hp: 35
+  atk: 100
+  def: 50
+  spAtk: 50
+  spDef: 70
+  speed: 120
+  quickMoves: 
+  - 'Sucker Punch'
+  - 'Mud Slap'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Earthquake'
+  - 'Mud Bomb'
+  types: 
+  - 'GROUND'
+Ledian: 
+  hp: 55
+  atk: 35
+  def: 50
+  spAtk: 55
+  spDef: 110
+  speed: 85
+  quickMoves: 
+  - 'Bug Bite'
+  - 'Struggle Bug'
+  chargeMoves: 
+  - 'Bug Buzz'
+  - 'Aerial Ace'
+  - 'Silver Wind'
+  types: 
+  - 'BUG'
+  - 'FLYING'
+Ursaring: 
+  hp: 90
+  atk: 130
+  def: 75
+  spAtk: 75
+  spDef: 75
+  speed: 55
+  quickMoves: 
+  - 'Counter'
+  - 'Metal Claw'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Close Combat'
+  - 'Play Rough'
+  types: 
+  - 'NORMAL'
+Miltank: 
+  hp: 95
+  atk: 80
+  def: 105
+  spAtk: 40
+  spDef: 70
+  speed: 100
+  quickMoves: 
+  - 'Tackle'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Stomp'
+  - 'Body Slam'
+  - 'Gyro Ball'
+  types: 
+  - 'NORMAL'
+Slowking: 
+  hp: 95
+  atk: 75
+  def: 80
+  spAtk: 100
+  spDef: 110
+  speed: 30
+  quickMoves: 
+  - 'Confusion'
+  - 'Water Gun'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Blizzard'
+  - 'Fire Blast'
+  types: 
+  - 'WATER'
+  - 'PSYCHIC'
+Froslass: 
+  hp: 70
+  atk: 80
+  def: 70
+  spAtk: 80
+  spDef: 70
+  speed: 110
+  quickMoves: 
+  - 'Powder Snow'
+  - 'Hex'
+  chargeMoves: 
+  - 'Avalanche'
+  - 'Crunch'
+  - 'Shadow Ball'
+  types: 
+  - 'ICE'
+  - 'GHOST'
+Hypno: 
+  hp: 85
+  atk: 73
+  def: 70
+  spAtk: 73
+  spDef: 115
+  speed: 67
+  quickMoves: 
+  - 'Confusion'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Future Sight'
+  - 'Psychic'
+  - 'Focus Blast'
+  - 'Shadow Ball'
+  - 'Psyshock'
+  types: 
+  - 'PSYCHIC'
+Donphan: 
+  hp: 90
+  atk: 120
+  def: 120
+  spAtk: 60
+  spDef: 60
+  speed: 50
+  quickMoves: 
+  - 'Counter'
+  - 'Tackle'
+  chargeMoves: 
+  - 'Earthquake'
+  - 'Heavy Slam'
+  - 'Play Rough'
+  types: 
+  - 'GROUND'
+Slowbro: 
+  hp: 95
+  atk: 75
+  def: 110
+  spAtk: 100
+  spDef: 80
+  speed: 30
+  quickMoves: 
+  - 'Confusion'
+  - 'Water Gun'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Ice Beam'
+  - 'Water Pulse'
+  types: 
+  - 'WATER'
+  - 'PSYCHIC'
+Omastar: 
+  hp: 70
+  atk: 60
+  def: 125
+  spAtk: 115
+  spDef: 70
+  speed: 55
+  quickMoves: 
+  - 'Rock Throw'
+  - 'Water Gun'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Rock Slide'
+  - 'Rock Blast'
+  - 'Ancient Power'
+  types: 
+  - 'WATER'
+  - 'ROCK'
+Marowak: 
+  hp: 60
+  atk: 80
+  def: 110
+  spAtk: 50
+  spDef: 80
+  speed: 45
+  quickMoves: 
+  - 'Mud Slap'
+  - 'Rock Smash'
+  chargeMoves: 
+  - 'Earthquake'
+  - 'Bone Club'
+  - 'Dig'
+  types: 
+  - 'GROUND'
+Lucario: 
+  hp: 70
+  atk: 110
+  def: 70
+  spAtk: 115
+  spDef: 70
+  speed: 90
+  quickMoves: 
+  - 'Counter'
+  - 'Bullet Punch'
+  chargeMoves: 
+  - 'Flash Cannon'
+  - 'Shadow Ball'
+  - 'Close Combat'
+  types: 
+  - 'STEEL'
+  - 'FIGHTING'
+Regigigas: 
+  hp: 110
+  atk: 160
+  def: 110
+  spAtk: 80
+  spDef: 110
+  speed: 100
+  quickMoves: 
+  - 'Zen Headbutt'
+  - 'Rock Smash'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Avalanche'
+  - 'Heavy Slam'
+  types: 
+  - 'NORMAL'
+Delibird: 
+  hp: 45
+  atk: 55
+  def: 45
+  spAtk: 65
+  spDef: 45
+  speed: 75
+  quickMoves: 
+  - 'Ice Shard'
+  - 'Quick Attack'
+  chargeMoves: 
+  - 'Ice Punch'
+  - 'Aerial Ace'
+  - 'Icy Wind'
+  types: 
+  - 'ICE'
+  - 'FLYING'
+Clefable: 
+  hp: 95
+  atk: 70
+  def: 73
+  spAtk: 95
+  spDef: 90
+  speed: 60
+  quickMoves: 
+  - 'Pound'
+  - 'Zen Headbutt'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Moonblast'
+  - 'Psychic'
+  - 'Dazzling Gleam'
+  types: 
+  - 'FAIRY'
+Pelipper: 
+  hp: 60
+  atk: 50
+  def: 100
+  spAtk: 95
+  spDef: 70
+  speed: 65
+  quickMoves: 
+  - 'Wing Attack'
+  - 'Water Gun'
+  chargeMoves: 
+  - 'Hurricane'
+  - 'Hydro Pump'
+  - 'Blizzard'
+  types: 
+  - 'WATER'
+  - 'FLYING'
+Victreebel: 
+  hp: 80
+  atk: 105
+  def: 65
+  spAtk: 100
+  spDef: 70
+  speed: 70
+  quickMoves: 
+  - 'Razor Leaf'
+  - 'Acid'
+  chargeMoves: 
+  - 'Solarbeam'
+  - 'Sludge Bomb'
+  - 'Leaf Blade'
+  types: 
+  - 'GRASS'
+  - 'POISON'
+Alolan Muk: 
+  hp: 105
+  atk: 105
+  def: 75
+  spAtk: 65
+  spDef: 100
+  speed: 50
+  quickMoves: 
+  - 'Posion Jab'
+  - 'Bite'
+  chargeMoves: 
+  - 'Gunk Shot'
+  - 'Sludge Wave'
+  - 'Dark Pulse'
+  types: 
+  - 'POISON'
+  - 'DARK'
+Kingler: 
+  hp: 55
+  atk: 130
+  def: 115
+  spAtk: 50
+  spDef: 50
+  speed: 75
+  quickMoves: 
+  - 'Bubble'
+  - 'Metal Claw'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'X Scissor'
+  - 'Water Pulse'
+  - 'Vice Grip'
+  types: 
+  - 'WATER'
+Spiritomb: 
+  hp: 50
+  atk: 92
+  def: 108
+  spAtk: 92
+  spDef: 108
+  speed: 35
+  quickMoves: 
+  - 'Feint Attack'
+  - 'Sucker Punch'
+  chargeMoves: 
+  - 'Shadow Sneak'
+  - 'Ominous Wind'
+  - 'Shadow Ball'
+  types: 
+  - 'GHOST'
+  - 'DARK'
+Abomasnow: 
+  hp: 90
+  atk: 92
+  def: 75
+  spAtk: 92
+  spDef: 85
+  speed: 60
+  quickMoves: 
+  - 'Powder Snow'
+  - 'Razor Leaf'
+  chargeMoves: 
+  - 'Blizzard'
+  - 'Energy Ball'
+  - 'Outrage'
+  types: 
+  - 'GRASS'
+  - 'ICE'
+Tentacruel: 
+  hp: 80
+  atk: 70
+  def: 65
+  spAtk: 80
+  spDef: 120
+  speed: 100
+  quickMoves: 
+  - 'Poison Jab'
+  - 'Acid'
+  chargeMoves: 
+  - 'Blizzard'
+  - 'Hydro Pump'
+  - 'Sludge Wave'
+  types: 
+  - 'WATER'
+  - 'POISON'
+Furret: 
+  hp: 85
+  atk: 76
+  def: 64
+  spAtk: 45
+  spDef: 55
+  speed: 90
+  quickMoves: 
+  - 'Quick Attack'
+  - 'Sucker Punch'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Brick Break'
+  - 'Dig'
+  types: 
+  - 'NORMAL'
+Granbull: 
+  hp: 90
+  atk: 120
+  def: 75
+  spAtk: 60
+  spDef: 60
+  speed: 45
+  quickMoves: 
+  - 'Bite'
+  - 'Snarl'
+  chargeMoves: 
+  - 'Close Combat'
+  - 'Play Rough'
+  - 'Crunch'
+  types: 
+  - 'FAIRY'
+Feraligatr: 
+  hp: 85
+  atk: 105
+  def: 100
+  spAtk: 79
+  spDef: 83
+  speed: 78
+  quickMoves: 
+  - 'Waterfall'
+  - 'Water Gun'
+  - 'Bite'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Ice Beam'
+  - 'Crunch'
+  types: 
+  - 'WATER'
+Heracross: 
+  hp: 80
+  atk: 125
+  def: 75
+  spAtk: 40
+  spDef: 95
+  speed: 85
+  quickMoves: 
+  - 'Counter'
+  - 'Struggle Bug'
+  chargeMoves: 
+  - 'Close Combat'
+  - 'Megahorn'
+  - 'Earthquake'
+  types: 
+  - 'BUG'
+  - 'FIGHTING'
+Sableye: 
+  hp: 50
+  atk: 75
+  def: 75
+  spAtk: 65
+  spDef: 65
+  speed: 50
+  quickMoves: 
+  - 'Shadow Claw'
+  - 'Feint Attack'
+  chargeMoves: 
+  - 'Foul Play'
+  - 'Power Gem'
+  - 'Shadow Sneak'
+  types: 
+  - 'DARK'
+  - 'GHOST'
+Deoxys Attack Form: 
+  hp: 50
+  atk: 180
+  def: 20
+  spAtk: 180
+  spDef: 20
+  speed: 150
+  quickMoves: 
+  - 'Zen Headbutt'
+  - 'Poison Jab'
+  chargeMoves: 
+  - 'Zap Cannon'
+  - 'Dark Pulse'
+  - 'Psycho Boost'
+  types: 
+  - 'PSYCHIC'
+Shiftry: 
+  hp: 90
+  atk: 100
+  def: 60
+  spAtk: 90
+  spDef: 60
+  speed: 80
+  quickMoves: 
+  - 'Razor Leaf'
+  - 'Feint Attack'
+  chargeMoves: 
+  - 'Foul Play'
+  - 'Hurricane'
+  - 'Leaf Blade'
+  types: 
+  - 'GRASS'
+  - 'DARK'
+Mantine: 
+  hp: 85
+  atk: 40
+  def: 70
+  spAtk: 80
+  spDef: 140
+  speed: 70
+  quickMoves: 
+  - 'Wing Attack'
+  - 'Bubble'
+  chargeMoves: 
+  - 'Aerial Ace'
+  - 'Ice Beam'
+  - 'Water Pulse'
+  types: 
+  - 'WATER'
+  - 'FLYING'
+Blissey: 
+  hp: 255
+  atk: 10
+  def: 10
+  spAtk: 75
+  spDef: 135
+  speed: 55
+  quickMoves: 
+  - 'Pound'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Psychic'
+  - 'Dazzling Gleam'
+  types: 
+  - 'NORMAL'
+Espeon: 
+  hp: 65
+  atk: 65
+  def: 60
+  spAtk: 130
+  spDef: 95
+  speed: 110
+  quickMoves: 
+  - 'Confusion'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Future Sight'
+  - 'Psychic'
+  - 'Psybeam'
+  - 'Last Resort'
+  types: 
+  - 'PSYCHIC'
+Volbeat: 
+  hp: 65
+  atk: 73
+  def: 75
+  spAtk: 47
+  spDef: 85
+  speed: 85
+  quickMoves: 
+  - 'Struggle Bug'
+  - 'Tackle'
+  chargeMoves: 
+  - 'Thunderbolt'
+  - 'Signal Beam'
+  - 'Bug Buzz'
+  types: 
+  - 'BUG'
+Castform: 
+  hp: 70
+  atk: 70
+  def: 70
+  spAtk: 70
+  spDef: 70
+  speed: 70
+  quickMoves: 
+  - 'Tackle'
+  - 'Hex'
+  chargeMoves: 
+  - 'Hurricane'
+  - 'Weather Ball Fire'
+  - 'Energy Ball'
+  types: 
+  - 'NORMAL'
+Bastiodon: 
+  hp: 60
+  atk: 52
+  def: 168
+  spAtk: 47
+  spDef: 138
+  speed: 30
+  quickMoves: 
+  - 'Smack Down'
+  - 'Iron Tail'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Flamethrower'
+  - 'Flash Cannon'
+  types: 
+  - 'STEEL'
+  - 'ROCK'
+Snowy Castform: 
+  hp: 70
+  atk: 70
+  def: 70
+  spAtk: 70
+  spDef: 70
+  speed: 70
+  quickMoves: 
+  - 'Tackle'
+  - 'Powder Snow'
+  chargeMoves: 
+  - 'Blizzard'
+  - 'Weather Ball Ice'
+  - 'Ice Beam'
+  types: 
+  - 'ICE'
+Tropius: 
+  hp: 99
+  atk: 68
+  def: 83
+  spAtk: 72
+  spDef: 87
+  speed: 51
+  quickMoves: 
+  - 'Razor Leaf'
+  - 'Air Slash'
+  chargeMoves: 
+  - 'Leaf Blade'
+  - 'Stomp'
+  - 'Aerial Ace'
+  types: 
+  - 'GRASS'
+  - 'FLYING'
+Roserade: 
+  hp: 60
+  atk: 70
+  def: 65
+  spAtk: 125
+  spDef: 105
+  speed: 90
+  quickMoves: 
+  - 'Poison Jab'
+  - 'Razor Leaf'
+  chargeMoves: 
+  - 'Solarbeam'
+  - 'Sludge Bomb'
+  - 'Dazzling Gleam'
+  types: 
+  - 'GRASS'
+  - 'POISON'
+Spinda: 
+  hp: 60
+  atk: 60
+  def: 60
+  spAtk: 60
+  spDef: 60
+  speed: 60
+  quickMoves: 
+  - 'Sucker Punch'
+  - 'Psycho Cut'
+  chargeMoves: 
+  - 'Dig'
+  - 'Rock Tomb'
+  - 'Icy Wind'
+  types: 
+  - 'NORMAL'
+Electabuzz: 
+  hp: 65
+  atk: 83
+  def: 57
+  spAtk: 95
+  spDef: 85
+  speed: 105
+  quickMoves: 
+  - 'Low Kick'
+  - 'Thunder Shock'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Thunderbolt'
+  - 'Thunder Punch'
+  types: 
+  - 'ELECTRIC'
+Magmar: 
+  hp: 65
+  atk: 95
+  def: 57
+  spAtk: 100
+  spDef: 85
+  speed: 93
+  quickMoves: 
+  - 'Ember'
+  - 'Karate Chop'
+  chargeMoves: 
+  - 'Fire Blast'
+  - 'Flamethrower'
+  - 'Fire Punch'
+  types: 
+  - 'FIRE'
+Deoxys: 
+  hp: 50
+  atk: 150
+  def: 50
+  spAtk: 150
+  spDef: 50
+  speed: 150
+  quickMoves: 
+  - 'Zen Headbutt'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Thunderbolt'
+  - 'Psycho Boost'
+  types: 
+  - 'PSYCHIC'
+Pachirisu: 
+  hp: 60
+  atk: 45
+  def: 70
+  spAtk: 45
+  spDef: 90
+  speed: 95
+  quickMoves: 
+  - 'Spark'
+  - 'Volt Switch'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Thunderbolt'
+  - 'Thunder Punch'
+  types: 
+  - 'ELECTRIC'
+Dewgong: 
+  hp: 90
+  atk: 70
+  def: 80
+  spAtk: 70
+  spDef: 95
+  speed: 70
+  quickMoves: 
+  - 'Iron Tail'
+  - 'Frost Breath'
+  - 'Ice Shard'
+  chargeMoves: 
+  - 'Blizzard'
+  - 'Water Pulse'
+  - 'Aurora Beam'
+  - 'Icy Wind'
+  - 'Aqua Jet'
+  types: 
+  - 'WATER'
+  - 'ICE'
+Jolteon: 
+  hp: 65
+  atk: 65
+  def: 60
+  spAtk: 110
+  spDef: 95
+  speed: 130
+  quickMoves: 
+  - 'Volt Switch'
+  - 'Thunder Shock'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Thunderbolt'
+  - 'Discharge'
+  - 'Last Resort'
+  types: 
+  - 'ELECTRIC'
+Hariyama: 
+  hp: 144
+  atk: 120
+  def: 60
+  spAtk: 40
+  spDef: 60
+  speed: 50
+  quickMoves: 
+  - 'Counter'
+  - 'Bullet Punch'
+  chargeMoves: 
+  - 'Close Combat'
+  - 'Dynamic Punch'
+  - 'Heavy Slam'
+  types: 
+  - 'FIGHTING'
+Cradily: 
+  hp: 86
+  atk: 81
+  def: 97
+  spAtk: 81
+  spDef: 107
+  speed: 43
+  quickMoves: 
+  - 'Acid'
+  - 'Infestation'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Grass Knot'
+  - 'Bulldoze'
+  types: 
+  - 'GRASS'
+  - 'ROCK'
+Politoed: 
+  hp: 90
+  atk: 75
+  def: 75
+  spAtk: 90
+  spDef: 100
+  speed: 70
+  quickMoves: 
+  - 'Bubble'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Surf'
+  - 'Blizzard'
+  - 'Earthquake'
+  types: 
+  - 'WATER'
+Gardevoir: 
+  hp: 68
+  atk: 65
+  def: 65
+  spAtk: 125
+  spDef: 115
+  speed: 80
+  quickMoves: 
+  - 'Confusion'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Dazzling Gleam'
+  - 'Shadow Ball'
+  types: 
+  - 'PSYCHIC'
+  - 'FAIRY'
+Deoxys Defense Form: 
+  hp: 50
+  atk: 70
+  def: 160
+  spAtk: 70
+  spDef: 160
+  speed: 90
+  quickMoves: 
+  - 'Counter'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Zap Cannon'
+  - 'Rock Slide'
+  - 'Psycho Boost'
+  types: 
+  - 'PSYCHIC'
+Houndoom: 
+  hp: 75
+  atk: 90
+  def: 50
+  spAtk: 110
+  spDef: 80
+  speed: 95
+  quickMoves: 
+  - 'Fire Fang'
+  - 'Snarl'
+  chargeMoves: 
+  - 'Foul Play'
+  - 'Fire Blast'
+  - 'Crunch'
+  types: 
+  - 'DARK'
+  - 'FIRE'
+Toxicroak: 
+  hp: 83
+  atk: 106
+  def: 65
+  spAtk: 86
+  spDef: 65
+  speed: 85
+  quickMoves: 
+  - 'Poison Jab'
+  - 'Counter'
+  chargeMoves: 
+  - 'Dynamic Punch'
+  - 'Mud Bomb'
+  - 'Sludge Bomb'
+  types: 
+  - 'POISON'
+  - 'FIGHTING'
+Alolan Sandslash: 
+  hp: 75
+  atk: 100
+  def: 120
+  spAtk: 25
+  spDef: 65
+  speed: 65
+  quickMoves: 
+  - 'Metal Claw'
+  - 'Powder Snow'
+  chargeMoves: 
+  - 'Blizzard'
+  - 'Gyro Ball'
+  - 'Night Slash'
+  types: 
+  - 'ICE'
+  - 'STEEL'
+Gliscor: 
+  hp: 75
+  atk: 95
+  def: 125
+  spAtk: 45
+  spDef: 75
+  speed: 95
+  quickMoves: 
+  - 'Fury Cutter'
+  - 'Wing Attack'
+  chargeMoves: 
+  - 'Earthquake'
+  - 'Aerial Ace'
+  - 'Night Slash'
+  types: 
+  - 'GROUND'
+  - 'FLYING'
+Medicham: 
+  hp: 60
+  atk: 60
+  def: 75
+  spAtk: 60
+  spDef: 75
+  speed: 80
+  quickMoves: 
+  - 'Counter'
+  - 'Psycho Cut'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Dynamic Punch'
+  - 'Ice Punch'
+  types: 
+  - 'PSYCHIC'
+  - 'FIGHTING'
+Jirachi: 
+  hp: 100
+  atk: 100
+  def: 100
+  spAtk: 100
+  spDef: 100
+  speed: 100
+  quickMoves: 
+  - 'Confusion'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Doom Desire'
+  - 'Psychic'
+  - 'Dazzling Gleam'
+  types: 
+  - 'STEEL'
+  - 'PSYCHIC'
+Alolan Dugtrio: 
+  hp: 35
+  atk: 100
+  def: 60
+  spAtk: 50
+  spDef: 70
+  speed: 110
+  quickMoves: 
+  - 'Metal Claw'
+  - 'Mud Slap'
+  chargeMoves: 
+  - 'Earthquake'
+  - 'Iron Head'
+  - 'Mud Bomb'
+  types: 
+  - 'GROUND'
+  - 'STEEL'
+Typlosion: 
+  hp: 78
+  atk: 84
+  def: 78
+  spAtk: 109
+  spDef: 85
+  speed: 100
+  quickMoves: 
+  - 'Shadow Claw'
+  - 'Ember'
+  chargeMoves: 
+  - 'Overheat'
+  - 'Fire Blast'
+  - 'Solarbeam'
+  - 'Blast Burn'
+  types: 
+  - 'FIRE'
+Gallade: 
+  hp: 68
+  atk: 125
+  def: 65
+  spAtk: 65
+  spDef: 115
+  speed: 80
+  quickMoves: 
+  - 'Confusion'
+  - 'Low Kick'
+  chargeMoves: 
+  - 'Close Combat'
+  - 'Psychic'
+  - 'Leaf Blade'
+  types: 
+  - 'PSYCHIC'
+  - 'FIGHTING'
+Scizor: 
+  hp: 70
+  atk: 130
+  def: 100
+  spAtk: 55
+  spDef: 80
+  speed: 65
+  quickMoves: 
+  - 'Bullet Punch'
+  - 'Fury Cutter'
+  chargeMoves: 
+  - 'Iron Head'
+  - 'X Scissor'
+  - 'Night Slash'
+  types: 
+  - 'BUG'
+  - 'STEEL'
+Walrein: 
+  hp: 110
+  atk: 80
+  def: 90
+  spAtk: 95
+  spDef: 90
+  speed: 65
+  quickMoves: 
+  - 'Waterfall'
+  - 'Frost Breath'
+  chargeMoves: 
+  - 'Blizzard'
+  - 'Earthquake'
+  - 'Water Pulse'
+  types: 
+  - 'WATER'
+  - 'ICE'
+Uxie: 
+  hp: 75
+  atk: 75
+  def: 130
+  spAtk: 75
+  spDef: 130
+  speed: 95
+  quickMoves: 
+  - 'Confusion'
+  - 'Extrasensory'
+  chargeMoves: 
+  - 'Future Sight'
+  - 'Swift'
+  - 'Thunder'
+  types: 
+  - 'PSYCHIC'
+Mawile: 
+  hp: 50
+  atk: 85
+  def: 85
+  spAtk: 55
+  spDef: 55
+  speed: 50
+  quickMoves: 
+  - 'Bite'
+  - 'Astonish'
+  chargeMoves: 
+  - 'Play Rough'
+  - 'Iron Head'
+  - 'Vice Grip'
+  types: 
+  - 'STEEL'
+  - 'FAIRY'
+Rayquaza: 
+  hp: 105
+  atk: 150
+  def: 90
+  spAtk: 150
+  spDef: 90
+  speed: 95
+  quickMoves: 
+  - 'Dragon Tail'
+  - 'Air Slash'
+  chargeMoves: 
+  - 'Outrage'
+  - 'Aerial Ace'
+  - 'Ancient Power'
+  types: 
+  - 'DRAGON'
+  - 'FLYING'
+Wailord: 
+  hp: 170
+  atk: 90
+  def: 45
+  spAtk: 90
+  spDef: 45
+  speed: 60
+  quickMoves: 
+  - 'Water Gun'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Surf'
+  - 'Blizzard'
+  - 'Hyper Beam'
+  types: 
+  - 'WATER'
+Fearow: 
+  hp: 65
+  atk: 90
+  def: 65
+  spAtk: 61
+  spDef: 61
+  speed: 100
+  quickMoves: 
+  - 'Steel Wing'
+  - 'Peck'
+  chargeMoves: 
+  - 'Sky Attack'
+  - 'Drill Run'
+  - 'Aerial Ace'
+  - 'Twister'
+  types: 
+  - 'NORMAL'
+  - 'FLYING'
+Arcanine: 
+  hp: 90
+  atk: 110
+  def: 80
+  spAtk: 100
+  spDef: 80
+  speed: 95
+  quickMoves: 
+  - 'Fire Fang'
+  - 'Bite'
+  - 'Snarl'
+  chargeMoves: 
+  - 'Fire Blast'
+  - 'Flamethrower'
+  - 'Wild Charge'
+  - 'Bulldoze'
+  - 'Crunch'
+  types: 
+  - 'FIRE'
+Dialga: 
+  hp: 100
+  atk: 120
+  def: 120
+  spAtk: 150
+  spDef: 100
+  speed: 90
+  quickMoves: 
+  - 'Dragon Breath'
+  - 'Metal Claw'
+  chargeMoves: 
+  - 'Draco Meteor'
+  - 'Iron Head'
+  - 'Thunder'
+  types: 
+  - 'DRAGON'
+  - 'STEEL'
+Magneton: 
+  hp: 50
+  atk: 60
+  def: 95
+  spAtk: 120
+  spDef: 70
+  speed: 70
+  quickMoves: 
+  - 'Spark'
+  - 'Thunder Shock'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Zap Cannon'
+  - 'Flash Cannon'
+  - 'Discharge'
+  - 'Magnet Bomb'
+  types: 
+  - 'ELECTRIC'
+  - 'STEEL'
+Pidgeot: 
+  hp: 83
+  atk: 80
+  def: 75
+  spAtk: 70
+  spDef: 70
+  speed: 101
+  quickMoves: 
+  - 'Steel Wing'
+  - 'Air Slash'
+  - 'Wing Attack'
+  chargeMoves: 
+  - 'Brave Bird'
+  - 'Hurricane'
+  - 'Air Cutter'
+  - 'Aerial Ace'
+  types: 
+  - 'NORMAL'
+  - 'FLYING'
+Tangrowth: 
+  hp: 100
+  atk: 100
+  def: 125
+  spAtk: 110
+  spDef: 50
+  speed: 50
+  quickMoves: 
+  - 'Vine Whip'
+  - 'Infestation'
+  chargeMoves: 
+  - 'Ancient Power'
+  - 'Sludge Bomb'
+  - 'Solarbeam'
+  types: 
+  - 'GRASS'
+Kecleon: 
+  hp: 60
+  atk: 90
+  def: 70
+  spAtk: 60
+  spDef: 120
+  speed: 40
+  quickMoves: 
+  - 'Lick'
+  - 'Sucker Punch'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Foul Play'
+  - 'Flamethrower'
+  - 'Ice Beam'
+  - 'Aerial Ace'
+  - 'Shadow Sneak'
+  types: 
+  - 'NORMAL'
+Mismagius: 
+  hp: 60
+  atk: 60
+  def: 60
+  spAtk: 105
+  spDef: 105
+  speed: 105
+  quickMoves: 
+  - 'Sucker Punch'
+  - 'Hex'
+  chargeMoves: 
+  - 'Shadow Ball'
+  - 'Dark Pulse'
+  - 'Dazzling Gleam'
+  types: 
+  - 'GHOST'
+Palkia: 
+  hp: 90
+  atk: 120
+  def: 100
+  spAtk: 150
+  spDef: 120
+  speed: 100
+  quickMoves: 
+  - 'Dragon Breath'
+  - 'Dragon Tail'
+  chargeMoves: 
+  - 'Draco Meteor'
+  - 'Fire Blast'
+  - 'Hydro Pump'
+  types: 
+  - 'DRAGON'
+  - 'WATER'
+Venomoth: 
+  hp: 70
+  atk: 65
+  def: 60
+  spAtk: 90
+  spDef: 75
+  speed: 90
+  quickMoves: 
+  - 'Confusion'
+  - 'Bug Bite'
+  - 'Infestation'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Bug Buzz'
+  - 'Poison Fang'
+  - 'Silver Wind'
+  types: 
+  - 'BUG'
+  - 'POISON'
+Butterfree: 
+  hp: 60
+  atk: 45
+  def: 50
+  spAtk: 90
+  spDef: 80
+  speed: 70
+  quickMoves: 
+  - 'Bug Bite'
+  - 'Confusion'
+  - 'Struggle Bug'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Signal Beam'
+  - 'Bug Buzz'
+  types: 
+  - 'BUG'
+  - 'FLYING'
+Giratina: 
+  hp: 150
+  atk: 100
+  def: 120
+  spAtk: 100
+  spDef: 120
+  speed: 90
+  quickMoves: 
+  - 'Dragon Breath'
+  - 'Shadow Claw'
+  chargeMoves: 
+  - 'Dragon Claw'
+  - 'Ancient Power'
+  - 'Shadow Sneak'
+  types: 
+  - 'GHOST'
+  - 'DRAGON'
+Blastoise: 
+  hp: 79
+  atk: 83
+  def: 100
+  spAtk: 85
+  spDef: 105
+  speed: 78
+  quickMoves: 
+  - 'Bite'
+  - 'Water Gun'
+  chargeMoves: 
+  - 'Flash Cannon'
+  - 'Hydro Pump'
+  - 'Ice Beam'
+  - 'Hydro Cannon'
+  types: 
+  - 'WATER'
+Unown: 
+  hp: 48
+  atk: 72
+  def: 48
+  spAtk: 72
+  spDef: 48
+  speed: 48
+  quickMoves: 
+  - 'Hidden Power'
+  chargeMoves: 
+  - 'Struggle'
+  types: 
+  - 'PSYCHIC'
+Drifblim: 
+  hp: 150
+  atk: 80
+  def: 44
+  spAtk: 90
+  spDef: 54
+  speed: 80
+  quickMoves: 
+  - 'Hex'
+  - 'Astonish'
+  chargeMoves: 
+  - 'Ominous Wind'
+  - 'Icy Wind'
+  - 'Shadow Ball'
+  types: 
+  - 'GHOST'
+  - 'FLYING'
+Groudon: 
+  hp: 100
+  atk: 150
+  def: 140
+  spAtk: 100
+  spDef: 90
+  speed: 90
+  quickMoves: 
+  - 'Dragon Tail'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Earthquake'
+  - 'Solarbeam'
+  - 'Fire Blast'
+  types: 
+  - 'GROUND'
+Scyther: 
+  hp: 70
+  atk: 110
+  def: 80
+  spAtk: 55
+  spDef: 80
+  speed: 105
+  quickMoves: 
+  - 'Steel Wing'
+  - 'Air Slash'
+  - 'Fury Cutter'
+  chargeMoves: 
+  - 'X Scissor'
+  - 'Bug Buzz'
+  - 'Aerial Ace'
+  - 'Night Slash'
+  types: 
+  - 'BUG'
+  - 'FLYING'
+Bibarel: 
+  hp: 79
+  atk: 85
+  def: 60
+  spAtk: 55
+  spDef: 60
+  speed: 71
+  quickMoves: 
+  - 'Water Gun'
+  - 'Take Down'
+  chargeMoves: 
+  - 'Hyper Fang'
+  - 'Hyper Beam'
+  - 'Surf'
+  types: 
+  - 'NORMAL'
+  - 'WATER'
+Purugly: 
+  hp: 71
+  atk: 82
+  def: 64
+  spAtk: 64
+  spDef: 59
+  speed: 112
+  quickMoves: 
+  - 'Scratch'
+  - 'Shadow Claw'
+  chargeMoves: 
+  - 'Play Rough'
+  - 'Thunder'
+  - 'Aerial Ace'
+  types: 
+  - 'NORMAL'
+Aerodactyl: 
+  hp: 80
+  atk: 105
+  def: 65
+  spAtk: 60
+  spDef: 75
+  speed: 130
+  quickMoves: 
+  - 'Steel Wing'
+  - 'Bite'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Iron Head'
+  - 'Ancient Power'
+  types: 
+  - 'ROCK'
+  - 'FLYING'
+Hitmonchan: 
+  hp: 50
+  atk: 105
+  def: 70
+  spAtk: 35
+  spDef: 110
+  speed: 76
+  quickMoves: 
+  - 'Counter'
+  - 'Rock Smash'
+  - 'Bullet Punch'
+  chargeMoves: 
+  - 'Close Combat'
+  - 'Brick Break'
+  - 'Ice Punch'
+  - 'Thunder Punch'
+  - 'Fire Punch'
+  types: 
+  - 'FIGHTING'
+Garchomp: 
+  hp: 108
+  atk: 130
+  def: 95
+  spAtk: 80
+  spDef: 85
+  speed: 102
+  quickMoves: 
+  - 'Dragon Tail'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Outrage'
+  - 'Earthquake'
+  - 'Fire Blast'
+  types: 
+  - 'DRAGON'
+  - 'GROUND'
+Alolan Golem: 
+  hp: 80
+  atk: 120
+  def: 130
+  spAtk: 55
+  spDef: 65
+  speed: 45
+  quickMoves: 
+  - 'Rock Throw'
+  - 'Volt Switch'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Wild Charge'
+  - 'Rock Blast'
+  types: 
+  - 'ELECTRIC'
+  - 'ROCK'
+Alolan Marowak: 
+  hp: 60
+  atk: 80
+  def: 110
+  spAtk: 50
+  spDef: 80
+  speed: 45
+  quickMoves: 
+  - 'Rock Smash'
+  - 'Hex'
+  chargeMoves: 
+  - 'Shadow Ball'
+  - 'Fire Blast'
+  - 'Bone Club'
+  types: 
+  - 'GHOST'
+  - 'FIRE'
+Beautifly: 
+  hp: 60
+  atk: 70
+  def: 50
+  spAtk: 100
+  spDef: 50
+  speed: 65
+  quickMoves: 
+  - 'Struggle Bug'
+  - 'Infestation'
+  chargeMoves: 
+  - 'Bug Buzz'
+  - 'Air Cutter'
+  - 'Silver Wind'
+  types: 
+  - 'BUG'
+  - 'FLYING'
+Delcatty: 
+  hp: 70
+  atk: 65
+  def: 65
+  spAtk: 55
+  spDef: 55
+  speed: 90
+  quickMoves: 
+  - 'Zen Headbutt'
+  - 'Feint Attack'
+  chargeMoves: 
+  - 'Wild Charge'
+  - 'Play Rough'
+  - 'Disarming Voice'
+  types: 
+  - 'NORMAL'
+Kyogre: 
+  hp: 100
+  atk: 100
+  def: 90
+  spAtk: 150
+  spDef: 140
+  speed: 90
+  quickMoves: 
+  - 'Waterfall'
+  - 'Dragon Tail'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Blizzard'
+  - 'Thunder'
+  types: 
+  - 'WATER'
+Darkrai: 
+  hp: 70
+  atk: 90
+  def: 90
+  spAtk: 135
+  spDef: 90
+  speed: 125
+  quickMoves: 
+  - 'Snarl'
+  - 'Feint Attack'
+  chargeMoves: 
+  - 'Focus Blast'
+  - 'Shadow Ball'
+  - 'Dark Pulse'
+  types: 
+  - 'DARK'
+Flygon: 
+  hp: 80
+  atk: 100
+  def: 80
+  spAtk: 80
+  spDef: 80
+  speed: 100
+  quickMoves: 
+  - 'Dragon Tail'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Earthquake'
+  - 'Dragon Claw'
+  types: 
+  - 'DRAGON'
+  - 'GROUND'
+Entei: 
+  hp: 115
+  atk: 115
+  def: 85
+  spAtk: 90
+  spDef: 75
+  speed: 100
+  quickMoves: 
+  - 'Fire Fang'
+  - 'Fire Spin'
+  chargeMoves: 
+  - 'Overheat'
+  - 'Fire Blast'
+  - 'Flamethrower'
+  types: 
+  - 'FIRE'
+Glalie: 
+  hp: 80
+  atk: 80
+  def: 80
+  spAtk: 80
+  spDef: 80
+  speed: 80
+  quickMoves: 
+  - 'Frost Breath'
+  - 'Ice Shard'
+  chargeMoves: 
+  - 'Avalanche'
+  - 'Shadow Ball'
+  - 'Gyro Ball'
+  types: 
+  - 'ICE'
+Golduck: 
+  hp: 80
+  atk: 82
+  def: 78
+  spAtk: 95
+  spDef: 80
+  speed: 85
+  quickMoves: 
+  - 'Confusion'
+  - 'Water Gun'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Psychic'
+  - 'Ice Beam'
+  types: 
+  - 'WATER'
+Xatu: 
+  hp: 65
+  atk: 75
+  def: 70
+  spAtk: 95
+  spDef: 70
+  speed: 95
+  quickMoves: 
+  - 'Air Slash'
+  - 'Feint Attack'
+  chargeMoves: 
+  - 'Future Sight'
+  - 'Aerial Ace'
+  - 'Ominous Wind'
+  types: 
+  - 'PSYCHIC'
+  - 'FLYING'
+Skarmory: 
+  hp: 65
+  atk: 80
+  def: 140
+  spAtk: 40
+  spDef: 70
+  speed: 70
+  quickMoves: 
+  - 'Steel Wing'
+  - 'Air Slash'
+  chargeMoves: 
+  - 'Brave Bird'
+  - 'Flash Cannon'
+  - 'Sky Attack'
+  types: 
+  - 'STEEL'
+  - 'FLYING'
+Lunatone: 
+  hp: 90
+  atk: 55
+  def: 65
+  spAtk: 95
+  spDef: 85
+  speed: 70
+  quickMoves: 
+  - 'Rock Throw'
+  - 'Confusion'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Rock Slide'
+  - 'Moonblast'
+  types: 
+  - 'ROCK'
+  - 'PSYCHIC'
+Floatzel: 
+  hp: 85
+  atk: 105
+  def: 55
+  spAtk: 85
+  spDef: 50
+  speed: 115
+  quickMoves: 
+  - 'Water Gun'
+  - 'Waterfall'
+  chargeMoves: 
+  - 'Aqua Jet'
+  - 'Hydro Pump'
+  - 'Swift'
+  types: 
+  - 'WATER'
+Chimecho: 
+  hp: 75
+  atk: 50
+  def: 80
+  spAtk: 95
+  spDef: 90
+  speed: 65
+  quickMoves: 
+  - 'Extrasensory'
+  - 'Astonish'
+  chargeMoves: 
+  - 'Shadow Ball'
+  - 'Psyshock'
+  - 'Energy Ball'
+  types: 
+  - 'PSYCHIC'
+Skuntank: 
+  hp: 103
+  atk: 93
+  def: 67
+  spAtk: 71
+  spDef: 61
+  speed: 84
+  quickMoves: 
+  - 'Poison Jab'
+  - 'Bite'
+  chargeMoves: 
+  - 'Crunch'
+  - 'Flamethrower'
+  - 'Sludge Bomb'
+  types: 
+  - 'POISON'
+  - 'DARK'
+Hitmonlee: 
+  hp: 50
+  atk: 120
+  def: 53
+  spAtk: 35
+  spDef: 110
+  speed: 87
+  quickMoves: 
+  - 'Rock Smash'
+  - 'Low Kick'
+  chargeMoves: 
+  - 'Close Combat'
+  - 'Stone Edge'
+  - 'Stomp'
+  - 'Brick Break'
+  - 'Low Sweep'
+  types: 
+  - 'FIGHTING'
+Qwilfish: 
+  hp: 65
+  atk: 95
+  def: 85
+  spAtk: 55
+  spDef: 55
+  speed: 85
+  quickMoves: 
+  - 'Water Gun'
+  - 'Poison Sting'
+  chargeMoves: 
+  - 'Sludge Wave'
+  - 'Aqua Tail'
+  - 'Ice Beam'
+  types: 
+  - 'WATER'
+Exploud: 
+  hp: 104
+  atk: 91
+  def: 64
+  spAtk: 91
+  spDef: 73
+  speed: 68
+  quickMoves: 
+  - 'Bite'
+  - 'Astonish'
+  chargeMoves: 
+  - 'Fire Blast'
+  - 'Crunch'
+  - 'Disarming Voice'
+  types: 
+  - 'NORMAL'
+Machamp: 
+  hp: 90
+  atk: 130
+  def: 80
+  spAtk: 65
+  spDef: 85
+  speed: 55
+  quickMoves: 
+  - 'Counter'
+  - 'Karate Chop'
+  - 'Bullet Punch'
+  chargeMoves: 
+  - 'Close Combat'
+  - 'Stone Edge'
+  - 'Dynamic Punch'
+  - 'Cross Chop'
+  - 'Heavy Slam'
+  - 'Submission'
+  types: 
+  - 'FIGHTING'
+Rhydon: 
+  hp: 105
+  atk: 130
+  def: 120
+  spAtk: 45
+  spDef: 45
+  speed: 40
+  quickMoves: 
+  - 'Mud Slap'
+  - 'Rock Smash'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Megahorn'
+  - 'Earthquake'
+  - 'Surf'
+  types: 
+  - 'ROCK'
+  - 'GROUND'
+Crawdaunt: 
+  hp: 63
+  atk: 120
+  def: 85
+  spAtk: 90
+  spDef: 55
+  speed: 55
+  quickMoves: 
+  - 'Waterfall'
+  - 'Snarl'
+  chargeMoves: 
+  - 'Bubble Beam'
+  - 'Night Slash'
+  - 'Vice Grip'
+  types: 
+  - 'WATER'
+  - 'DARK'
+Gorebyss: 
+  hp: 55
+  atk: 84
+  def: 105
+  spAtk: 114
+  spDef: 75
+  speed: 52
+  quickMoves: 
+  - 'Confusion'
+  - 'Water Gun'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Water Pulse'
+  - 'Draining Kiss'
+  types: 
+  - 'WATER'
+Alolan Raichu: 
+  hp: 60
+  atk: 85
+  def: 50
+  spAtk: 95
+  spDef: 85
+  speed: 110
+  quickMoves: 
+  - 'Volt Switch'
+  - 'Spark'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Wild Charge'
+  - 'Thunder Punch'
+  types: 
+  - 'ELECTRIC'
+  - 'PSYCHIC'
+Shuckle: 
+  hp: 20
+  atk: 10
+  def: 230
+  spAtk: 10
+  spDef: 230
+  speed: 5
+  quickMoves: 
+  - 'Rock Throw'
+  - 'Struggle Bug'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Rock Blast'
+  - 'Gyro Ball'
+  types: 
+  - 'BUG'
+  - 'ROCK'
+Piloswine: 
+  hp: 100
+  atk: 100
+  def: 80
+  spAtk: 60
+  spDef: 60
+  speed: 50
+  quickMoves: 
+  - 'Ice Shard'
+  - 'Powder Snow'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Avalanche'
+  - 'Bulldoze'
+  types: 
+  - 'ICE'
+  - 'GROUND'
+Steelix: 
+  hp: 75
+  atk: 85
+  def: 200
+  spAtk: 55
+  spDef: 65
+  speed: 30
+  quickMoves: 
+  - 'Iron Tail'
+  - 'Dragon Tail'
+  chargeMoves: 
+  - 'Earthquake'
+  - 'Heavy Slam'
+  - 'Crunch'
+  types: 
+  - 'STEEL'
+  - 'GROUND'
+Octillery: 
+  hp: 75
+  atk: 105
+  def: 75
+  spAtk: 105
+  spDef: 75
+  speed: 45
+  quickMoves: 
+  - 'Water Gun'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Gunk Shot'
+  - 'Water Pulse'
+  - 'Aurora Beam'
+  types: 
+  - 'WATER'
+Raikou: 
+  hp: 90
+  atk: 85
+  def: 75
+  spAtk: 115
+  spDef: 100
+  speed: 115
+  quickMoves: 
+  - 'Volt Switch'
+  - 'Thunder Shock'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Wild Charge'
+  - 'Thunderbolt'
+  types: 
+  - 'ELECTRIC'
+Ambipom: 
+  hp: 75
+  atk: 100
+  def: 66
+  spAtk: 60
+  spDef: 66
+  speed: 115
+  quickMoves: 
+  - 'Scratch'
+  - 'Astonish'
+  chargeMoves: 
+  - 'Low Sweep'
+  - 'Hyper Beam'
+  - 'Aerial Ace'
+  types: 
+  - 'NORMAL'
+Seaking: 
+  hp: 80
+  atk: 92
+  def: 65
+  spAtk: 65
+  spDef: 80
+  speed: 68
+  quickMoves: 
+  - 'Waterfall'
+  - 'Poison Jab'
+  - 'Peck'
+  chargeMoves: 
+  - 'Megahorn'
+  - 'Drill Run'
+  - 'Ice Beam'
+  - 'Water Pulse'
+  - 'Icy Wind'
+  types: 
+  - 'WATER'
+Rainy Castform: 
+  hp: 70
+  atk: 70
+  def: 70
+  spAtk: 70
+  spDef: 70
+  speed: 70
+  quickMoves: 
+  - 'Water Gun'
+  - 'Tackle'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Weather Ball Water'
+  - 'Thunder'
+  types: 
+  - 'WATER'
+Farfetchd: 
+  hp: 52
+  atk: 90
+  def: 55
+  spAtk: 58
+  spDef: 62
+  speed: 60
+  quickMoves: 
+  - 'Air Slash'
+  - 'Cut'
+  - 'Fury Cutter'
+  chargeMoves: 
+  - 'Leaf Blade'
+  - 'Air Cutter'
+  - 'Aerial Ace'
+  types: 
+  - 'NORMAL'
+  - 'FLYING'
+Exeggutor: 
+  hp: 95
+  atk: 95
+  def: 85
+  spAtk: 125
+  spDef: 75
+  speed: 55
+  quickMoves: 
+  - 'Confusion'
+  - 'Zen Headbutt'
+  - 'Extrasensory'
+  - 'Bullet Seed'
+  chargeMoves: 
+  - 'Solarbeam'
+  - 'Psychic'
+  - 'Seed Bomb'
+  types: 
+  - 'GRASS'
+  - 'PSYCHIC'
+Togekiss: 
+  hp: 85
+  atk: 50
+  def: 95
+  spAtk: 120
+  spDef: 115
+  speed: 80
+  quickMoves: 
+  - 'Air Slash'
+  - 'Hidden Power'
+  chargeMoves: 
+  - 'Ancient Power'
+  - 'Dazzling Gleam'
+  - 'Aerial Ace'
+  types: 
+  - 'FAIRY'
+  - 'FLYING'
+Linoone: 
+  hp: 78
+  atk: 70
+  def: 61
+  spAtk: 50
+  spDef: 61
+  speed: 100
+  quickMoves: 
+  - 'Tackle'
+  - 'Shadow Claw'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Grass Knot'
+  - 'Dig'
+  types: 
+  - 'NORMAL'
+Kingdra: 
+  hp: 75
+  atk: 95
+  def: 95
+  spAtk: 95
+  spDef: 95
+  speed: 85
+  quickMoves: 
+  - 'Waterfall'
+  - 'Dragon Breath'
+  - 'Water Gun'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Blizzard'
+  - 'Outrage'
+  types: 
+  - 'WATER'
+  - 'DRAGON'
+Rhyperior: 
+  hp: 115
+  atk: 140
+  def: 130
+  spAtk: 55
+  spDef: 55
+  speed: 40
+  quickMoves: 
+  - 'Mud Slap'
+  - 'Smack Down'
+  chargeMoves: 
+  - 'Surf'
+  - 'Earthquake'
+  - 'Stone Edge'
+  types: 
+  - 'ROCK'
+  - 'GROUND'
+Wobbuffet: 
+  hp: 190
+  atk: 33
+  def: 58
+  spAtk: 33
+  spDef: 58
+  speed: 33
+  quickMoves: 
+  - 'Counter'
+  - 'Splash'
+  chargeMoves: 
+  - 'Mirror Coat'
+  types: 
+  - 'PSYCHIC'
+Regice: 
+  hp: 80
+  atk: 50
+  def: 100
+  spAtk: 100
+  spDef: 200
+  speed: 50
+  quickMoves: 
+  - 'Frost Breath'
+  - 'Rock Smash'
+  chargeMoves: 
+  - 'Blizzard'
+  - 'Focus Blast'
+  - 'Earthquake'
+  types: 
+  - 'ICE'
+Yanmega: 
+  hp: 86
+  atk: 76
+  def: 86
+  spAtk: 116
+  spDef: 56
+  speed: 95
+  quickMoves: 
+  - 'Bug Bite'
+  - 'Wing Attack'
+  chargeMoves: 
+  - 'Ancient Power'
+  - 'Aerial Ace'
+  - 'Bug Buzz'
+  types: 
+  - 'BUG'
+  - 'FLYING'
+Heatran: 
+  hp: 91
+  atk: 90
+  def: 106
+  spAtk: 130
+  spDef: 106
+  speed: 77
+  quickMoves: 
+  - 'Fire Spin'
+  - 'Bug Bite'
+  chargeMoves: 
+  - 'Fire Blast'
+  - 'Iron Head'
+  - 'Stone Edge'
+  types: 
+  - 'FIRE'
+  - 'STEEL'
+Swalot: 
+  hp: 100
+  atk: 73
+  def: 83
+  spAtk: 73
+  spDef: 83
+  speed: 55
+  quickMoves: 
+  - 'Rock Smash'
+  - 'Infestation'
+  chargeMoves: 
+  - 'Gunk Shot'
+  - 'Sludge Bomb'
+  - 'Ice Beam'
+  types: 
+  - 'POISON'
+Electivire: 
+  hp: 75
+  atk: 123
+  def: 67
+  spAtk: 95
+  spDef: 85
+  speed: 95
+  quickMoves: 
+  - 'Thunder Shock'
+  - 'Low Kick'
+  chargeMoves: 
+  - 'Thunder Punch'
+  - 'Wild Charge'
+  - 'Thunder'
+  types: 
+  - 'ELECTRIC'
+Mr Mime: 
+  hp: 40
+  atk: 45
+  def: 64
+  spAtk: 100
+  spDef: 120
+  speed: 90
+  quickMoves: 
+  - 'Confusion'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Shadow Ball'
+  - 'Psybeam'
+  types: 
+  - 'PSYCHIC'
+  - 'FAIRY'
+Luxray: 
+  hp: 80
+  atk: 120
+  def: 79
+  spAtk: 95
+  spDef: 79
+  speed: 70
+  quickMoves: 
+  - 'Spark'
+  - 'Snarl'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Wild Charge'
+  - 'Crunch'
+  types: 
+  - 'ELECTRIC'
+Dustox: 
+  hp: 60
+  atk: 50
+  def: 70
+  spAtk: 50
+  spDef: 90
+  speed: 65
+  quickMoves: 
+  - 'Confusion'
+  - 'Struggle Bug'
+  chargeMoves: 
+  - 'Sludge Bomb'
+  - 'Bug Buzz'
+  - 'Silver Wind'
+  types: 
+  - 'BUG'
+Dusknoir: 
+  hp: 45
+  atk: 100
+  def: 135
+  spAtk: 65
+  spDef: 135
+  speed: 45
+  quickMoves: 
+  - 'Hex'
+  - 'Astonish'
+  chargeMoves: 
+  - 'Ominous Wind'
+  - 'Psychic'
+  - 'Dark Pulse'
+  types: 
+  - 'GHOST'
+Primeape: 
+  hp: 65
+  atk: 105
+  def: 60
+  spAtk: 60
+  spDef: 70
+  speed: 95
+  quickMoves: 
+  - 'Counter'
+  - 'Karate Chop'
+  - 'Low Kick'
+  chargeMoves: 
+  - 'Close Combat'
+  - 'Cross Chop'
+  - 'Low Sweep'
+  - 'Night Slash'
+  types: 
+  - 'FIGHTING'
+Milotic: 
+  hp: 95
+  atk: 60
+  def: 79
+  spAtk: 100
+  spDef: 125
+  speed: 81
+  quickMoves: 
+  - 'Dragon Tail'
+  - 'Water Gun'
+  - 'Waterfall'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Blizzard'
+  - 'Surf'
+  types: 
+  - 'WATER'
+Swellow: 
+  hp: 60
+  atk: 85
+  def: 60
+  spAtk: 75
+  spDef: 50
+  speed: 125
+  quickMoves: 
+  - 'Steel Wing'
+  - 'Wing Attack'
+  chargeMoves: 
+  - 'Brave Bird'
+  - 'Sky Attack'
+  - 'Aerial Ace'
+  types: 
+  - 'NORMAL'
+  - 'FLYING'
+Infernape: 
+  hp: 76
+  atk: 104
+  def: 71
+  spAtk: 104
+  spDef: 71
+  speed: 108
+  quickMoves: 
+  - 'Fire Spin'
+  - 'Rock Smash'
+  chargeMoves: 
+  - 'Solarbeam'
+  - 'Flamethrower'
+  - 'Close Combat'
+  types: 
+  - 'FIRE'
+  - 'FIGHTING'
+Alolan Exeggutor: 
+  hp: 95
+  atk: 105
+  def: 85
+  spAtk: 125
+  spDef: 75
+  speed: 45
+  quickMoves: 
+  - 'Dragon Tail'
+  - 'Bullet Seed'
+  chargeMoves: 
+  - 'Solarbeam'
+  - 'Seed Bomb'
+  - 'Dragon Pulse'
+  types: 
+  - 'GRASS'
+  - 'DRAGON'
+Raticate: 
+  hp: 55
+  atk: 81
+  def: 60
+  spAtk: 50
+  spDef: 70
+  speed: 97
+  quickMoves: 
+  - 'Quick Attack'
+  - 'Bite'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Hyper Fang'
+  - 'Dig'
+  types: 
+  - 'NORMAL'
+Kabutops: 
+  hp: 60
+  atk: 115
+  def: 105
+  spAtk: 65
+  spDef: 70
+  speed: 80
+  quickMoves: 
+  - 'Rock Smash'
+  - 'Fury Cutter'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Water Pulse'
+  - 'Ancient Power'
+  types: 
+  - 'ROCK'
+  - 'WATER'
+Deoxys Speed Form: 
+  hp: 50
+  atk: 95
+  def: 90
+  spAtk: 95
+  spDef: 90
+  speed: 180
+  quickMoves: 
+  - 'Zen Headbutt'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Zap Cannon'
+  - 'Swift'
+  - 'Psycho Boost'
+  types: 
+  - 'PSYCHIC'
+Porygon-Z: 
+  hp: 85
+  atk: 80
+  def: 70
+  spAtk: 135
+  spDef: 75
+  speed: 90
+  quickMoves: 
+  - 'Hidden Power'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Solarbeam'
+  - 'Hyper Beam'
+  - 'Zap Cannon'
+  types: 
+  - 'NORMAL'
+Probopass: 
+  hp: 60
+  atk: 55
+  def: 145
+  spAtk: 75
+  spDef: 150
+  speed: 40
+  quickMoves: 
+  - 'Rock Throw'
+  - 'Spark'
+  chargeMoves: 
+  - 'Magnet Bomb'
+  - 'Rock Slide'
+  - 'Thunderbolt'
+  types: 
+  - 'ROCK'
+  - 'STEEL'
+Crobat: 
+  hp: 85
+  atk: 90
+  def: 80
+  spAtk: 70
+  spDef: 80
+  speed: 130
+  quickMoves: 
+  - 'Air Slash'
+  - 'Bite'
+  chargeMoves: 
+  - 'Sludge Bomb'
+  - 'Shadow Ball'
+  - 'Air Cutter'
+  types: 
+  - 'POISON'
+  - 'FLYING'
+Magnezone: 
+  hp: 70
+  atk: 70
+  def: 115
+  spAtk: 130
+  spDef: 90
+  speed: 60
+  quickMoves: 
+  - 'Spark'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Zap Cannon'
+  - 'Wild Charge'
+  - 'Flash Cannon'
+  types: 
+  - 'ELECTRIC'
+  - 'STEEL'
+Mothim: 
+  hp: 70
+  atk: 94
+  def: 50
+  spAtk: 94
+  spDef: 50
+  speed: 66
+  quickMoves: 
+  - 'Air Slash'
+  - 'Bug Bite'
+  chargeMoves: 
+  - 'Psybeam'
+  - 'Aerial Ace'
+  - 'Bug Buzz'
+  types: 
+  - 'BUG'
+  - 'FLYING'
+Sunflora: 
+  hp: 75
+  atk: 75
+  def: 55
+  spAtk: 105
+  spDef: 85
+  speed: 30
+  quickMoves: 
+  - 'Razor Leaf'
+  - 'Bullet Seed'
+  chargeMoves: 
+  - 'Petal Blizzard'
+  - 'Solarbeam'
+  - 'Sludge Bomb'
+  types: 
+  - 'GRASS'
+Relicanth: 
+  hp: 100
+  atk: 90
+  def: 130
+  spAtk: 45
+  spDef: 65
+  speed: 55
+  quickMoves: 
+  - 'Water Gun'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Aqua Tail'
+  - 'Ancient Power'
+  types: 
+  - 'WATER'
+  - 'ROCK'
+Jynx: 
+  hp: 65
+  atk: 50
+  def: 35
+  spAtk: 115
+  spDef: 95
+  speed: 95
+  quickMoves: 
+  - 'Confusion'
+  - 'Frost Breath'
+  - 'Pound'
+  chargeMoves: 
+  - 'Avalanche'
+  - 'Ice Punch'
+  - 'Psyshock'
+  - 'Draining Kiss'
+  types: 
+  - 'ICE'
+  - 'PSYCHIC'
+Shedinja: 
+  hp: 1
+  atk: 90
+  def: 45
+  spAtk: 30
+  spDef: 30
+  speed: 40
+  quickMoves: 
+  - 'Struggle Bug'
+  - 'Bite'
+  chargeMoves: 
+  - 'Aerial Ace'
+  - 'Dig'
+  - 'Shadow Sneak'
+  types: 
+  - 'BUG'
+  - 'GHOST'
+Rapidash: 
+  hp: 65
+  atk: 100
+  def: 70
+  spAtk: 80
+  spDef: 80
+  speed: 105
+  quickMoves: 
+  - 'Fire Spin'
+  - 'Ember'
+  - 'Low Kick'
+  chargeMoves: 
+  - 'Fire Blast'
+  - 'Heat Wave'
+  - 'Drill Run'
+  types: 
+  - 'FIRE'
+Ludicolo: 
+  hp: 80
+  atk: 70
+  def: 70
+  spAtk: 90
+  spDef: 100
+  speed: 70
+  quickMoves: 
+  - 'Razor Leaf'
+  - 'Bubble'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Solarbeam'
+  - 'Blizzard'
+  types: 
+  - 'GRASS'
+  - 'WATER'
+Hippowdon: 
+  hp: 108
+  atk: 112
+  def: 118
+  spAtk: 68
+  spDef: 72
+  speed: 47
+  quickMoves: 
+  - 'Fire Fang'
+  - 'Bite'
+  chargeMoves: 
+  - 'Earthquake'
+  - 'Stone Edge'
+  - 'Body Slam'
+  types: 
+  - 'GROUND'
+Zangoose: 
+  hp: 73
+  atk: 115
+  def: 60
+  spAtk: 60
+  spDef: 60
+  speed: 90
+  quickMoves: 
+  - 'Shadow Claw'
+  - 'Fury Cutter'
+  chargeMoves: 
+  - 'Close Combat'
+  - 'Night Slash'
+  - 'Dig'
+  types: 
+  - 'NORMAL'
+Empoleon: 
+  hp: 84
+  atk: 86
+  def: 88
+  spAtk: 111
+  spDef: 101
+  speed: 60
+  quickMoves: 
+  - 'Waterfall'
+  - 'Metal Claw'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Blizzard'
+  - 'Flash Cannon'
+  types: 
+  - 'WATER'
+  - 'STEEL'
+Onix: 
+  hp: 35
+  atk: 45
+  def: 160
+  spAtk: 30
+  spDef: 45
+  speed: 70
+  quickMoves: 
+  - 'Rock Throw'
+  - 'Tackle'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Rock Slide'
+  - 'Heavy Slam'
+  - 'Iron Head'
+  - 'Sand Tomb'
+  types: 
+  - 'ROCK'
+  - 'GROUND'
+Suicune: 
+  hp: 100
+  atk: 75
+  def: 115
+  spAtk: 90
+  spDef: 115
+  speed: 85
+  quickMoves: 
+  - 'Hidden Power'
+  - 'Snarl'
+  - 'Extrasensory'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Bubble Beam'
+  - 'Water Pulse'
+  types: 
+  - 'WATER'
+Lanturn: 
+  hp: 125
+  atk: 58
+  def: 58
+  spAtk: 76
+  spDef: 76
+  speed: 67
+  quickMoves: 
+  - 'Water Gun'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Hydro Pump'
+  - 'Thunderbolt'
+  types: 
+  - 'WATER'
+  - 'ELECTRIC'
+Lapras: 
+  hp: 130
+  atk: 85
+  def: 80
+  spAtk: 85
+  spDef: 95
+  speed: 60
+  quickMoves: 
+  - 'Frost Breath'
+  - 'Ice Shard'
+  - 'Water Gun'
+  chargeMoves: 
+  - 'Blizzard'
+  - 'Hydro Pump'
+  - 'Surf'
+  - 'Ice Beam'
+  - 'Dragon Pulse'
+  types: 
+  - 'WATER'
+  - 'ICE'
+Latias: 
+  hp: 80
+  atk: 80
+  def: 90
+  spAtk: 110
+  spDef: 130
+  speed: 110
+  quickMoves: 
+  - 'Dragon Breath'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Thunder'
+  - 'Outrage'
+  types: 
+  - 'DRAGON'
+  - 'PSYCHIC'
+Lickitung: 
+  hp: 90
+  atk: 55
+  def: 75
+  spAtk: 60
+  spDef: 75
+  speed: 30
+  quickMoves: 
+  - 'Zen Headbutt'
+  - 'Lick'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Stomp'
+  - 'Power Whip'
+  types: 
+  - 'NORMAL'
+Whiscash: 
+  hp: 110
+  atk: 78
+  def: 73
+  spAtk: 76
+  spDef: 71
+  speed: 60
+  quickMoves: 
+  - 'Water Gun'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Blizzard'
+  - 'Mud Bomb'
+  - 'Water Pulse'
+  types: 
+  - 'WATER'
+  - 'GROUND'
+Rotom: 
+  hp: 50
+  atk: 50
+  def: 77
+  spAtk: 95
+  spDef: 77
+  speed: 91
+  quickMoves: 
+  - 'Tackle'
+  - 'Thunder Shock'
+  chargeMoves: 
+  - 'Ominous Wind'
+  - 'Thunderbolt'
+  - 'Thunder'
+  types: 
+  - 'GHOST'
+  - 'ELECTRIC'
+Armaldo: 
+  hp: 75
+  atk: 125
+  def: 100
+  spAtk: 70
+  spDef: 80
+  speed: 45
+  quickMoves: 
+  - 'Struggle Bug'
+  - 'Fury Cutter'
+  chargeMoves: 
+  - 'Cross Poison'
+  - 'Water Pulse'
+  - 'Rock Blast'
+  types: 
+  - 'ROCK'
+  - 'BUG'
+Staraptor: 
+  hp: 85
+  atk: 120
+  def: 70
+  spAtk: 50
+  spDef: 60
+  speed: 100
+  quickMoves: 
+  - 'Wing Attack'
+  - 'Quick Attack'
+  chargeMoves: 
+  - 'Brave Bird'
+  - 'Heat Wave'
+  - 'Close Combat'
+  types: 
+  - 'NORMAL'
+  - 'FLYING'
+Huntail: 
+  hp: 55
+  atk: 104
+  def: 105
+  spAtk: 94
+  spDef: 75
+  speed: 52
+  quickMoves: 
+  - 'Water Gun'
+  - 'Bite'
+  chargeMoves: 
+  - 'Aqua Tail'
+  - 'Ice Beam'
+  - 'Crunch'
+  types: 
+  - 'WATER'
+Claydol: 
+  hp: 60
+  atk: 70
+  def: 105
+  spAtk: 70
+  spDef: 120
+  speed: 75
+  quickMoves: 
+  - 'Confusion'
+  - 'Extrasensory'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Earthquake'
+  - 'Gyro Ball'
+  types: 
+  - 'GROUND'
+  - 'PSYCHIC'
+Ampharos: 
+  hp: 90
+  atk: 75
+  def: 85
+  spAtk: 115
+  spDef: 90
+  speed: 55
+  quickMoves: 
+  - 'Volt Switch'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Zap Cannon'
+  - 'Focus Blast'
+  - 'Dragon Pulse'
+  types: 
+  - 'ELECTRIC'
+Forretress: 
+  hp: 75
+  atk: 90
+  def: 140
+  spAtk: 60
+  spDef: 60
+  speed: 40
+  quickMoves: 
+  - 'Struggle Bug'
+  - 'Bug Bite'
+  chargeMoves: 
+  - 'Heavy Slam'
+  - 'Earthquake'
+  - 'Rock Tomb'
+  types: 
+  - 'BUG'
+  - 'STEEL'
+Drapion: 
+  hp: 70
+  atk: 90
+  def: 110
+  spAtk: 60
+  spDef: 75
+  speed: 95
+  quickMoves: 
+  - 'Poison Sting'
+  - 'Infestation'
+  chargeMoves: 
+  - 'Crunch'
+  - 'Aqua Tail'
+  - 'Sludge Bomb'
+  types: 
+  - 'POISON'
+  - 'DARK'
+Tyranitar: 
+  hp: 100
+  atk: 134
+  def: 110
+  spAtk: 95
+  spDef: 100
+  speed: 61
+  quickMoves: 
+  - 'Iron Tail'
+  - 'Bite'
+  - 'Smack Down'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Fire Blast'
+  - 'Crunch'
+  types: 
+  - 'ROCK'
+  - 'DARK'
+Glaceon: 
+  hp: 65
+  atk: 60
+  def: 110
+  spAtk: 130
+  spDef: 95
+  speed: 65
+  quickMoves: 
+  - 'Ice Shard'
+  - 'Frost Breath'
+  chargeMoves: 
+  - 'Avalanche'
+  - 'Icy Wind'
+  - 'Ice Beam'
+  types: 
+  - 'ICE'
+Illumise: 
+  hp: 65
+  atk: 47
+  def: 75
+  spAtk: 73
+  spDef: 85
+  speed: 85
+  quickMoves: 
+  - 'Struggle Bug'
+  - 'Tackle'
+  chargeMoves: 
+  - 'Dazzling Gleam'
+  - 'Bug Buzz'
+  - 'Silver Wind'
+  types: 
+  - 'BUG'
+Ho-Oh: 
+  hp: 106
+  atk: 130
+  def: 90
+  spAtk: 110
+  spDef: 154
+  speed: 90
+  quickMoves: 
+  - 'Steel Wing'
+  - 'Extrasensory'
+  chargeMoves: 
+  - 'Brave Bird'
+  - 'Fire Blast'
+  - 'Solarbeam'
+  types: 
+  - 'FIRE'
+  - 'FLYING'
+Salamence: 
+  hp: 95
+  atk: 135
+  def: 80
+  spAtk: 110
+  spDef: 80
+  speed: 100
+  quickMoves: 
+  - 'Dragon Tail'
+  - 'Fire Fang'
+  chargeMoves: 
+  - 'Draco Meteor'
+  - 'Hydro Pump'
+  - 'Fire Blast'
+  types: 
+  - 'DRAGON'
+  - 'FLYING'
+Corsola: 
+  hp: 65
+  atk: 55
+  def: 95
+  spAtk: 65
+  spDef: 95
+  speed: 35
+  quickMoves: 
+  - 'Bubble'
+  - 'Tackle'
+  chargeMoves: 
+  - 'Power Gem'
+  - 'Bubble Beam'
+  - 'Rock Blast'
+  types: 
+  - 'WATER'
+  - 'ROCK'
+Gastrodon: 
+  hp: 111
+  atk: 83
+  def: 68
+  spAtk: 92
+  spDef: 82
+  speed: 39
+  quickMoves: 
+  - 'Mud Slap'
+  - 'Hidden Power'
+  chargeMoves: 
+  - 'Water Pulse'
+  - 'Earthquake'
+  - 'Body Slam'
+  types: 
+  - 'WATER'
+  - 'GROUND'
+Carnivine: 
+  hp: 74
+  atk: 100
+  def: 72
+  spAtk: 90
+  spDef: 72
+  speed: 46
+  quickMoves: 
+  - 'Bite'
+  - 'Vine Whip'
+  chargeMoves: 
+  - 'Power Whip'
+  - 'Energy Ball'
+  - 'Crunch'
+  types: 
+  - 'GRASS'
+Flareon: 
+  hp: 65
+  atk: 130
+  def: 60
+  spAtk: 95
+  spDef: 110
+  speed: 65
+  quickMoves: 
+  - 'Fire Spin'
+  - 'Ember'
+  chargeMoves: 
+  - 'Overheat'
+  - 'Fire Blast'
+  - 'Heat Wave'
+  - 'Flamethrower'
+  - 'Last Resort'
+  types: 
+  - 'FIRE'
+Lugia: 
+  hp: 106
+  atk: 90
+  def: 130
+  spAtk: 90
+  spDef: 154
+  speed: 110
+  quickMoves: 
+  - 'Dragon Tail'
+  - 'Extrasensory'
+  chargeMoves: 
+  - 'Future Sight'
+  - 'Sky Attack'
+  - 'Hydro Pump'
+  types: 
+  - 'FLYING'
+  - 'PSYCHIC'
+Kricketune: 
+  hp: 77
+  atk: 85
+  def: 51
+  spAtk: 55
+  spDef: 51
+  speed: 65
+  quickMoves: 
+  - 'Struggle Bug'
+  - 'Fury Cutter'
+  chargeMoves: 
+  - 'Bug Buzz'
+  - 'X Scissor'
+  - 'Aerial Ace'
+  types: 
+  - 'BUG'
+Magmortar: 
+  hp: 75
+  atk: 95
+  def: 67
+  spAtk: 125
+  spDef: 95
+  speed: 83
+  quickMoves: 
+  - 'Fire Spin'
+  - 'Karate Chop'
+  chargeMoves: 
+  - 'Brick Break'
+  - 'Fire Punch'
+  - 'Fire Blast'
+  types: 
+  - 'FIRE'
+Muk: 
+  hp: 105
+  atk: 105
+  def: 75
+  spAtk: 65
+  spDef: 100
+  speed: 50
+  quickMoves: 
+  - 'Poison Jab'
+  - 'Acid'
+  - 'Lick'
+  - 'Infestation'
+  chargeMoves: 
+  - 'Gunk Shot'
+  - 'Sludge Wave'
+  - 'Dark Pulse'
+  types: 
+  - 'POISON'
+Sceptile: 
+  hp: 70
+  atk: 85
+  def: 65
+  spAtk: 105
+  spDef: 85
+  speed: 120
+  quickMoves: 
+  - 'Bullet Seed'
+  - 'Fury Cutter'
+  chargeMoves: 
+  - 'Leaf Blade'
+  - 'Earthquake'
+  - 'Aerial Ace'
+  types: 
+  - 'GRASS'
+Zapdos: 
+  hp: 90
+  atk: 90
+  def: 85
+  spAtk: 125
+  spDef: 90
+  speed: 100
+  quickMoves: 
+  - 'Thunder Shock'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Zap Cannon'
+  - 'Thunderbolt'
+  - 'Discharge'
+  types: 
+  - 'ELECTRIC'
+  - 'FLYING'
+Magcargo: 
+  hp: 60
+  atk: 50
+  def: 120
+  spAtk: 90
+  spDef: 80
+  speed: 30
+  quickMoves: 
+  - 'Rock Throw'
+  - 'Ember'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Overheat'
+  - 'Heat Wave'
+  types: 
+  - 'FIRE'
+  - 'ROCK'
+Mewtwo: 
+  hp: 106
+  atk: 110
+  def: 90
+  spAtk: 154
+  spDef: 90
+  speed: 130
+  quickMoves: 
+  - 'Confusion'
+  - 'Psycho Cut'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Hyper Beam'
+  - 'Focus Blast'
+  - 'Shadow Ball'
+  types: 
+  - 'PSYCHIC'
+Arceus: 
+  hp: 120
+  atk: 120
+  def: 120
+  spAtk: 120
+  spDef: 120
+  speed: 120
+  quickMoves: 
+  - 'Iron Tail'
+  - 'Shadow Claw'
+  chargeMoves: 
+  - 'Future Sight'
+  - 'Hyper Beam'
+  - 'Outrage'
+  types: 
+  - 'NORMAL'
+Bellossom: 
+  hp: 75
+  atk: 80
+  def: 95
+  spAtk: 90
+  spDef: 100
+  speed: 50
+  quickMoves: 
+  - 'Razor Leaf'
+  - 'Acid'
+  chargeMoves: 
+  - 'Petal Blizzard'
+  - 'Leaf Blade'
+  - 'Dazzling Gleam'
+  types: 
+  - 'GRASS'
+Umbreon: 
+  hp: 95
+  atk: 65
+  def: 110
+  spAtk: 60
+  spDef: 130
+  speed: 65
+  quickMoves: 
+  - 'Snarl'
+  - 'Feint Attack'
+  chargeMoves: 
+  - 'Foul Play'
+  - 'Dark Pulse'
+  - 'Last Resort'
+  types: 
+  - 'DARK'
+Dodrio: 
+  hp: 60
+  atk: 110
+  def: 70
+  spAtk: 60
+  spDef: 60
+  speed: 110
+  quickMoves: 
+  - 'Steel Wing'
+  - 'Feint Attack'
+  chargeMoves: 
+  - 'Brave Bird'
+  - 'Drill Peck'
+  - 'Air Cutter'
+  - 'Aerial Ace'
+  types: 
+  - 'NORMAL'
+  - 'FLYING'
+Electrode: 
+  hp: 60
+  atk: 50
+  def: 70
+  spAtk: 80
+  spDef: 80
+  speed: 150
+  quickMoves: 
+  - 'Tackle'
+  - 'Volt Switch'
+  - 'Spark'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Thunderbolt'
+  - 'Discharge'
+  types: 
+  - 'ELECTRIC'
+Weavile: 
+  hp: 70
+  atk: 120
+  def: 65
+  spAtk: 45
+  spDef: 85
+  speed: 125
+  quickMoves: 
+  - 'Ice Shard'
+  - 'Feint Attack'
+  chargeMoves: 
+  - 'Avalanche'
+  - 'Focus Blast'
+  - 'Foul Play'
+  types: 
+  - 'ICE'
+  - 'DARK'
+Sudowoodo: 
+  hp: 70
+  atk: 100
+  def: 115
+  spAtk: 30
+  spDef: 65
+  speed: 30
+  quickMoves: 
+  - 'Rock Throw'
+  - 'Counter'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Rock Slide'
+  - 'Earthquake'
+  types: 
+  - 'ROCK'
+Plusle: 
+  hp: 60
+  atk: 50
+  def: 40
+  spAtk: 85
+  spDef: 75
+  speed: 95
+  quickMoves: 
+  - 'Quick Attack'
+  - 'Spark'
+  chargeMoves: 
+  - 'Thunderbolt'
+  - 'Discharge'
+  - 'Swift'
+  types: 
+  - 'ELECTRIC'
+Latios: 
+  hp: 80
+  atk: 90
+  def: 80
+  spAtk: 130
+  spDef: 110
+  speed: 110
+  quickMoves: 
+  - 'Dragon Breath'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Solarbeam'
+  - 'Dragon Claw'
+  types: 
+  - 'DRAGON'
+  - 'PSYCHIC'
+Hitmontop: 
+  hp: 50
+  atk: 95
+  def: 95
+  spAtk: 35
+  spDef: 110
+  speed: 70
+  quickMoves: 
+  - 'Counter'
+  - 'Rock Smash'
+  chargeMoves: 
+  - 'Close Combat'
+  - 'Stone Edge'
+  - 'Gyro Ball'
+  types: 
+  - 'FIGHTING'
+Weezing: 
+  hp: 65
+  atk: 90
+  def: 120
+  spAtk: 85
+  spDef: 70
+  speed: 60
+  quickMoves: 
+  - 'Acid'
+  - 'Infestation'
+  - 'Tackle'
+  chargeMoves: 
+  - 'Sludge Bomb'
+  - 'Shadow Ball'
+  - 'Dark Pulse'
+  types: 
+  - 'POISON'
+Rampardos: 
+  hp: 97
+  atk: 165
+  def: 60
+  spAtk: 65
+  spDef: 50
+  speed: 58
+  quickMoves: 
+  - 'Zen Headbutt'
+  - 'Smack Down'
+  chargeMoves: 
+  - 'Rock Slide'
+  - 'Outrage'
+  - 'Flamethrower'
+  types: 
+  - 'ROCK'
+Articuno: 
+  hp: 90
+  atk: 85
+  def: 100
+  spAtk: 95
+  spDef: 125
+  speed: 85
+  quickMoves: 
+  - 'Frost Breath'
+  chargeMoves: 
+  - 'Blizzard'
+  - 'Ice Beam'
+  - 'Icy Wind'
+  types: 
+  - 'ICE'
+  - 'FLYING'
+Venusaur: 
+  hp: 80
+  atk: 82
+  def: 83
+  spAtk: 100
+  spDef: 100
+  speed: 80
+  quickMoves: 
+  - 'Razor Leaf'
+  - 'Vine Whip'
+  chargeMoves: 
+  - 'Petal Blizzard'
+  - 'Solarbeam'
+  - 'Sludge Bomb'
+  - 'Frenzy Plant'
+  types: 
+  - 'GRASS'
+  - 'POISON'
+Alolan Raticate: 
+  hp: 75
+  atk: 71
+  def: 70
+  spAtk: 40
+  spDef: 80
+  speed: 77
+  quickMoves: 
+  - 'Bite'
+  - 'Quick Attack'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Hyper Fang'
+  - 'Crunch'
+  types: 
+  - 'DARK'
+  - 'NORMAL'
+Vileplume: 
+  hp: 75
+  atk: 80
+  def: 85
+  spAtk: 110
+  spDef: 90
+  speed: 50
+  quickMoves: 
+  - 'Razor Leaf'
+  - 'Acid'
+  chargeMoves: 
+  - 'Petal Blizzard'
+  - 'Solarbeam'
+  - 'Moonblast'
+  types: 
+  - 'GRASS'
+  - 'POISON'
+Kangaskhan: 
+  hp: 105
+  atk: 95
+  def: 80
+  spAtk: 40
+  spDef: 80
+  speed: 90
+  quickMoves: 
+  - 'Low Kick'
+  - 'Mud Slap'
+  chargeMoves: 
+  - 'Stomp'
+  - 'Earthquake'
+  - 'Outrage'
+  - 'Brick Break'
+  types: 
+  - 'NORMAL'
+Chansey: 
+  hp: 250
+  atk: 5
+  def: 5
+  spAtk: 35
+  spDef: 105
+  speed: 50
+  quickMoves: 
+  - 'Pound'
+  - 'Zen Headbutt'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Psychic'
+  - 'Dazzling Gleam'
+  - 'Psybeam'
+  types: 
+  - 'NORMAL'
+Mew: 
+  hp: 100
+  atk: 100
+  def: 100
+  spAtk: 100
+  spDef: 100
+  speed: 100
+  quickMoves: 
+  - 'Pound'
+  chargeMoves: 
+  - 'Psychic'
+  - 'Thunder'
+  - 'Blizzard'
+  - 'Hyper Beam'
+  - 'Focus Blast'
+  - 'Hurricane'
+  - 'Solarbeam'
+  - 'Moonblast'
+  - 'Fire Blast'
+  - 'Earthquake'
+  - 'Dragon Pulse'
+  types: 
+  - 'PSYCHIC'
+Regirock: 
+  hp: 80
+  atk: 100
+  def: 200
+  spAtk: 50
+  spDef: 100
+  speed: 50
+  quickMoves: 
+  - 'Rock Throw'
+  - 'Rock Smash'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Focus Blast'
+  - 'Zap Cannon'
+  types: 
+  - 'ROCK'
+Mesprit: 
+  hp: 80
+  atk: 105
+  def: 105
+  spAtk: 105
+  spDef: 105
+  speed: 80
+  quickMoves: 
+  - 'Confusion'
+  - 'Extrasensory'
+  chargeMoves: 
+  - 'Future Sight'
+  - 'Swift'
+  - 'Blizzard'
+  types: 
+  - 'PSYCHIC'
+Tangela: 
+  hp: 65
+  atk: 55
+  def: 115
+  spAtk: 100
+  spDef: 40
+  speed: 60
+  quickMoves: 
+  - 'Vine Whip'
+  - 'Infestation'
+  chargeMoves: 
+  - 'Solarbeam'
+  - 'Grass Knot'
+  - 'Power Whip'
+  - 'Sludge Bomb'
+  types: 
+  - 'GRASS'
+Azumarill: 
+  hp: 100
+  atk: 50
+  def: 80
+  spAtk: 60
+  spDef: 80
+  speed: 50
+  quickMoves: 
+  - 'Bubble'
+  - 'Rock Smash'
+  chargeMoves: 
+  - 'Hydro Pump'
+  - 'Play Rough'
+  - 'Ice Beam'
+  types: 
+  - 'WATER'
+  - 'FAIRY'
+Jumpluff: 
+  hp: 75
+  atk: 55
+  def: 70
+  spAtk: 55
+  spDef: 95
+  speed: 110
+  quickMoves: 
+  - 'Bullet Seed'
+  - 'Infestation'
+  chargeMoves: 
+  - 'Solarbeam'
+  - 'Dazzling Gleam'
+  - 'Energy Ball'
+  types: 
+  - 'GRASS'
+  - 'FLYING'
+Mightyena: 
+  hp: 70
+  atk: 90
+  def: 70
+  spAtk: 60
+  spDef: 60
+  speed: 70
+  quickMoves: 
+  - 'Bite'
+  - 'Fire Fang'
+  chargeMoves: 
+  - 'Play Rough'
+  - 'Crunch'
+  - 'Poison Fang'
+  types: 
+  - 'DARK'
+Cresselia: 
+  hp: 120
+  atk: 70
+  def: 120
+  spAtk: 75
+  spDef: 130
+  speed: 85
+  quickMoves: 
+  - 'Psycho Cut'
+  - 'Confusion'
+  chargeMoves: 
+  - 'Aurora Beam'
+  - 'Moonblast'
+  - 'Future Sight'
+  types: 
+  - 'PSYCHIC'
+Leafeon: 
+  hp: 65
+  atk: 110
+  def: 130
+  spAtk: 60
+  spDef: 65
+  speed: 95
+  quickMoves: 
+  - 'Razor Leaf'
+  - 'Quick Attack'
+  chargeMoves: 
+  - 'Solarbeam'
+  - 'Leaf Blade'
+  - 'Energy Ball'
+  types: 
+  - 'GRASS'
+Camerupt: 
+  hp: 70
+  atk: 100
+  def: 70
+  spAtk: 105
+  spDef: 75
+  speed: 40
+  quickMoves: 
+  - 'Rock Smash'
+  - 'Ember'
+  chargeMoves: 
+  - 'Overheat'
+  - 'Earthquake'
+  - 'Solarbeam'
+  types: 
+  - 'FIRE'
+  - 'GROUND'
+Chatot: 
+  hp: 76
+  atk: 65
+  def: 45
+  spAtk: 92
+  spDef: 42
+  speed: 91
+  quickMoves: 
+  - 'Peck'
+  - 'Steel Wing'
+  chargeMoves: 
+  - 'Night Shade'
+  - 'Sky Attack'
+  - 'Heat Wave'
+  types: 
+  - 'NORMAL'
+  - 'FLYING'
+Metagross: 
+  hp: 80
+  atk: 135
+  def: 130
+  spAtk: 95
+  spDef: 90
+  speed: 70
+  quickMoves: 
+  - 'Zen Headbutt'
+  - 'Bullet Punch'
+  chargeMoves: 
+  - 'Meteor Mash'
+  - 'Flash Cannon'
+  - 'Psychic'
+  - 'Earthquake'
+  types: 
+  - 'STEEL'
+  - 'PSYCHIC'
+Sunny Castform: 
+  hp: 70
+  atk: 70
+  def: 70
+  spAtk: 70
+  spDef: 70
+  speed: 70
+  quickMoves: 
+  - 'Ember'
+  - 'Tackle'
+  chargeMoves: 
+  - 'Weather Ball Fire'
+  - 'Fire Blast'
+  - 'Solarbeam'
+  types: 
+  - 'FIRE'
+Nidoqueen: 
+  hp: 90
+  atk: 92
+  def: 87
+  spAtk: 75
+  spDef: 85
+  speed: 76
+  quickMoves: 
+  - 'Poison Jab'
+  - 'Bite'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Sludge Wave'
+  - 'Earthquake'
+  types: 
+  - 'POISON'
+  - 'GROUND'
+Torterra: 
+  hp: 95
+  atk: 109
+  def: 105
+  spAtk: 75
+  spDef: 85
+  speed: 56
+  quickMoves: 
+  - 'Bite'
+  - 'Razor Leaf'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Solarbeam'
+  - 'Earthquake'
+  types: 
+  - 'GRASS'
+  - 'GROUND'
+Smeargle: 
+  hp: 55
+  atk: 20
+  def: 35
+  spAtk: 20
+  spDef: 45
+  speed: 75
+  quickMoves: 
+  - 'Tackle'
+  chargeMoves: 
+  - 'Struggle'
+  types: 
+  - 'NORMAL'
+Masquerain: 
+  hp: 70
+  atk: 60
+  def: 62
+  spAtk: 100
+  spDef: 82
+  speed: 80
+  quickMoves: 
+  - 'Air Slash'
+  - 'Infestation'
+  chargeMoves: 
+  - 'Air Cutter'
+  - 'Silver Wind'
+  - 'Ominous Wind'
+  types: 
+  - 'BUG'
+  - 'FLYING'
+Golem: 
+  hp: 80
+  atk: 120
+  def: 130
+  spAtk: 55
+  spDef: 65
+  speed: 45
+  quickMoves: 
+  - 'Rock Throw'
+  - 'Mud Slap'
+  - 'Mud Shot'
+  chargeMoves: 
+  - 'Stone Edge'
+  - 'Earthquake'
+  - 'Rock Blast'
+  - 'Ancient Power'
+  types: 
+  - 'ROCK'
+  - 'GROUND'
+Mamoswine: 
+  hp: 110
+  atk: 130
+  def: 80
+  spAtk: 70
+  spDef: 60
+  speed: 80
+  quickMoves: 
+  - 'Mud Slap'
+  - 'Powder Snow'
+  chargeMoves: 
+  - 'Avalanche'
+  - 'Bulldoze'
+  - 'Stone Edge'
+  types: 
+  - 'GROUND'
+  - 'ICE'
+Manectric: 
+  hp: 70
+  atk: 75
+  def: 60
+  spAtk: 105
+  spDef: 60
+  speed: 105
+  quickMoves: 
+  - 'Snarl'
+  - 'Charge Beam'
+  chargeMoves: 
+  - 'Thunder'
+  - 'Wild Charge'
+  - 'Flame Burst'
+  types: 
+  - 'ELECTRIC'
+Parasect: 
+  hp: 60
+  atk: 95
+  def: 80
+  spAtk: 60
+  spDef: 80
+  speed: 30
+  quickMoves: 
+  - 'Struggle Bug'
+  - 'Bug Bite'
+  - 'Fury Cutter'
+  chargeMoves: 
+  - 'Solarbeam'
+  - 'X Scissor'
+  - 'Cross Poison'
+  types: 
+  - 'GRASS'
+  - 'BUG'
+Dusclops: 
+  hp: 40
+  atk: 70
+  def: 130
+  spAtk: 60
+  spDef: 130
+  speed: 25
+  quickMoves: 
+  - 'Feint Attack'
+  - 'Hex'
+  chargeMoves: 
+  - 'Shadow Punch'
+  - 'Ice Punch'
+  - 'Fire Punch'
+  types: 
+  - 'GHOST'
+Dragonite: 
+  hp: 91
+  atk: 134
+  def: 95
+  spAtk: 100
+  spDef: 100
+  speed: 80
+  quickMoves: 
+  - 'Dragon Tail'
+  - 'Dragon Breath'
+  - 'Steel Wing'
+  chargeMoves: 
+  - 'Hurricane'
+  - 'Hyper Beam'
+  - 'Dragon Claw'
+  - 'Outrage'
+  - 'Dragon Pulse'
+  - 'Draco Meteor'
+  types: 
+  - 'DRAGON'
+  - 'FLYING'
+Vespiqueen: 
+  hp: 70
+  atk: 80
+  def: 102
+  spAtk: 80
+  spDef: 102
+  speed: 40
+  quickMoves: 
+  - 'Bug Bite'
+  - 'Poison Sting'
+  chargeMoves: 
+  - 'Bug Buzz'
+  - 'Power Gem'
+  - 'X Scissor'
+  types: 
+  - 'BUG'
+  - 'FLYING'
+Slaking: 
+  hp: 150
+  atk: 160
+  def: 100
+  spAtk: 95
+  spDef: 65
+  speed: 100
+  quickMoves: 
+  - 'Yawn'
+  chargeMoves: 
+  - 'Hyper Beam'
+  - 'Earthquake'
+  - 'Play Rough'
+  types: 
+  - 'NORMAL'

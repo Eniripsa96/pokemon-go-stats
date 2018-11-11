@@ -1,0 +1,6 @@
+[100] Victreebel / Razor Leaf / Leaf Blade
+[92] Victreebel / Acid / Leaf Blade
+[89] Victreebel / Razor Leaf / Solarbeam
+[81] Victreebel / Razor Leaf / Sludge Bomb
+[81] Victreebel / Acid / Solarbeam
+[74] Victreebel / Acid / Sludge Bomb

@@ -1,0 +1,9 @@
+[2778] Feraligatr / Bite / Crunch
+[2778] Feraligatr / Water Gun / Crunch
+[2778] Feraligatr / Waterfall / Crunch
+[2778] Feraligatr / Bite / Hydro Pump
+[2778] Feraligatr / Water Gun / Hydro Pump
+[2778] Feraligatr / Waterfall / Hydro Pump
+[2778] Feraligatr / Bite / Ice Beam
+[2778] Feraligatr / Water Gun / Ice Beam
+[2778] Feraligatr / Waterfall / Ice Beam

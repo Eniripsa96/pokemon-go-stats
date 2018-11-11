@@ -1,0 +1,6 @@
+[100] Steelix / Iron Tail / Heavy Slam
+[99] Steelix / Iron Tail / Earthquake
+[93] Steelix / Dragon Tail / Heavy Slam
+[92] Steelix / Dragon Tail / Earthquake
+[86] Steelix / Iron Tail / Crunch
+[79] Steelix / Dragon Tail / Crunch

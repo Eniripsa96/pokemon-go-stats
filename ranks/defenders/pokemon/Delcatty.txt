@@ -1,0 +1,6 @@
+[100] Delcatty / Zen Headbutt / Disarming Voice
+[96] Delcatty / Feint Attack / Disarming Voice
+[88] Delcatty / Zen Headbutt / Play Rough
+[88] Delcatty / Zen Headbutt / Wild Charge
+[85] Delcatty / Feint Attack / Play Rough
+[85] Delcatty / Feint Attack / Wild Charge

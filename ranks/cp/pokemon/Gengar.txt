@@ -1,0 +1,15 @@
+[2571] Gengar / Hex / Dark Pulse
+[2571] Gengar / Shadow Claw / Dark Pulse
+[2571] Gengar / Sucker Punch / Dark Pulse
+[2571] Gengar / Hex / Focus Blast
+[2571] Gengar / Shadow Claw / Focus Blast
+[2571] Gengar / Sucker Punch / Focus Blast
+[2571] Gengar / Hex / Shadow Ball
+[2571] Gengar / Shadow Claw / Shadow Ball
+[2571] Gengar / Sucker Punch / Shadow Ball
+[2571] Gengar / Hex / Sludge Bomb
+[2571] Gengar / Shadow Claw / Sludge Bomb
+[2571] Gengar / Sucker Punch / Sludge Bomb
+[2571] Gengar / Hex / Sludge Wave
+[2571] Gengar / Shadow Claw / Sludge Wave
+[2571] Gengar / Sucker Punch / Sludge Wave

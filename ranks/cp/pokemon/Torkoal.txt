@@ -1,0 +1,6 @@
+[2426] Torkoal / Ember / Earthquake
+[2426] Torkoal / Fire Spin / Earthquake
+[2426] Torkoal / Ember / Overheat
+[2426] Torkoal / Fire Spin / Overheat
+[2426] Torkoal / Ember / Solarbeam
+[2426] Torkoal / Fire Spin / Solarbeam

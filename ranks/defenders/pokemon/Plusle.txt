@@ -1,0 +1,6 @@
+[100] Plusle / Quick Attack / Discharge
+[95] Plusle / Spark / Discharge
+[85] Plusle / Quick Attack / Thunderbolt
+[80] Plusle / Spark / Thunderbolt
+[68] Plusle / Quick Attack / Swift
+[63] Plusle / Spark / Swift

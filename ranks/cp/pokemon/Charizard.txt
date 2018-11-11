@@ -1,0 +1,20 @@
+[2665] Charizard / Air Slash / Blast Burn
+[2665] Charizard / Ember / Blast Burn
+[2665] Charizard / Fire Spin / Blast Burn
+[2665] Charizard / Wing Attack / Blast Burn
+[2665] Charizard / Air Slash / Dragon Claw
+[2665] Charizard / Ember / Dragon Claw
+[2665] Charizard / Fire Spin / Dragon Claw
+[2665] Charizard / Wing Attack / Dragon Claw
+[2665] Charizard / Air Slash / Fire Blast
+[2665] Charizard / Ember / Fire Blast
+[2665] Charizard / Fire Spin / Fire Blast
+[2665] Charizard / Wing Attack / Fire Blast
+[2665] Charizard / Air Slash / Flamethrower
+[2665] Charizard / Ember / Flamethrower
+[2665] Charizard / Fire Spin / Flamethrower
+[2665] Charizard / Wing Attack / Flamethrower
+[2665] Charizard / Air Slash / Overheat
+[2665] Charizard / Ember / Overheat
+[2665] Charizard / Fire Spin / Overheat
+[2665] Charizard / Wing Attack / Overheat

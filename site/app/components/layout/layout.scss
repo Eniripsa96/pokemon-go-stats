@@ -1,0 +1,68 @@
+@import '~app/styles/colors';
+@import '~app/styles/typography';
+@import '~app/styles/utilities';
+@import '~app/styles/variables';
+
+html {
+  line-height: 1.55;
+}
+
+html, body, #root, #layout, #main {
+  margin: 0;
+  background: $primary-container-bg-color;
+}
+
+#layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#main {
+  display: flex;
+  flex: 1;
+
+  > div {
+    display: flex;
+    flex: 1;
+
+    main {
+      flex: 1;
+    }
+
+    article, aside, nav {
+      flex: 0 0 16em;
+    }
+
+    nav {
+      order: -1;
+    }
+
+    article, aside, main, nav {
+      padding: 0.75em;
+    }
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+}
+
+@media all and (max-width: $breakpoint-ipad) {
+  #layout {
+    min-height: unset;
+  }
+
+  #main {
+    flex-direction: column;
+
+    > div {
+      flex-direction: column;
+
+      article, aside, nav {
+        order: 0; // Return them to document order
+      }
+    }
+  }
+}

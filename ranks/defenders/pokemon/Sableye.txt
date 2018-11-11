@@ -1,0 +1,6 @@
+[100] Sableye / Feint Attack / Power Gem
+[97] Sableye / Shadow Claw / Power Gem
+[95] Sableye / Feint Attack / Shadow Sneak
+[92] Sableye / Shadow Claw / Shadow Sneak
+[90] Sableye / Feint Attack / Foul Play
+[88] Sableye / Shadow Claw / Foul Play

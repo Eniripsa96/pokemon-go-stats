@@ -1,0 +1,6 @@
+[100] Torkoal / Fire Spin / Solarbeam
+[92] Torkoal / Fire Spin / Overheat
+[92] Torkoal / Ember / Solarbeam
+[84] Torkoal / Ember / Overheat
+[76] Torkoal / Fire Spin / Earthquake
+[68] Torkoal / Ember / Earthquake

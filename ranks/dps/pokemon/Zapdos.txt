@@ -1,0 +1,8 @@
+[100] Zapdos / Thunder Shock / Thunderbolt
+[99] Zapdos / Thunder Shock / Zap Cannon
+[98] Zapdos / Thunder Shock / Discharge
+[97] Zapdos / Charge Beam / Thunderbolt
+[96] Zapdos / Charge Beam / Zap Cannon
+[96] Zapdos / Charge Beam / Discharge
+[88] Zapdos / Thunder Shock / Thunder
+[84] Zapdos / Charge Beam / Thunder

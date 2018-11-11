@@ -1,0 +1,6 @@
+[100] Rainy Castform / Tackle / Weather Ball Water
+[100] Rainy Castform / Water Gun / Weather Ball Water
+[75] Rainy Castform / Tackle / Hydro Pump
+[75] Rainy Castform / Water Gun / Hydro Pump
+[60] Rainy Castform / Tackle / Thunder
+[60] Rainy Castform / Water Gun / Thunder

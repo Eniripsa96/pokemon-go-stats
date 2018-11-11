@@ -1,0 +1,6 @@
+[100] Yanmega / Wing Attack / Ancient Power
+[93] Yanmega / Bug Bite / Ancient Power
+[88] Yanmega / Wing Attack / Bug Buzz
+[81] Yanmega / Wing Attack / Aerial Ace
+[81] Yanmega / Bug Bite / Bug Buzz
+[76] Yanmega / Bug Bite / Aerial Ace

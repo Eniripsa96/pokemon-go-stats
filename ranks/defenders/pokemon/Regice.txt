@@ -1,0 +1,6 @@
+[100] Regice / Rock Smash / Focus Blast
+[95] Regice / Rock Smash / Blizzard
+[90] Regice / Rock Smash / Earthquake
+[88] Regice / Frost Breath / Focus Blast
+[83] Regice / Frost Breath / Blizzard
+[79] Regice / Frost Breath / Earthquake

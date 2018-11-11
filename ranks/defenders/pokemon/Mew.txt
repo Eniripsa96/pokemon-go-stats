@@ -1,0 +1,11 @@
+[100] Mew / Pound / Dragon Pulse
+[100] Mew / Pound / Solarbeam
+[86] Mew / Pound / Hyper Beam
+[81] Mew / Pound / Fire Blast
+[81] Mew / Pound / Focus Blast
+[76] Mew / Pound / Blizzard
+[76] Mew / Pound / Moonblast
+[72] Mew / Pound / Earthquake
+[67] Mew / Pound / Hurricane
+[62] Mew / Pound / Psychic
+[62] Mew / Pound / Thunder

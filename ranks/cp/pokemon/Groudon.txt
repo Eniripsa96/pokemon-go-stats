@@ -1,0 +1,6 @@
+[4650] Groudon / Dragon Tail / Earthquake
+[4650] Groudon / Mud Shot / Earthquake
+[4650] Groudon / Dragon Tail / Fire Blast
+[4650] Groudon / Mud Shot / Fire Blast
+[4650] Groudon / Dragon Tail / Solarbeam
+[4650] Groudon / Mud Shot / Solarbeam

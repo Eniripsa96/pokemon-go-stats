@@ -1,0 +1,6 @@
+[1382] Medicham / Counter / Dynamic Punch
+[1382] Medicham / Psycho Cut / Dynamic Punch
+[1382] Medicham / Counter / Ice Punch
+[1382] Medicham / Psycho Cut / Ice Punch
+[1382] Medicham / Counter / Psychic
+[1382] Medicham / Psycho Cut / Psychic

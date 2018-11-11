@@ -1,0 +1,12 @@
+[100] Venomoth / Confusion / Silver Wind
+[90] Venomoth / Confusion / Bug Buzz
+[83] Venomoth / Infestation / Silver Wind
+[75] Venomoth / Bug Bite / Silver Wind
+[74] Venomoth / Infestation / Bug Buzz
+[66] Venomoth / Bug Bite / Bug Buzz
+[66] Venomoth / Confusion / Poison Fang
+[64] Venomoth / Confusion / Psychic
+[49] Venomoth / Infestation / Poison Fang
+[48] Venomoth / Infestation / Psychic
+[41] Venomoth / Bug Bite / Poison Fang
+[40] Venomoth / Bug Bite / Psychic

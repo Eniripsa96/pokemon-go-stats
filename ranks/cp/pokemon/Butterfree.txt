@@ -1,0 +1,9 @@
+[1811] Butterfree / Bug Bite / Bug Buzz
+[1811] Butterfree / Confusion / Bug Buzz
+[1811] Butterfree / Struggle Bug / Bug Buzz
+[1811] Butterfree / Bug Bite / Psychic
+[1811] Butterfree / Confusion / Psychic
+[1811] Butterfree / Struggle Bug / Psychic
+[1811] Butterfree / Bug Bite / Signal Beam
+[1811] Butterfree / Confusion / Signal Beam
+[1811] Butterfree / Struggle Bug / Signal Beam

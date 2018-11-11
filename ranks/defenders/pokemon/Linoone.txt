@@ -1,0 +1,6 @@
+[100] Linoone / Shadow Claw / Dig
+[91] Linoone / Tackle / Dig
+[91] Linoone / Shadow Claw / Grass Knot
+[83] Linoone / Tackle / Grass Knot
+[59] Linoone / Shadow Claw / Thunder
+[51] Linoone / Tackle / Thunder

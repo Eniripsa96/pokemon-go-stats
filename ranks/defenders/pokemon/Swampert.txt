@@ -1,0 +1,6 @@
+[100] Swampert / Mud Shot / Surf
+[100] Swampert / Water Gun / Surf
+[93] Swampert / Mud Shot / Earthquake
+[93] Swampert / Water Gun / Earthquake
+[87] Swampert / Mud Shot / Sludge Wave
+[87] Swampert / Water Gun / Sludge Wave

@@ -1,0 +1,4 @@
+[100] Vaporeon / Water Gun / Aqua Tail
+[92] Vaporeon / Water Gun / Hydro Pump
+[90] Vaporeon / Water Gun / Last Resort
+[78] Vaporeon / Water Gun / Water Pulse

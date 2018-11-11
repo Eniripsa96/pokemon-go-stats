@@ -1,0 +1,6 @@
+[2728] Vileplume / Acid / Moonblast
+[2728] Vileplume / Razor Leaf / Moonblast
+[2728] Vileplume / Acid / Petal Blizzard
+[2728] Vileplume / Razor Leaf / Petal Blizzard
+[2728] Vileplume / Acid / Solarbeam
+[2728] Vileplume / Razor Leaf / Solarbeam

@@ -1,0 +1,6 @@
+[2138] Electabuzz / Low Kick / Thunder
+[2138] Electabuzz / Thunder Shock / Thunder
+[2138] Electabuzz / Low Kick / Thunder Punch
+[2138] Electabuzz / Thunder Shock / Thunder Punch
+[2138] Electabuzz / Low Kick / Thunderbolt
+[2138] Electabuzz / Thunder Shock / Thunderbolt

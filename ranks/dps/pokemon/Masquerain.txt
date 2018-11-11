@@ -1,0 +1,6 @@
+[99] Masquerain / Infestation / Silver Wind
+[99] Masquerain / Air Slash / Silver Wind
+[97] Masquerain / Air Slash / Air Cutter
+[96] Masquerain / Infestation / Air Cutter
+[86] Masquerain / Air Slash / Ominous Wind
+[82] Masquerain / Infestation / Ominous Wind

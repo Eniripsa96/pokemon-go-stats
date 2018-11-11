@@ -1,0 +1,6 @@
+[2469] Forretress / Bug Bite / Earthquake
+[2469] Forretress / Struggle Bug / Earthquake
+[2469] Forretress / Bug Bite / Heavy Slam
+[2469] Forretress / Struggle Bug / Heavy Slam
+[2469] Forretress / Bug Bite / Rock Tomb
+[2469] Forretress / Struggle Bug / Rock Tomb

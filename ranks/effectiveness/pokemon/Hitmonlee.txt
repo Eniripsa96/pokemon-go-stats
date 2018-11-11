@@ -1,0 +1,10 @@
+[100] Hitmonlee / Low Kick / Brick Break
+[100] Hitmonlee / Low Kick / Low Sweep
+[99] Hitmonlee / Rock Smash / Brick Break
+[99] Hitmonlee / Rock Smash / Low Sweep
+[98] Hitmonlee / Low Kick / Close Combat
+[98] Hitmonlee / Rock Smash / Close Combat
+[93] Hitmonlee / Rock Smash / Stomp
+[92] Hitmonlee / Low Kick / Stomp
+[90] Hitmonlee / Rock Smash / Stone Edge
+[88] Hitmonlee / Low Kick / Stone Edge

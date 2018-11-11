@@ -1,0 +1,6 @@
+[2172] Pelipper / Water Gun / Blizzard
+[2172] Pelipper / Wing Attack / Blizzard
+[2172] Pelipper / Water Gun / Hurricane
+[2172] Pelipper / Wing Attack / Hurricane
+[2172] Pelipper / Water Gun / Hydro Pump
+[2172] Pelipper / Wing Attack / Hydro Pump

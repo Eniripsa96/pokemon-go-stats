@@ -1,0 +1,12 @@
+[100] Exeggutor / Confusion / Solarbeam
+[99] Exeggutor / Extrasensory / Solarbeam
+[93] Exeggutor / Bullet Seed / Solarbeam
+[93] Exeggutor / Zen Headbutt / Solarbeam
+[86] Exeggutor / Confusion / Psychic
+[83] Exeggutor / Extrasensory / Psychic
+[83] Exeggutor / Confusion / Seed Bomb
+[81] Exeggutor / Extrasensory / Seed Bomb
+[79] Exeggutor / Zen Headbutt / Psychic
+[78] Exeggutor / Zen Headbutt / Seed Bomb
+[75] Exeggutor / Bullet Seed / Seed Bomb
+[74] Exeggutor / Bullet Seed / Psychic

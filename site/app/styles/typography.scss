@@ -1,0 +1,27 @@
+@import './colors';
+@import './variables';
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+
+body {
+  font-family: 'Roboto', 'Noto Sans', sans-serif;
+}
+
+// set default font size for most common elements in main content area
+// TODO: need to get a complete list of common elements
+// TODO: https://developers.google.com/speed/docs/insights/UseLegibleFontSizes
+#main {
+  p, div, span, a, li {
+    font-size: $font-size-normal;
+  }
+
+  a {
+    color: $link-color-main;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #CFD8DC;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

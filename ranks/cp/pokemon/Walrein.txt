@@ -1,0 +1,6 @@
+[2795] Walrein / Frost Breath / Blizzard
+[2795] Walrein / Waterfall / Blizzard
+[2795] Walrein / Frost Breath / Earthquake
+[2795] Walrein / Waterfall / Earthquake
+[2795] Walrein / Frost Breath / Water Pulse
+[2795] Walrein / Waterfall / Water Pulse

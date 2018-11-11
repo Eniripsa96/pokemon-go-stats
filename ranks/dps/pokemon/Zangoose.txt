@@ -1,0 +1,6 @@
+[99] Zangoose / Shadow Claw / Close Combat
+[97] Zangoose / Shadow Claw / Dig
+[94] Zangoose / Fury Cutter / Close Combat
+[93] Zangoose / Fury Cutter / Dig
+[92] Zangoose / Shadow Claw / Night Slash
+[86] Zangoose / Fury Cutter / Night Slash

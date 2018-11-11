@@ -1,0 +1,6 @@
+[100] Kyogre / Waterfall / Hydro Pump
+[94] Kyogre / Dragon Tail / Hydro Pump
+[92] Kyogre / Waterfall / Blizzard
+[89] Kyogre / Waterfall / Thunder
+[85] Kyogre / Dragon Tail / Blizzard
+[81] Kyogre / Dragon Tail / Thunder

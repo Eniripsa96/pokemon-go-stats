@@ -1,0 +1,8 @@
+[100] Dodrio / Steel Wing / Drill Peck
+[97] Dodrio / Feint Attack / Drill Peck
+[93] Dodrio / Steel Wing / Aerial Ace
+[91] Dodrio / Feint Attack / Aerial Ace
+[74] Dodrio / Steel Wing / Air Cutter
+[72] Dodrio / Feint Attack / Air Cutter
+[61] Dodrio / Steel Wing / Brave Bird
+[59] Dodrio / Feint Attack / Brave Bird

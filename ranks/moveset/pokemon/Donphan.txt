@@ -1,0 +1,6 @@
+[100] Donphan / Counter / Play Rough
+[97] Donphan / Counter / Earthquake
+[92] Donphan / Tackle / Play Rough
+[88] Donphan / Tackle / Earthquake
+[87] Donphan / Counter / Heavy Slam
+[79] Donphan / Tackle / Heavy Slam

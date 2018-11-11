@@ -1,0 +1,10 @@
+[100] Hypno / Confusion / Future Sight
+[98] Hypno / Confusion / Psyshock
+[92] Hypno / Zen Headbutt / Psyshock
+[92] Hypno / Zen Headbutt / Future Sight
+[92] Hypno / Confusion / Psychic
+[89] Hypno / Confusion / Focus Blast
+[87] Hypno / Confusion / Shadow Ball
+[84] Hypno / Zen Headbutt / Psychic
+[82] Hypno / Zen Headbutt / Focus Blast
+[82] Hypno / Zen Headbutt / Shadow Ball

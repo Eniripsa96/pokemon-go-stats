@@ -1,0 +1,1074 @@
+Vice Grip: 
+  pow: 35
+  ms: 1900
+  eps: 17.37
+  bars: 3
+  type: 'NORMAL'
+Bug Bite: 
+  pow: 5
+  ms: 500
+  eps: 12.0
+  bars: 1
+  type: 'BUG'
+Shadow Sneak: 
+  pow: 50
+  ms: 2900
+  eps: 11.38
+  bars: 3
+  type: 'GHOST'
+Ancient Power: 
+  pow: 70
+  ms: 3500
+  eps: 9.43
+  bars: 3
+  type: 'ROCK'
+Flame Burst: 
+  pow: 70
+  ms: 2600
+  eps: 19.23
+  bars: 2
+  type: 'FIRE'
+Gyro Ball: 
+  pow: 80
+  ms: 3300
+  eps: 15.15
+  bars: 2
+  type: 'STEEL'
+Dazzling Gleam: 
+  pow: 100
+  ms: 3500
+  eps: 14.29
+  bars: 2
+  type: 'FAIRY'
+Brave Bird: 
+  pow: 90
+  ms: 2000
+  eps: 50.0
+  bars: 1
+  type: 'FLYING'
+Seed Bomb: 
+  pow: 55
+  ms: 2100
+  eps: 15.71
+  bars: 3
+  type: 'GRASS'
+Ice Shard: 
+  pow: 12
+  ms: 1200
+  eps: 10.0
+  bars: 1
+  type: 'ICE'
+Shadow Claw: 
+  pow: 9
+  ms: 700
+  eps: 8.57
+  bars: 1
+  type: 'GHOST'
+Future Sight: 
+  pow: 120
+  ms: 2700
+  eps: 37.04
+  bars: 1
+  type: 'PSYCHIC'
+Bullet Punch: 
+  pow: 9
+  ms: 900
+  eps: 11.11
+  bars: 1
+  type: 'STEEL'
+Takcl: 
+  pow: 5
+  ms: 500
+  eps: 10.0
+  bars: 1
+  type: 'NORMAL'
+Hex: 
+  pow: 10
+  ms: 1200
+  eps: 12.5
+  bars: 1
+  type: 'GHOST'
+Draco Meteor: 
+  pow: 150
+  ms: 3600
+  eps: 27.78
+  bars: 1
+  type: 'DRAGON'
+Sludge Bomb: 
+  pow: 80
+  ms: 2300
+  eps: 21.74
+  bars: 2
+  type: 'POISON'
+Metal Claw: 
+  pow: 8
+  ms: 700
+  eps: 10.0
+  bars: 1
+  type: 'STEEL'
+Struggle: 
+  pow: 35
+  ms: 2200
+  eps: 22.0
+  bars: 2
+  type: 'NORMAL'
+Struggle Bug: 
+  pow: 15
+  ms: 1500
+  eps: 10.0
+  bars: 1
+  type: 'BUG'
+Surf: 
+  pow: 65
+  ms: 1700
+  eps: 29.41
+  bars: 2
+  type: 'WATER'
+Gunk Shot: 
+  pow: 130
+  ms: 3100
+  eps: 32.26
+  bars: 1
+  type: 'POISON'
+Power Whip: 
+  pow: 90
+  ms: 2600
+  eps: 19.23
+  bars: 2
+  type: 'GRASS'
+Ember: 
+  pow: 10
+  ms: 1000
+  eps: 10.0
+  bars: 1
+  type: 'FIRE'
+Aerial Ace: 
+  pow: 55
+  ms: 2400
+  eps: 13.75
+  bars: 3
+  type: 'FLYING'
+Mud Bomb: 
+  pow: 55
+  ms: 2300
+  eps: 14.35
+  bars: 3
+  type: 'GROUND'
+Peck: 
+  pow: 10
+  ms: 1000
+  eps: 10.0
+  bars: 1
+  type: 'FLYING'
+Hurricane: 
+  pow: 110
+  ms: 2700
+  eps: 37.04
+  bars: 1
+  type: 'FLYING'
+Scratch: 
+  pow: 6
+  ms: 500
+  eps: 8.0
+  bars: 1
+  type: 'NORMAL'
+Drill Peck: 
+  pow: 60
+  ms: 2300
+  eps: 14.35
+  bars: 3
+  type: 'FLYING'
+Wild Charge: 
+  pow: 90
+  ms: 2600
+  eps: 19.23
+  bars: 2
+  type: 'ELECTRIC'
+Fire Blast: 
+  pow: 140
+  ms: 4200
+  eps: 23.81
+  bars: 1
+  type: 'FIRE'
+Fire Fang: 
+  pow: 11
+  ms: 900
+  eps: 8.89
+  bars: 1
+  type: 'FIRE'
+Bubble Beam: 
+  pow: 45
+  ms: 1900
+  eps: 17.37
+  bars: 3
+  type: 'WATER'
+Water Pulse: 
+  pow: 70
+  ms: 3200
+  eps: 15.63
+  bars: 2
+  type: 'WATER'
+Dragon Tail: 
+  pow: 15
+  ms: 1100
+  eps: 8.18
+  bars: 1
+  type: 'DRAGON'
+Hidden Power: 
+  pow: 15
+  ms: 1500
+  eps: 10.0
+  bars: 1
+  type: 'NORMAL'
+Icy Wind: 
+  pow: 60
+  ms: 3300
+  eps: 10.0
+  bars: 3
+  type: 'ICE'
+Petal Blizzard: 
+  pow: 110
+  ms: 2600
+  eps: 38.46
+  bars: 1
+  type: 'GRASS'
+Last Resort: 
+  pow: 90
+  ms: 2900
+  eps: 11.67
+  bars: 2
+  type: 'NORMAL'
+Body Slam: 
+  pow: 50
+  ms: 1900
+  eps: 17.37
+  bars: 3
+  type: 'NORMAL'
+Aqua Jet: 
+  pow: 45
+  ms: 2600
+  eps: 12.69
+  bars: 3
+  type: 'WATER'
+Smack Down: 
+  pow: 16
+  ms: 1200
+  eps: 6.67
+  bars: 1
+  type: 'ROCK'
+Aurora Beam: 
+  pow: 80
+  ms: 3500
+  eps: 14.08
+  bars: 2
+  type: 'ICE'
+Aqua Tail: 
+  pow: 50
+  ms: 1900
+  eps: 17.37
+  bars: 3
+  type: 'WATER'
+Thunder Punch: 
+  pow: 45
+  ms: 1800
+  eps: 18.33
+  bars: 3
+  type: 'ELECTRIC'
+Take Down: 
+  pow: 8
+  ms: 1200
+  eps: 8.33
+  bars: 1
+  type: 'NORMAL'
+Stone Edge: 
+  pow: 100
+  ms: 2300
+  eps: 43.5
+  bars: 1
+  type: 'ROCK'
+Cut: 
+  pow: 5
+  ms: 500
+  eps: 10.0
+  bars: 1
+  type: 'NORMAL'
+Heavy Slam: 
+  pow: 70
+  ms: 2100
+  eps: 23.81
+  bars: 2
+  type: 'STEEL'
+Thunderbolt: 
+  pow: 80
+  ms: 2500
+  eps: 20.0
+  bars: 2
+  type: 'ELECTRIC'
+Grass Knot: 
+  pow: 90
+  ms: 2600
+  eps: 19.23
+  bars: 2
+  type: 'GRASS'
+Vine Whip: 
+  pow: 7
+  ms: 600
+  eps: 10.0
+  bars: 1
+  type: 'GRASS'
+Focus Blast: 
+  pow: 140
+  ms: 3500
+  eps: 28.57
+  bars: 1
+  type: 'FIGHTING'
+Dragon Claw: 
+  pow: 50
+  ms: 1700
+  eps: 19.41
+  bars: 3
+  type: 'DRAGON'
+Low Kick: 
+  pow: 6
+  ms: 600
+  eps: 10.0
+  bars: 1
+  type: 'FIGHTING'
+Psybeam: 
+  pow: 70
+  ms: 3200
+  eps: 15.63
+  bars: 2
+  type: 'PSYCHIC'
+Quick Attack: 
+  pow: 8
+  ms: 800
+  eps: 12.5
+  bars: 1
+  type: 'NORMAL'
+Bulldoze: 
+  pow: 80
+  ms: 3500
+  eps: 14.29
+  bars: 2
+  type: 'GROUND'
+Spark: 
+  pow: 6
+  ms: 700
+  eps: 12.85
+  bars: 1
+  type: 'ELECTRIC'
+Zen Headbutt: 
+  pow: 12
+  ms: 1100
+  eps: 9.09
+  bars: 1
+  type: 'PSYCHIC'
+Bubble: 
+  pow: 12
+  ms: 1200
+  eps: 11.67
+  bars: 1
+  type: 'WATER'
+Overheat: 
+  pow: 160
+  ms: 4000
+  eps: 25.0
+  bars: 1
+  type: 'FIRE'
+Poison Fang: 
+  pow: 35
+  ms: 1700
+  eps: 19.41
+  bars: 3
+  type: 'POISON'
+Foul Play: 
+  pow: 70
+  ms: 2000
+  eps: 25.0
+  bars: 2
+  type: 'DARK'
+Waterfall: 
+  pow: 16
+  ms: 1200
+  eps: 6.67
+  bars: 1
+  type: 'WATER'
+Meteor Mash: 
+  pow: 100
+  ms: 2600
+  eps: 19.2
+  bars: 2
+  type: 'STEEL'
+Fury Cutter: 
+  pow: 3
+  ms: 400
+  eps: 15.0
+  bars: 1
+  type: 'BUG'
+Karate Chop: 
+  pow: 8
+  ms: 800
+  eps: 12.5
+  bars: 1
+  type: 'FIGHTING'
+Horn Attack: 
+  pow: 40
+  ms: 1850
+  eps: 17.84
+  bars: 3
+  type: 'NORMAL'
+Blizzard: 
+  pow: 130
+  ms: 3100
+  eps: 32.26
+  bars: 1
+  type: 'ICE'
+Zap Cannon: 
+  pow: 140
+  ms: 3700
+  eps: 27.03
+  bars: 1
+  type: 'ELECTRIC'
+Mud Shot: 
+  pow: 5
+  ms: 600
+  eps: 11.67
+  bars: 1
+  type: 'GROUND'
+Dragon Pulse: 
+  pow: 90
+  ms: 3600
+  eps: 13.89
+  bars: 2
+  type: 'DRAGON'
+Blast Burn: 
+  pow: 110
+  ms: 3300
+  eps: 27.03
+  bars: 2
+  type: 'FIRE'
+Dragon Breath: 
+  pow: 6
+  ms: 500
+  eps: 8.0
+  bars: 1
+  type: 'DRAGON'
+Iron Tail: 
+  pow: 15
+  ms: 1100
+  eps: 6.36
+  bars: 1
+  type: 'STEEL'
+Moonblast: 
+  pow: 130
+  ms: 3900
+  eps: 25.64
+  bars: 1
+  type: 'FAIRY'
+Infestation: 
+  pow: 10
+  ms: 1100
+  eps: 12.73
+  bars: 1
+  type: 'BUG'
+Dark Pulse: 
+  pow: 80
+  ms: 3000
+  eps: 16.67
+  bars: 2
+  type: 'DARK'
+Bullet Seed: 
+  pow: 8
+  ms: 1100
+  eps: 12.73
+  bars: 1
+  type: 'GRASS'
+Twister: 
+  pow: 45
+  ms: 2800
+  eps: 11.79
+  bars: 3
+  type: 'DRAGON'
+Submission: 
+  pow: 60
+  ms: 2200
+  eps: 22.73
+  bars: 2
+  type: 'FIGHTING'
+Hydro Cannon: 
+  pow: 90
+  ms: 1900
+  eps: 11.67
+  bars: 2
+  type: 'WATER'
+Psyshock: 
+  pow: 65
+  ms: 2700
+  eps: 12.22
+  bars: 3
+  type: 'PSYCHIC'
+Wrap: 
+  pow: 60
+  ms: 2900
+  eps: 11.38
+  bars: 3
+  type: 'NORMAL'
+Ominous Wind: 
+  pow: 50
+  ms: 2300
+  eps: 14.35
+  bars: 3
+  type: 'GHOST'
+Dig: 
+  pow: 100
+  ms: 4700
+  eps: 10.64
+  bars: 2
+  type: 'GROUND'
+Powder Snow: 
+  pow: 6
+  ms: 1000
+  eps: 15.0
+  bars: 1
+  type: 'ICE'
+Frost Breath: 
+  pow: 10
+  ms: 900
+  eps: 8.89
+  bars: 1
+  type: 'ICE'
+Extrasensory: 
+  pow: 12
+  ms: 1100
+  eps: 10.91
+  bars: 1
+  type: 'PSYCHIC'
+Outrage: 
+  pow: 110
+  ms: 3900
+  eps: 12.82
+  bars: 2
+  type: 'DRAGON'
+Ice Beam: 
+  pow: 90
+  ms: 3300
+  eps: 15.15
+  bars: 2
+  type: 'ICE'
+Doom Desire: 
+  pow: 80
+  ms: 1700
+  eps: 29.4
+  bars: 2
+  type: 'STEEL'
+Solarbeam: 
+  pow: 180
+  ms: 4900
+  eps: 20.41
+  bars: 1
+  type: 'GRASS'
+Thunder: 
+  pow: 100
+  ms: 2400
+  eps: 41.67
+  bars: 1
+  type: 'ELECTRIC'
+Energy Ball: 
+  pow: 90
+  ms: 3900
+  eps: 12.82
+  bars: 2
+  type: 'GRASS'
+Low Sweep: 
+  pow: 40
+  ms: 1900
+  eps: 17.37
+  bars: 3
+  type: 'FIGHTING'
+Acid: 
+  pow: 9
+  ms: 800
+  eps: 10.0
+  bars: 1
+  type: 'POISON'
+Water Gun: 
+  pow: 5
+  ms: 500
+  eps: 10.0
+  bars: 1
+  type: 'WATER'
+Hydro Pump: 
+  pow: 130
+  ms: 3300
+  eps: 30.3
+  bars: 1
+  type: 'WATER'
+Cross Poison: 
+  pow: 40
+  ms: 1500
+  eps: 22.0
+  bars: 3
+  type: 'POISON'
+Fire Spin: 
+  pow: 14
+  ms: 1100
+  eps: 9.09
+  bars: 1
+  type: 'FIRE'
+Lick: 
+  pow: 5
+  ms: 500
+  eps: 12.0
+  bars: 1
+  type: 'GHOST'
+Discharge: 
+  pow: 65
+  ms: 2500
+  eps: 13.2
+  bars: 3
+  type: 'ELECTRIC'
+Mud Slap: 
+  pow: 15
+  ms: 1400
+  eps: 8.57
+  bars: 1
+  type: 'GROUND'
+Disarming Voice: 
+  pow: 70
+  ms: 3900
+  eps: 8.46
+  bars: 3
+  type: 'FAIRY'
+Rock Tomb: 
+  pow: 70
+  ms: 3200
+  eps: 15.63
+  bars: 2
+  type: 'STEEL'
+Rock Blast: 
+  pow: 50
+  ms: 2100
+  eps: 15.71
+  bars: 3
+  type: 'ROCK'
+Bone Club: 
+  pow: 40
+  ms: 1600
+  eps: 20.63
+  bars: 3
+  type: 'GROUND'
+Swift: 
+  pow: 60
+  ms: 2800
+  eps: 17.86
+  bars: 2
+  type: 'NORMAL'
+Frenzy Plant: 
+  pow: 100
+  ms: 2600
+  eps: 11.67
+  bars: 2
+  type: 'GRASS'
+X Scissor: 
+  pow: 45
+  ms: 1600
+  eps: 20.63
+  bars: 3
+  type: 'BUG'
+Wing Attack: 
+  pow: 8
+  ms: 800
+  eps: 11.25
+  bars: 1
+  type: 'FLYING'
+Snarl: 
+  pow: 12
+  ms: 1100
+  eps: 10.91
+  bars: 1
+  type: 'DARK'
+Fire Punch: 
+  pow: 55
+  ms: 2200
+  eps: 15.0
+  bars: 3
+  type: 'FIRE'
+Night Slash: 
+  pow: 50
+  ms: 2200
+  eps: 15.0
+  bars: 3
+  type: 'DARK'
+Earthquake: 
+  pow: 120
+  ms: 3600
+  eps: 27.78
+  bars: 1
+  type: 'GROUND'
+Ice Punch: 
+  pow: 50
+  ms: 1900
+  eps: 17.37
+  bars: 3
+  type: 'ICE'
+Magnet Bomb: 
+  pow: 70
+  ms: 2800
+  eps: 11.79
+  bars: 3
+  type: 'STEEL'
+Thunder Shock: 
+  pow: 5
+  ms: 600
+  eps: 13.33
+  bars: 1
+  type: 'ELECTRIC'
+Steel Wing: 
+  pow: 11
+  ms: 800
+  eps: 7.5
+  bars: 1
+  type: 'STEEL'
+Rock Smash: 
+  pow: 15
+  ms: 1300
+  eps: 7.69
+  bars: 1
+  type: 'FIGHTING'
+Razor Leaf: 
+  pow: 13
+  ms: 1000
+  eps: 7.0
+  bars: 1
+  type: 'GRASS'
+Psycho Boost: 
+  pow: 70
+  ms: 4000
+  eps: 12.5
+  bars: 2
+  type: 'PSYCHIC'
+Shadow Ball: 
+  pow: 100
+  ms: 3000
+  eps: 16.67
+  bars: 2
+  type: 'GHOST'
+Rock Throw: 
+  pow: 12
+  ms: 900
+  eps: 7.78
+  bars: 1
+  type: 'ROCK'
+Brick Break: 
+  pow: 40
+  ms: 1600
+  eps: 20.64
+  bars: 3
+  type: 'FIGHTING'
+Signal Beam: 
+  pow: 75
+  ms: 2900
+  eps: 17.24
+  bars: 2
+  type: 'BUG'
+Sludge Wave: 
+  pow: 110
+  ms: 3200
+  eps: 31.25
+  bars: 1
+  type: 'POISON'
+Tackle: 
+  pow: 5
+  ms: 500
+  eps: 10.0
+  bars: 1
+  type: 'NORMAL'
+Weather Ball Ice: 
+  pow: 60
+  ms: 1600
+  eps: 33.0
+  bars: 3
+  type: 'ICE'
+Flash Cannon: 
+  pow: 100
+  ms: 2700
+  eps: 37.04
+  bars: 1
+  type: 'STEEL'
+Air Cutter: 
+  pow: 60
+  ms: 2700
+  eps: 18.52
+  bars: 2
+  type: 'FLYING'
+Confusion: 
+  pow: 20
+  ms: 1600
+  eps: 9.38
+  bars: 1
+  type: 'PSYCHIC'
+Close Combat: 
+  pow: 100
+  ms: 2300
+  eps: 43.48
+  bars: 1
+  type: 'FIGHTING'
+Poison Sting: 
+  pow: 5
+  ms: 600
+  eps: 11.67
+  bars: 1
+  type: 'POISON'
+Crunch: 
+  pow: 70
+  ms: 3200
+  eps: 10.31
+  bars: 3
+  type: 'DARK'
+Shadow Punch: 
+  pow: 40
+  ms: 1700
+  eps: 19.41
+  bars: 3
+  type: 'GHOST'
+Sky Attack: 
+  pow: 70
+  ms: 2000
+  eps: 25.0
+  bars: 2
+  type: 'FLYING'
+Psycho Cut: 
+  pow: 5
+  ms: 600
+  eps: 13.33
+  bars: 1
+  type: 'PSYCHIC'
+Draining Kiss: 
+  pow: 60
+  ms: 2600
+  eps: 19.23
+  bars: 2
+  type: 'FAIRY'
+Dynamic Punch: 
+  pow: 90
+  ms: 2700
+  eps: 18.52
+  bars: 2
+  type: 'FIGHTING'
+Pound: 
+  pow: 7
+  ms: 600
+  eps: 10.0
+  bars: 1
+  type: 'NORMAL'
+Weather Ball Fire: 
+  pow: 60
+  ms: 1600
+  eps: 33.0
+  bars: 3
+  type: 'FIRE'
+Air Slash: 
+  pow: 14
+  ms: 1200
+  eps: 8.33
+  bars: 1
+  type: 'FLYING'
+Flamethrower: 
+  pow: 70
+  ms: 2200
+  eps: 22.73
+  bars: 2
+  type: 'FIRE'
+Bite: 
+  pow: 6
+  ms: 500
+  eps: 8.0
+  bars: 1
+  type: 'DARK'
+Psychic: 
+  pow: 100
+  ms: 2800
+  eps: 35.71
+  bars: 1
+  type: 'PSYCHIC'
+Stomp: 
+  pow: 55
+  ms: 1700
+  eps: 29.41
+  bars: 2
+  type: 'NORMAL'
+Bug Buzz: 
+  pow: 90
+  ms: 3700
+  eps: 13.51
+  bars: 2
+  type: 'BUG'
+Volt Switch: 
+  pow: 20
+  ms: 2300
+  eps: 10.87
+  bars: 1
+  type: 'ELECTRIC'
+Feint Attack: 
+  pow: 10
+  ms: 900
+  eps: 10.0
+  bars: 1
+  type: 'DARK'
+Hyper Beam: 
+  pow: 150
+  ms: 3800
+  eps: 26.32
+  bars: 1
+  type: 'NORMAL'
+Heat Wave: 
+  pow: 95
+  ms: 3000
+  eps: 33.33
+  bars: 1
+  type: 'FIRE'
+Silver Wind: 
+  pow: 70
+  ms: 3700
+  eps: 8.92
+  bars: 3
+  type: 'BUG'
+Weather Ball Water: 
+  pow: 60
+  ms: 1600
+  eps: 33.0
+  bars: 3
+  type: 'WATER'
+Rock Slide: 
+  pow: 80
+  ms: 2700
+  eps: 18.52
+  bars: 2
+  type: 'ROCK'
+Yawn: 
+  pow: 0
+  ms: 1700
+  eps: 8.82
+  bars: 1
+  type: 'NORMAL'
+Sucker Punch: 
+  pow: 7
+  ms: 700
+  eps: 11.43
+  bars: 1
+  type: 'DARK'
+Hyper Fang: 
+  pow: 80
+  ms: 2500
+  eps: 20.0
+  bars: 2
+  type: 'NORMAL'
+Counter: 
+  pow: 12
+  ms: 900
+  eps: 8.89
+  bars: 1
+  type: 'FIGHTING'
+Iron Head: 
+  pow: 60
+  ms: 1900
+  eps: 26.32
+  bars: 2
+  type: 'STEEL'
+Mirror Coat: 
+  pow: 60
+  ms: 2600
+  eps: 19.23
+  bars: 2
+  type: 'PSYCHIC'
+Leaf Blade: 
+  pow: 70
+  ms: 2400
+  eps: 13.75
+  bars: 3
+  type: 'GRASS'
+Poison Jab: 
+  pow: 10
+  ms: 800
+  eps: 8.75
+  bars: 1
+  type: 'POISON'
+Posion Jab: 
+  pow: 10
+  ms: 800
+  eps: 8.75
+  bars: 1
+  type: 'POISON'
+Megahorn: 
+  pow: 90
+  ms: 2200
+  eps: 45.45
+  bars: 1
+  type: 'BUG'
+Play Rough: 
+  pow: 90
+  ms: 2900
+  eps: 17.24
+  bars: 2
+  type: 'FAIRY'
+Sand Tomb: 
+  pow: 80
+  ms: 4000
+  eps: 12.5
+  bars: 2
+  type: 'GROUND'
+Cross Chop: 
+  pow: 50
+  ms: 1500
+  eps: 33.33
+  bars: 2
+  type: 'FIGHTING'
+Avalanche: 
+  pow: 90
+  ms: 2700
+  eps: 18.52
+  bars: 2
+  type: 'ICE'
+Bubblebeam: 
+  pow: 45
+  ms: 1900
+  eps: 1.0
+  bars: 3
+  type: 'WATER'
+Drill Run: 
+  pow: 80
+  ms: 2800
+  eps: 17.86
+  bars: 2
+  type: 'GROUND'
+Charge Beam: 
+  pow: 8
+  ms: 1100
+  eps: 13.64
+  bars: 1
+  type: 'ELECTRIC'
+Power Gem: 
+  pow: 80
+  ms: 2900
+  eps: 17.24
+  bars: 2
+  type: 'ROCK'
+Splash: 
+  pow: 0
+  ms: 1730
+  eps: 11.56
+  bars: 1
+  type: 'WATER'
+Astonish: 
+  pow: 8
+  ms: 1100
+  eps: 12.73
+  bars: 1
+  type: 'GHOST'
+Night Shade: 
+  pow: 60
+  ms: 2600
+  eps: 19.23
+  bars: 2
+  type: 'GHOST'

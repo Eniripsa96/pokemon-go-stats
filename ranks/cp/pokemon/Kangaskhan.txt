@@ -1,0 +1,8 @@
+[2485] Kangaskhan / Low Kick / Brick Break
+[2485] Kangaskhan / Mud Slap / Brick Break
+[2485] Kangaskhan / Low Kick / Earthquake
+[2485] Kangaskhan / Mud Slap / Earthquake
+[2485] Kangaskhan / Low Kick / Outrage
+[2485] Kangaskhan / Mud Slap / Outrage
+[2485] Kangaskhan / Low Kick / Stomp
+[2485] Kangaskhan / Mud Slap / Stomp

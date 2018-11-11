@@ -1,0 +1,6 @@
+[100] Raikou / Thunder Shock / Wild Charge
+[93] Raikou / Volt Switch / Wild Charge
+[91] Raikou / Thunder Shock / Thunderbolt
+[86] Raikou / Volt Switch / Thunderbolt
+[81] Raikou / Thunder Shock / Thunder
+[76] Raikou / Volt Switch / Thunder

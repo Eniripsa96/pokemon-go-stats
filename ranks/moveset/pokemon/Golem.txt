@@ -1,0 +1,12 @@
+[100] Golem / Rock Throw / Earthquake
+[99] Golem / Rock Throw / Stone Edge
+[94] Golem / Rock Throw / Ancient Power
+[92] Golem / Rock Throw / Rock Blast
+[90] Golem / Mud Slap / Earthquake
+[90] Golem / Mud Shot / Earthquake
+[89] Golem / Mud Slap / Stone Edge
+[88] Golem / Mud Shot / Stone Edge
+[88] Golem / Mud Slap / Ancient Power
+[87] Golem / Mud Shot / Ancient Power
+[84] Golem / Mud Slap / Rock Blast
+[82] Golem / Mud Shot / Rock Blast

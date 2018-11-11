@@ -1,0 +1,6 @@
+[100] Altaria / Peck / Dazzling Gleam
+[92] Altaria / Dragon Breath / Dazzling Gleam
+[92] Altaria / Peck / Dragon Pulse
+[84] Altaria / Dragon Breath / Dragon Pulse
+[76] Altaria / Peck / Sky Attack
+[68] Altaria / Dragon Breath / Sky Attack

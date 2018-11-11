@@ -1,0 +1,12 @@
+[100] Kecleon / Sucker Punch / Ice Beam
+[95] Kecleon / Lick / Ice Beam
+[93] Kecleon / Sucker Punch / Aerial Ace
+[88] Kecleon / Lick / Aerial Ace
+[86] Kecleon / Sucker Punch / Shadow Sneak
+[81] Kecleon / Sucker Punch / Flamethrower
+[81] Kecleon / Sucker Punch / Foul Play
+[81] Kecleon / Lick / Shadow Sneak
+[76] Kecleon / Lick / Flamethrower
+[76] Kecleon / Lick / Foul Play
+[62] Kecleon / Sucker Punch / Thunder
+[58] Kecleon / Lick / Thunder

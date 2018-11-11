@@ -1,0 +1,6 @@
+[100] Skuntank / Poison Jab / Sludge Bomb
+[95] Skuntank / Bite / Sludge Bomb
+[87] Skuntank / Poison Jab / Crunch
+[85] Skuntank / Bite / Crunch
+[84] Skuntank / Poison Jab / Flamethrower
+[80] Skuntank / Bite / Flamethrower

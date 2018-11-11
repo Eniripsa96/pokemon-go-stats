@@ -1,0 +1,6 @@
+[100] Magcargo / Rock Throw / Overheat
+[95] Magcargo / Ember / Overheat
+[72] Magcargo / Rock Throw / Stone Edge
+[70] Magcargo / Rock Throw / Heat Wave
+[68] Magcargo / Ember / Stone Edge
+[65] Magcargo / Ember / Heat Wave

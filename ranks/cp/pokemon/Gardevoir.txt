@@ -1,0 +1,6 @@
+[3020] Gardevoir / Charge Beam / Dazzling Gleam
+[3020] Gardevoir / Confusion / Dazzling Gleam
+[3020] Gardevoir / Charge Beam / Psychic
+[3020] Gardevoir / Confusion / Psychic
+[3020] Gardevoir / Charge Beam / Shadow Ball
+[3020] Gardevoir / Confusion / Shadow Ball

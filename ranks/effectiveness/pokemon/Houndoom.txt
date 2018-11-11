@@ -1,0 +1,6 @@
+[100] Houndoom / Snarl / Fire Blast
+[100] Houndoom / Snarl / Foul Play
+[99] Houndoom / Fire Fang / Fire Blast
+[99] Houndoom / Fire Fang / Foul Play
+[94] Houndoom / Fire Fang / Crunch
+[93] Houndoom / Snarl / Crunch

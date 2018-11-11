@@ -1,0 +1,6 @@
+[2040] Qwilfish / Poison Sting / Aqua Tail
+[2040] Qwilfish / Water Gun / Aqua Tail
+[2040] Qwilfish / Poison Sting / Ice Beam
+[2040] Qwilfish / Water Gun / Ice Beam
+[2040] Qwilfish / Poison Sting / Sludge Wave
+[2040] Qwilfish / Water Gun / Sludge Wave

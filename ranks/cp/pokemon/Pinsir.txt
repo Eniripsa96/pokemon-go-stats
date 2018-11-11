@@ -1,0 +1,12 @@
+[2821] Pinsir / Bug Bite / Close Combat
+[2821] Pinsir / Fury Cutter / Close Combat
+[2821] Pinsir / Rock Smash / Close Combat
+[2821] Pinsir / Bug Bite / Submission
+[2821] Pinsir / Fury Cutter / Submission
+[2821] Pinsir / Rock Smash / Submission
+[2821] Pinsir / Bug Bite / Vice Grip
+[2821] Pinsir / Fury Cutter / Vice Grip
+[2821] Pinsir / Rock Smash / Vice Grip
+[2821] Pinsir / Bug Bite / X Scissor
+[2821] Pinsir / Fury Cutter / X Scissor
+[2821] Pinsir / Rock Smash / X Scissor

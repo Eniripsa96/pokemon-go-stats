@@ -1,0 +1,6 @@
+[100] Mr Mime / Confusion / Shadow Ball
+[86] Mr Mime / Zen Headbutt / Shadow Ball
+[80] Mr Mime / Confusion / Psybeam
+[66] Mr Mime / Zen Headbutt / Psybeam
+[66] Mr Mime / Confusion / Psychic
+[53] Mr Mime / Zen Headbutt / Psychic

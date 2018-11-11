@@ -1,0 +1,6 @@
+[100] Whiscash / Mud Shot / Mud Bomb
+[100] Whiscash / Water Gun / Mud Bomb
+[86] Whiscash / Mud Shot / Water Pulse
+[86] Whiscash / Water Gun / Water Pulse
+[81] Whiscash / Mud Shot / Blizzard
+[81] Whiscash / Water Gun / Blizzard

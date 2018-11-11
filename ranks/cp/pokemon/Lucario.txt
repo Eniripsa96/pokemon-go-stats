@@ -1,0 +1,6 @@
+[2546] Lucario / Bullet Punch / Close Combat
+[2546] Lucario / Counter / Close Combat
+[2546] Lucario / Bullet Punch / Flash Cannon
+[2546] Lucario / Counter / Flash Cannon
+[2546] Lucario / Bullet Punch / Shadow Ball
+[2546] Lucario / Counter / Shadow Ball

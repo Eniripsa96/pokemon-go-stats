@@ -1,0 +1,8 @@
+[100] Blastoise / Water Gun / Hydro Cannon
+[88] Blastoise / Bite / Hydro Cannon
+[75] Blastoise / Water Gun / Hydro Pump
+[69] Blastoise / Bite / Hydro Pump
+[65] Blastoise / Water Gun / Ice Beam
+[64] Blastoise / Water Gun / Flash Cannon
+[61] Blastoise / Bite / Ice Beam
+[59] Blastoise / Bite / Flash Cannon

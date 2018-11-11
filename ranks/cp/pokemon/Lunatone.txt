@@ -1,0 +1,6 @@
+[2334] Lunatone / Confusion / Moonblast
+[2334] Lunatone / Rock Throw / Moonblast
+[2334] Lunatone / Confusion / Psychic
+[2334] Lunatone / Rock Throw / Psychic
+[2334] Lunatone / Confusion / Rock Slide
+[2334] Lunatone / Rock Throw / Rock Slide

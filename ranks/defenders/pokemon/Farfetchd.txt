@@ -1,0 +1,9 @@
+[100] Farfetchd / Air Slash / Leaf Blade
+[83] Farfetchd / Air Slash / Aerial Ace
+[83] Farfetchd / Cut / Leaf Blade
+[80] Farfetchd / Fury Cutter / Leaf Blade
+[67] Farfetchd / Cut / Aerial Ace
+[67] Farfetchd / Air Slash / Air Cutter
+[64] Farfetchd / Fury Cutter / Aerial Ace
+[51] Farfetchd / Cut / Air Cutter
+[48] Farfetchd / Fury Cutter / Air Cutter

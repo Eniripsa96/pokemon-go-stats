@@ -1,0 +1,6 @@
+[100] Toxicroak / Counter / Dynamic Punch
+[95] Toxicroak / Poison Jab / Dynamic Punch
+[93] Toxicroak / Counter / Mud Bomb
+[91] Toxicroak / Counter / Sludge Bomb
+[89] Toxicroak / Poison Jab / Mud Bomb
+[87] Toxicroak / Poison Jab / Sludge Bomb

@@ -1,0 +1,8 @@
+[2980] Ampharos / Charge Beam / Dragon Pulse
+[2980] Ampharos / Volt Switch / Dragon Pulse
+[2980] Ampharos / Charge Beam / Focus Blast
+[2980] Ampharos / Volt Switch / Focus Blast
+[2980] Ampharos / Charge Beam / Thunder
+[2980] Ampharos / Volt Switch / Thunder
+[2980] Ampharos / Charge Beam / Zap Cannon
+[2980] Ampharos / Volt Switch / Zap Cannon

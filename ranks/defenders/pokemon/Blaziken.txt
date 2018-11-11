@@ -1,0 +1,8 @@
+[100] Blaziken / Fire Spin / Overheat
+[95] Blaziken / Counter / Overheat
+[91] Blaziken / Fire Spin / Focus Blast
+[86] Blaziken / Counter / Focus Blast
+[73] Blaziken / Fire Spin / Stone Edge
+[69] Blaziken / Fire Spin / Brave Bird
+[69] Blaziken / Counter / Stone Edge
+[65] Blaziken / Counter / Brave Bird

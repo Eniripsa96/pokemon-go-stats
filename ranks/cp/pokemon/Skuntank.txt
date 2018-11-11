@@ -1,0 +1,6 @@
+[2240] Skuntank / Bite / Crunch
+[2240] Skuntank / Poison Jab / Crunch
+[2240] Skuntank / Bite / Flamethrower
+[2240] Skuntank / Poison Jab / Flamethrower
+[2240] Skuntank / Bite / Sludge Bomb
+[2240] Skuntank / Poison Jab / Sludge Bomb

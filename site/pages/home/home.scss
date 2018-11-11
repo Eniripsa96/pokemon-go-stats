@@ -1,0 +1,12 @@
+.options {
+  > div {
+    padding: 10px;
+    min-width: 100px;
+  }
+}
+
+label, .input {
+  width: 190px;
+  margin: 5px 0 !important;
+  display: block !important;
+}

@@ -1,0 +1,15 @@
+[100] Seaking / Waterfall / Ice Beam
+[100] Seaking / Waterfall / Icy Wind
+[92] Seaking / Waterfall / Drill Run
+[88] Seaking / Peck / Ice Beam
+[88] Seaking / Poison Jab / Ice Beam
+[88] Seaking / Peck / Icy Wind
+[88] Seaking / Poison Jab / Icy Wind
+[84] Seaking / Waterfall / Water Pulse
+[80] Seaking / Peck / Drill Run
+[80] Seaking / Poison Jab / Drill Run
+[73] Seaking / Peck / Water Pulse
+[73] Seaking / Poison Jab / Water Pulse
+[65] Seaking / Waterfall / Megahorn
+[53] Seaking / Peck / Megahorn
+[53] Seaking / Poison Jab / Megahorn

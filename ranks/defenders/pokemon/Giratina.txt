@@ -1,0 +1,6 @@
+[100] Giratina / Shadow Claw / Ancient Power
+[94] Giratina / Dragon Breath / Ancient Power
+[76] Giratina / Shadow Claw / Dragon Claw
+[76] Giratina / Shadow Claw / Shadow Sneak
+[70] Giratina / Dragon Breath / Dragon Claw
+[70] Giratina / Dragon Breath / Shadow Sneak

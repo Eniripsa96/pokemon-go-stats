@@ -1,0 +1,6 @@
+[100] Arbok / Acid / Dark Pulse
+[92] Arbok / Bite / Dark Pulse
+[85] Arbok / Acid / Gunk Shot
+[78] Arbok / Bite / Gunk Shot
+[75] Arbok / Acid / Sludge Wave
+[68] Arbok / Bite / Sludge Wave

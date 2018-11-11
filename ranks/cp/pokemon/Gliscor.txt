@@ -1,0 +1,6 @@
+[2516] Gliscor / Fury Cutter / Aerial Ace
+[2516] Gliscor / Wing Attack / Aerial Ace
+[2516] Gliscor / Fury Cutter / Earthquake
+[2516] Gliscor / Wing Attack / Earthquake
+[2516] Gliscor / Fury Cutter / Night Slash
+[2516] Gliscor / Wing Attack / Night Slash

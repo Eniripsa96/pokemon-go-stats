@@ -1,0 +1,8 @@
+[3287] Moltres / Ember / Fire Blast
+[3287] Moltres / Fire Spin / Fire Blast
+[3287] Moltres / Ember / Flamethrower
+[3287] Moltres / Fire Spin / Flamethrower
+[3287] Moltres / Ember / Heat Wave
+[3287] Moltres / Fire Spin / Heat Wave
+[3287] Moltres / Ember / Overheat
+[3287] Moltres / Fire Spin / Overheat

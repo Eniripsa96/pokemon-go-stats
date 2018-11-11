@@ -1,0 +1,6 @@
+[100] Rhyperior / Smack Down / Surf
+[99] Rhyperior / Smack Down / Earthquake
+[98] Rhyperior / Smack Down / Stone Edge
+[93] Rhyperior / Mud Slap / Surf
+[93] Rhyperior / Mud Slap / Earthquake
+[92] Rhyperior / Mud Slap / Stone Edge

@@ -1,0 +1,6 @@
+[2078] Lanturn / Charge Beam / Hydro Pump
+[2078] Lanturn / Water Gun / Hydro Pump
+[2078] Lanturn / Charge Beam / Thunder
+[2078] Lanturn / Water Gun / Thunder
+[2078] Lanturn / Charge Beam / Thunderbolt
+[2078] Lanturn / Water Gun / Thunderbolt

@@ -1,0 +1,6 @@
+[3841] Giratina / Dragon Breath / Ancient Power
+[3841] Giratina / Shadow Claw / Ancient Power
+[3841] Giratina / Dragon Breath / Dragon Claw
+[3841] Giratina / Shadow Claw / Dragon Claw
+[3841] Giratina / Dragon Breath / Shadow Sneak
+[3841] Giratina / Shadow Claw / Shadow Sneak

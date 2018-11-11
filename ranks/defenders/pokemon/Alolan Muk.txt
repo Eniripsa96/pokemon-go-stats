@@ -1,0 +1,6 @@
+[100] Alolan Muk / Posion Jab / Dark Pulse
+[90] Alolan Muk / Bite / Dark Pulse
+[85] Alolan Muk / Posion Jab / Gunk Shot
+[76] Alolan Muk / Bite / Gunk Shot
+[76] Alolan Muk / Posion Jab / Sludge Wave
+[66] Alolan Muk / Bite / Sludge Wave

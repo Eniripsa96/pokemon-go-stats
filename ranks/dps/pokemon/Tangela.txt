@@ -1,0 +1,8 @@
+[100] Tangela / Vine Whip / Grass Knot
+[100] Tangela / Vine Whip / Power Whip
+[100] Tangela / Vine Whip / Solarbeam
+[94] Tangela / Infestation / Grass Knot
+[94] Tangela / Infestation / Power Whip
+[94] Tangela / Infestation / Solarbeam
+[82] Tangela / Vine Whip / Sludge Bomb
+[73] Tangela / Infestation / Sludge Bomb

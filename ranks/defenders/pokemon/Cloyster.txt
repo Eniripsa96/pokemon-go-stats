@@ -1,0 +1,10 @@
+[100] Cloyster / Ice Shard / Avalanche
+[100] Cloyster / Ice Shard / Icy Wind
+[95] Cloyster / Frost Breath / Avalanche
+[95] Cloyster / Frost Breath / Icy Wind
+[91] Cloyster / Ice Shard / Aurora Beam
+[87] Cloyster / Frost Breath / Aurora Beam
+[79] Cloyster / Ice Shard / Blizzard
+[79] Cloyster / Ice Shard / Hydro Pump
+[75] Cloyster / Frost Breath / Blizzard
+[75] Cloyster / Frost Breath / Hydro Pump

@@ -1,0 +1,6 @@
+[2790] Porygon2 / Charge Beam / Hyper Beam
+[2790] Porygon2 / Hidden Power / Hyper Beam
+[2790] Porygon2 / Charge Beam / Solarbeam
+[2790] Porygon2 / Hidden Power / Solarbeam
+[2790] Porygon2 / Charge Beam / Zap Cannon
+[2790] Porygon2 / Hidden Power / Zap Cannon

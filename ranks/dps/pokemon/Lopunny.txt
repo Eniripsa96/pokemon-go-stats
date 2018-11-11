@@ -1,0 +1,6 @@
+[100] Lopunny / Pound / Hyper Beam
+[86] Lopunny / Low Kick / Hyper Beam
+[85] Lopunny / Pound / Focus Blast
+[75] Lopunny / Pound / Fire Punch
+[72] Lopunny / Low Kick / Focus Blast
+[64] Lopunny / Low Kick / Fire Punch

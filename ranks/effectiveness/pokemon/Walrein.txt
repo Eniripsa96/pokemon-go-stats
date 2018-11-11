@@ -1,0 +1,6 @@
+[100] Walrein / Waterfall / Blizzard
+[97] Walrein / Frost Breath / Blizzard
+[89] Walrein / Waterfall / Earthquake
+[88] Walrein / Waterfall / Water Pulse
+[84] Walrein / Frost Breath / Earthquake
+[83] Walrein / Frost Breath / Water Pulse

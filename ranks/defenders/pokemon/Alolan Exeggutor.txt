@@ -1,0 +1,6 @@
+[100] Alolan Exeggutor / Dragon Tail / Dragon Pulse
+[100] Alolan Exeggutor / Dragon Tail / Solarbeam
+[94] Alolan Exeggutor / Dragon Tail / Seed Bomb
+[86] Alolan Exeggutor / Bullet Seed / Dragon Pulse
+[86] Alolan Exeggutor / Bullet Seed / Solarbeam
+[80] Alolan Exeggutor / Bullet Seed / Seed Bomb

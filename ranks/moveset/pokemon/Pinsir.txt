@@ -1,0 +1,12 @@
+[100] Pinsir / Bug Bite / X Scissor
+[99] Pinsir / Fury Cutter / X Scissor
+[82] Pinsir / Rock Smash / X Scissor
+[82] Pinsir / Bug Bite / Close Combat
+[77] Pinsir / Fury Cutter / Close Combat
+[76] Pinsir / Bug Bite / Vice Grip
+[75] Pinsir / Bug Bite / Submission
+[71] Pinsir / Fury Cutter / Vice Grip
+[71] Pinsir / Fury Cutter / Submission
+[69] Pinsir / Rock Smash / Close Combat
+[66] Pinsir / Rock Smash / Vice Grip
+[65] Pinsir / Rock Smash / Submission

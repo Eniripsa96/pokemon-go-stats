@@ -1,0 +1,12 @@
+[100] Raichu / Volt Switch / Wild Charge
+[83] Raichu / Volt Switch / Thunder Punch
+[78] Raichu / Volt Switch / Brick Break
+[75] Raichu / Spark / Wild Charge
+[73] Raichu / Thunder Shock / Wild Charge
+[71] Raichu / Volt Switch / Thunder
+[58] Raichu / Spark / Thunder Punch
+[57] Raichu / Thunder Shock / Thunder Punch
+[53] Raichu / Spark / Brick Break
+[51] Raichu / Thunder Shock / Brick Break
+[46] Raichu / Spark / Thunder
+[44] Raichu / Thunder Shock / Thunder

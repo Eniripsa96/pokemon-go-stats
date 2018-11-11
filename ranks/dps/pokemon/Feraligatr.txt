@@ -1,0 +1,9 @@
+[100] Feraligatr / Waterfall / Hydro Pump
+[96] Feraligatr / Water Gun / Hydro Pump
+[89] Feraligatr / Waterfall / Ice Beam
+[87] Feraligatr / Bite / Hydro Pump
+[83] Feraligatr / Waterfall / Crunch
+[83] Feraligatr / Water Gun / Ice Beam
+[77] Feraligatr / Bite / Ice Beam
+[76] Feraligatr / Water Gun / Crunch
+[73] Feraligatr / Bite / Crunch

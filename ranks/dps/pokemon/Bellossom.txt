@@ -1,0 +1,6 @@
+[100] Bellossom / Razor Leaf / Leaf Blade
+[96] Bellossom / Acid / Leaf Blade
+[93] Bellossom / Razor Leaf / Petal Blizzard
+[87] Bellossom / Razor Leaf / Dazzling Gleam
+[85] Bellossom / Acid / Petal Blizzard
+[80] Bellossom / Acid / Dazzling Gleam

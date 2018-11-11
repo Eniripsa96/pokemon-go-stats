@@ -1,0 +1,8 @@
+[100] Moltres / Fire Spin / Overheat
+[93] Moltres / Fire Spin / Fire Blast
+[93] Moltres / Fire Spin / Flamethrower
+[92] Moltres / Ember / Overheat
+[85] Moltres / Ember / Fire Blast
+[85] Moltres / Ember / Flamethrower
+[83] Moltres / Fire Spin / Heat Wave
+[75] Moltres / Ember / Heat Wave

@@ -1,0 +1,6 @@
+[100] Swellow / Steel Wing / Aerial Ace
+[93] Swellow / Wing Attack / Aerial Ace
+[88] Swellow / Steel Wing / Sky Attack
+[81] Swellow / Wing Attack / Sky Attack
+[65] Swellow / Steel Wing / Brave Bird
+[59] Swellow / Wing Attack / Brave Bird

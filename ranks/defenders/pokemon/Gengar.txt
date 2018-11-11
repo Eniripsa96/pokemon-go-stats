@@ -1,0 +1,15 @@
+[100] Gengar / Hex / Shadow Ball
+[98] Gengar / Shadow Claw / Shadow Ball
+[94] Gengar / Sucker Punch / Shadow Ball
+[84] Gengar / Hex / Dark Pulse
+[84] Gengar / Hex / Sludge Bomb
+[82] Gengar / Shadow Claw / Dark Pulse
+[82] Gengar / Shadow Claw / Sludge Bomb
+[78] Gengar / Sucker Punch / Dark Pulse
+[78] Gengar / Sucker Punch / Sludge Bomb
+[76] Gengar / Hex / Focus Blast
+[74] Gengar / Shadow Claw / Focus Blast
+[70] Gengar / Sucker Punch / Focus Blast
+[64] Gengar / Hex / Sludge Wave
+[62] Gengar / Shadow Claw / Sludge Wave
+[58] Gengar / Sucker Punch / Sludge Wave

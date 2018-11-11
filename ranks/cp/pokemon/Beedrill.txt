@@ -1,0 +1,9 @@
+[1816] Beedrill / Bug Bite / Aerial Ace
+[1816] Beedrill / Infestation / Aerial Ace
+[1816] Beedrill / Poison Jab / Aerial Ace
+[1816] Beedrill / Bug Bite / Sludge Bomb
+[1816] Beedrill / Infestation / Sludge Bomb
+[1816] Beedrill / Poison Jab / Sludge Bomb
+[1816] Beedrill / Bug Bite / X Scissor
+[1816] Beedrill / Infestation / X Scissor
+[1816] Beedrill / Poison Jab / X Scissor

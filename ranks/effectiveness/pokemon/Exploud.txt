@@ -1,0 +1,6 @@
+[100] Exploud / Bite / Fire Blast
+[95] Exploud / Bite / Crunch
+[95] Exploud / Bite / Disarming Voice
+[94] Exploud / Astonish / Fire Blast
+[90] Exploud / Astonish / Crunch
+[90] Exploud / Astonish / Disarming Voice

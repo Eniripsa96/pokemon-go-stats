@@ -1,0 +1,15 @@
+[2090] Ninetails / Ember / Fire Blast
+[2090] Ninetails / Feint Attack / Fire Blast
+[2090] Ninetails / Fire Spin / Fire Blast
+[2090] Ninetails / Ember / Flamethrower
+[2090] Ninetails / Feint Attack / Flamethrower
+[2090] Ninetails / Fire Spin / Flamethrower
+[2090] Ninetails / Ember / Heat Wave
+[2090] Ninetails / Feint Attack / Heat Wave
+[2090] Ninetails / Fire Spin / Heat Wave
+[2090] Ninetails / Ember / Overheat
+[2090] Ninetails / Feint Attack / Overheat
+[2090] Ninetails / Fire Spin / Overheat
+[2090] Ninetails / Ember / Solarbeam
+[2090] Ninetails / Feint Attack / Solarbeam
+[2090] Ninetails / Fire Spin / Solarbeam

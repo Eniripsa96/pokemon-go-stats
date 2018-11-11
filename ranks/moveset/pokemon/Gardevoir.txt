@@ -1,0 +1,6 @@
+[100] Gardevoir / Confusion / Dazzling Gleam
+[92] Gardevoir / Confusion / Psychic
+[90] Gardevoir / Charge Beam / Dazzling Gleam
+[87] Gardevoir / Confusion / Shadow Ball
+[76] Gardevoir / Charge Beam / Psychic
+[75] Gardevoir / Charge Beam / Shadow Ball

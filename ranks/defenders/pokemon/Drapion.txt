@@ -1,0 +1,6 @@
+[99] Drapion / Infestation / Crunch
+[90] Drapion / Poison Sting / Crunch
+[80] Drapion / Infestation / Sludge Bomb
+[76] Drapion / Infestation / Aqua Tail
+[71] Drapion / Poison Sting / Sludge Bomb
+[67] Drapion / Poison Sting / Aqua Tail

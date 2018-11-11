@@ -1,0 +1,12 @@
+[100] Jynx / Confusion / Avalanche
+[97] Jynx / Confusion / Ice Punch
+[93] Jynx / Frost Breath / Avalanche
+[92] Jynx / Confusion / Psyshock
+[91] Jynx / Pound / Avalanche
+[90] Jynx / Frost Breath / Ice Punch
+[87] Jynx / Pound / Ice Punch
+[86] Jynx / Frost Breath / Psyshock
+[84] Jynx / Pound / Psyshock
+[73] Jynx / Confusion / Draining Kiss
+[67] Jynx / Frost Breath / Draining Kiss
+[63] Jynx / Pound / Draining Kiss

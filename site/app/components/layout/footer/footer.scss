@@ -1,0 +1,28 @@
+@import '~app/styles/mixins';
+@import '~app/styles/variables';
+
+#footer {
+  @include navbar-mixin;
+
+  height: $footer-height;
+  line-height: $footer-height;
+  font-size: 0.8em;
+
+  a {
+    flex: 1;
+  }
+
+  .container {
+    padding-top: 0;
+    display: flex;
+  }
+
+  .copyright {
+    flex: 1 0 0;
+  }
+
+  .legal {
+    flex: 1 0 0;
+    text-align: right;
+  }
+}

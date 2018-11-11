@@ -1,0 +1,8 @@
+[99] Fearow / Peck / Sky Attack
+[96] Fearow / Peck / Aerial Ace
+[96] Fearow / Steel Wing / Sky Attack
+[94] Fearow / Peck / Drill Run
+[94] Fearow / Steel Wing / Aerial Ace
+[92] Fearow / Steel Wing / Drill Run
+[76] Fearow / Steel Wing / Twister
+[75] Fearow / Peck / Twister

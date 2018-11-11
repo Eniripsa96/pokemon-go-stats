@@ -1,0 +1,6 @@
+[100] Vileplume / Razor Leaf / Solarbeam
+[91] Vileplume / Acid / Solarbeam
+[79] Vileplume / Razor Leaf / Moonblast
+[71] Vileplume / Acid / Moonblast
+[71] Vileplume / Razor Leaf / Petal Blizzard
+[63] Vileplume / Acid / Petal Blizzard

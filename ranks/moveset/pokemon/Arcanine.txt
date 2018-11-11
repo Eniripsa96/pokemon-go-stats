@@ -1,0 +1,15 @@
+[100] Arcanine / Fire Fang / Wild Charge
+[98] Arcanine / Fire Fang / Fire Blast
+[98] Arcanine / Fire Fang / Flamethrower
+[92] Arcanine / Snarl / Wild Charge
+[90] Arcanine / Snarl / Fire Blast
+[90] Arcanine / Snarl / Flamethrower
+[86] Arcanine / Bite / Wild Charge
+[85] Arcanine / Bite / Fire Blast
+[85] Arcanine / Bite / Flamethrower
+[83] Arcanine / Fire Fang / Bulldoze
+[81] Arcanine / Fire Fang / Crunch
+[74] Arcanine / Snarl / Bulldoze
+[73] Arcanine / Snarl / Crunch
+[72] Arcanine / Bite / Bulldoze
+[72] Arcanine / Bite / Crunch

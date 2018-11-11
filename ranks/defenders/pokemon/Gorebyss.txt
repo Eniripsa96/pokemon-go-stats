@@ -1,0 +1,6 @@
+[100] Gorebyss / Confusion / Water Pulse
+[91] Gorebyss / Confusion / Draining Kiss
+[83] Gorebyss / Confusion / Psychic
+[68] Gorebyss / Water Gun / Water Pulse
+[60] Gorebyss / Water Gun / Draining Kiss
+[52] Gorebyss / Water Gun / Psychic

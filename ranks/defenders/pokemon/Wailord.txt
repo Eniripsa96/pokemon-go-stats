@@ -1,0 +1,6 @@
+[100] Wailord / Zen Headbutt / Hyper Beam
+[90] Wailord / Zen Headbutt / Blizzard
+[90] Wailord / Zen Headbutt / Surf
+[83] Wailord / Water Gun / Hyper Beam
+[73] Wailord / Water Gun / Blizzard
+[73] Wailord / Water Gun / Surf

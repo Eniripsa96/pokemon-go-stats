@@ -1,0 +1,6 @@
+[3048] Scizor / Bullet Punch / Iron Head
+[3048] Scizor / Fury Cutter / Iron Head
+[3048] Scizor / Bullet Punch / Night Slash
+[3048] Scizor / Fury Cutter / Night Slash
+[3048] Scizor / Bullet Punch / X Scissor
+[3048] Scizor / Fury Cutter / X Scissor

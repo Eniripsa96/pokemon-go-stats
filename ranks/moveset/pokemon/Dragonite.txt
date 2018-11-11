@@ -1,0 +1,18 @@
+[100] Dragonite / Dragon Tail / Outrage
+[98] Dragonite / Dragon Tail / Draco Meteor
+[98] Dragonite / Dragon Tail / Dragon Claw
+[94] Dragonite / Dragon Breath / Outrage
+[91] Dragonite / Dragon Tail / Hurricane
+[91] Dragonite / Dragon Breath / Draco Meteor
+[91] Dragonite / Dragon Breath / Dragon Claw
+[89] Dragonite / Dragon Tail / Dragon Pulse
+[89] Dragonite / Steel Wing / Outrage
+[88] Dragonite / Dragon Tail / Hyper Beam
+[85] Dragonite / Steel Wing / Draco Meteor
+[85] Dragonite / Steel Wing / Dragon Claw
+[84] Dragonite / Dragon Breath / Hurricane
+[84] Dragonite / Dragon Breath / Dragon Pulse
+[82] Dragonite / Dragon Breath / Hyper Beam
+[79] Dragonite / Steel Wing / Dragon Pulse
+[78] Dragonite / Steel Wing / Hurricane
+[76] Dragonite / Steel Wing / Hyper Beam

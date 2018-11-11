@@ -1,0 +1,6 @@
+[100] Regigigas / Rock Smash / Avalanche
+[94] Regigigas / Zen Headbutt / Avalanche
+[84] Regigigas / Rock Smash / Heavy Slam
+[78] Regigigas / Zen Headbutt / Heavy Slam
+[68] Regigigas / Rock Smash / Stone Edge
+[62] Regigigas / Zen Headbutt / Stone Edge

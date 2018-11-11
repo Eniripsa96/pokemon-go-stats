@@ -1,0 +1,10 @@
+[100] Onix / Rock Throw / Rock Slide
+[92] Onix / Rock Throw / Stone Edge
+[91] Onix / Rock Throw / Iron Head
+[87] Onix / Tackle / Rock Slide
+[85] Onix / Rock Throw / Heavy Slam
+[80] Onix / Rock Throw / Sand Tomb
+[76] Onix / Tackle / Stone Edge
+[74] Onix / Tackle / Iron Head
+[69] Onix / Tackle / Heavy Slam
+[67] Onix / Tackle / Sand Tomb

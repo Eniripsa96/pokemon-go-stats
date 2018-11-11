@@ -1,0 +1,6 @@
+[100] Nidoqueen / Poison Jab / Earthquake
+[96] Nidoqueen / Poison Jab / Sludge Wave
+[91] Nidoqueen / Poison Jab / Stone Edge
+[84] Nidoqueen / Bite / Earthquake
+[81] Nidoqueen / Bite / Sludge Wave
+[75] Nidoqueen / Bite / Stone Edge

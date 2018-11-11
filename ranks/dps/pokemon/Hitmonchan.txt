@@ -1,0 +1,15 @@
+[100] Hitmonchan / Counter / Brick Break
+[100] Hitmonchan / Counter / Ice Punch
+[99] Hitmonchan / Counter / Close Combat
+[95] Hitmonchan / Counter / Thunder Punch
+[89] Hitmonchan / Rock Smash / Brick Break
+[89] Hitmonchan / Rock Smash / Ice Punch
+[87] Hitmonchan / Rock Smash / Close Combat
+[86] Hitmonchan / Counter / Fire Punch
+[85] Hitmonchan / Rock Smash / Thunder Punch
+[84] Hitmonchan / Bullet Punch / Brick Break
+[84] Hitmonchan / Bullet Punch / Ice Punch
+[82] Hitmonchan / Bullet Punch / Close Combat
+[79] Hitmonchan / Bullet Punch / Thunder Punch
+[78] Hitmonchan / Rock Smash / Fire Punch
+[71] Hitmonchan / Bullet Punch / Fire Punch

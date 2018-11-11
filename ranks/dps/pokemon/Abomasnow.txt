@@ -1,0 +1,6 @@
+[100] Abomasnow / Razor Leaf / Blizzard
+[98] Abomasnow / Razor Leaf / Energy Ball
+[97] Abomasnow / Razor Leaf / Outrage
+[96] Abomasnow / Powder Snow / Blizzard
+[95] Abomasnow / Powder Snow / Energy Ball
+[93] Abomasnow / Powder Snow / Outrage

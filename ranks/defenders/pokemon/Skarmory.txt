@@ -1,0 +1,6 @@
+[100] Skarmory / Air Slash / Sky Attack
+[92] Skarmory / Steel Wing / Sky Attack
+[80] Skarmory / Air Slash / Flash Cannon
+[76] Skarmory / Air Slash / Brave Bird
+[73] Skarmory / Steel Wing / Flash Cannon
+[69] Skarmory / Steel Wing / Brave Bird

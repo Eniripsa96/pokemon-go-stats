@@ -1,0 +1,6 @@
+[3020] Gallade / Confusion / Close Combat
+[3020] Gallade / Low Kick / Close Combat
+[3020] Gallade / Confusion / Leaf Blade
+[3020] Gallade / Low Kick / Leaf Blade
+[3020] Gallade / Confusion / Psychic
+[3020] Gallade / Low Kick / Psychic

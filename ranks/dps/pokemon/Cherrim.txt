@@ -1,0 +1,6 @@
+[100] Cherrim / Bullet Seed / Power Whip
+[100] Cherrim / Bullet Seed / Solarbeam
+[99] Cherrim / Razor Leaf / Power Whip
+[99] Cherrim / Razor Leaf / Solarbeam
+[88] Cherrim / Razor Leaf / Hyper Beam
+[81] Cherrim / Bullet Seed / Hyper Beam

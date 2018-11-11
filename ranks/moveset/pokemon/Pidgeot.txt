@@ -1,0 +1,12 @@
+[100] Pidgeot / Wing Attack / Hurricane
+[97] Pidgeot / Air Slash / Hurricane
+[93] Pidgeot / Wing Attack / Aerial Ace
+[92] Pidgeot / Air Slash / Aerial Ace
+[91] Pidgeot / Steel Wing / Hurricane
+[89] Pidgeot / Wing Attack / Brave Bird
+[89] Pidgeot / Air Slash / Brave Bird
+[88] Pidgeot / Air Slash / Air Cutter
+[88] Pidgeot / Wing Attack / Air Cutter
+[88] Pidgeot / Steel Wing / Aerial Ace
+[84] Pidgeot / Steel Wing / Brave Bird
+[84] Pidgeot / Steel Wing / Air Cutter

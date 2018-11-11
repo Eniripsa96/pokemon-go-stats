@@ -1,0 +1,18 @@
+[100] Machamp / Karate Chop / Dynamic Punch
+[99] Machamp / Counter / Dynamic Punch
+[89] Machamp / Bullet Punch / Dynamic Punch
+[87] Machamp / Counter / Close Combat
+[87] Machamp / Counter / Cross Chop
+[83] Machamp / Karate Chop / Close Combat
+[83] Machamp / Karate Chop / Cross Chop
+[81] Machamp / Counter / Submission
+[80] Machamp / Counter / Stone Edge
+[79] Machamp / Counter / Heavy Slam
+[76] Machamp / Karate Chop / Submission
+[73] Machamp / Karate Chop / Heavy Slam
+[73] Machamp / Karate Chop / Stone Edge
+[72] Machamp / Bullet Punch / Close Combat
+[72] Machamp / Bullet Punch / Cross Chop
+[68] Machamp / Bullet Punch / Submission
+[65] Machamp / Bullet Punch / Heavy Slam
+[63] Machamp / Bullet Punch / Stone Edge

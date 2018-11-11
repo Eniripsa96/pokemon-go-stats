@@ -1,0 +1,6 @@
+[100] Mothim / Bug Bite / Bug Buzz
+[96] Mothim / Air Slash / Bug Buzz
+[94] Mothim / Bug Bite / Aerial Ace
+[92] Mothim / Air Slash / Aerial Ace
+[76] Mothim / Air Slash / Psybeam
+[74] Mothim / Bug Bite / Psybeam

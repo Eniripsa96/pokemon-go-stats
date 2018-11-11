@@ -1,0 +1,6 @@
+[100] Xatu / Air Slash / Future Sight
+[93] Xatu / Feint Attack / Future Sight
+[91] Xatu / Air Slash / Aerial Ace
+[85] Xatu / Feint Attack / Aerial Ace
+[77] Xatu / Air Slash / Ominous Wind
+[70] Xatu / Feint Attack / Ominous Wind

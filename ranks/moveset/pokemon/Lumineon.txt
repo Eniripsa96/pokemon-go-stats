@@ -1,0 +1,6 @@
+[100] Lumineon / Waterfall / Blizzard
+[95] Lumineon / Waterfall / Water Pulse
+[92] Lumineon / Water Gun / Blizzard
+[90] Lumineon / Waterfall / Silver Wind
+[88] Lumineon / Water Gun / Water Pulse
+[83] Lumineon / Water Gun / Silver Wind

@@ -1,0 +1,10 @@
+[100] Flareon / Fire Spin / Last Resort
+[92] Flareon / Ember / Last Resort
+[92] Flareon / Fire Spin / Overheat
+[84] Flareon / Fire Spin / Fire Blast
+[84] Flareon / Fire Spin / Flamethrower
+[84] Flareon / Ember / Overheat
+[76] Flareon / Ember / Fire Blast
+[76] Flareon / Ember / Flamethrower
+[66] Flareon / Fire Spin / Heat Wave
+[58] Flareon / Ember / Heat Wave

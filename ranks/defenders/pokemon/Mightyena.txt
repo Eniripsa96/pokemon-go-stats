@@ -1,0 +1,6 @@
+[100] Mightyena / Fire Fang / Crunch
+[90] Mightyena / Bite / Crunch
+[88] Mightyena / Fire Fang / Play Rough
+[79] Mightyena / Bite / Play Rough
+[60] Mightyena / Fire Fang / Poison Fang
+[50] Mightyena / Bite / Poison Fang

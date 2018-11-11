@@ -1,0 +1,9 @@
+[100] Butterfree / Confusion / Bug Buzz
+[91] Butterfree / Struggle Bug / Bug Buzz
+[89] Butterfree / Confusion / Signal Beam
+[80] Butterfree / Struggle Bug / Signal Beam
+[73] Butterfree / Bug Bite / Bug Buzz
+[71] Butterfree / Confusion / Psychic
+[62] Butterfree / Struggle Bug / Psychic
+[62] Butterfree / Bug Bite / Signal Beam
+[44] Butterfree / Bug Bite / Psychic

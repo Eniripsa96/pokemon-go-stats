@@ -1,0 +1,18 @@
+[3217] Machamp / Bullet Punch / Close Combat
+[3217] Machamp / Counter / Close Combat
+[3217] Machamp / Karate Chop / Close Combat
+[3217] Machamp / Bullet Punch / Cross Chop
+[3217] Machamp / Counter / Cross Chop
+[3217] Machamp / Karate Chop / Cross Chop
+[3217] Machamp / Bullet Punch / Dynamic Punch
+[3217] Machamp / Counter / Dynamic Punch
+[3217] Machamp / Karate Chop / Dynamic Punch
+[3217] Machamp / Bullet Punch / Heavy Slam
+[3217] Machamp / Counter / Heavy Slam
+[3217] Machamp / Karate Chop / Heavy Slam
+[3217] Machamp / Bullet Punch / Stone Edge
+[3217] Machamp / Counter / Stone Edge
+[3217] Machamp / Karate Chop / Stone Edge
+[3217] Machamp / Bullet Punch / Submission
+[3217] Machamp / Counter / Submission
+[3217] Machamp / Karate Chop / Submission

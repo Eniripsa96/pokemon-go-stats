@@ -1,0 +1,6 @@
+[100] Azumarill / Rock Smash / Ice Beam
+[100] Azumarill / Rock Smash / Play Rough
+[94] Azumarill / Bubble / Ice Beam
+[94] Azumarill / Bubble / Play Rough
+[80] Azumarill / Rock Smash / Hydro Pump
+[74] Azumarill / Bubble / Hydro Pump

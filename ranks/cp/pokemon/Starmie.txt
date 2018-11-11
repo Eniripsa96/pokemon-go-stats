@@ -1,0 +1,16 @@
+[2280] Starmie / Hidden Power / Hydro Pump
+[2280] Starmie / Quick Attack / Hydro Pump
+[2280] Starmie / Tackle / Hydro Pump
+[2280] Starmie / Water Gun / Hydro Pump
+[2280] Starmie / Hidden Power / Power Gem
+[2280] Starmie / Quick Attack / Power Gem
+[2280] Starmie / Tackle / Power Gem
+[2280] Starmie / Water Gun / Power Gem
+[2280] Starmie / Hidden Power / Psybeam
+[2280] Starmie / Quick Attack / Psybeam
+[2280] Starmie / Tackle / Psybeam
+[2280] Starmie / Water Gun / Psybeam
+[2280] Starmie / Hidden Power / Psychic
+[2280] Starmie / Quick Attack / Psychic
+[2280] Starmie / Tackle / Psychic
+[2280] Starmie / Water Gun / Psychic

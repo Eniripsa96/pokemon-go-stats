@@ -1,0 +1,6 @@
+[100] Swalot / Infestation / Sludge Bomb
+[94] Swalot / Infestation / Gunk Shot
+[89] Swalot / Rock Smash / Sludge Bomb
+[85] Swalot / Rock Smash / Gunk Shot
+[79] Swalot / Infestation / Ice Beam
+[75] Swalot / Rock Smash / Ice Beam

@@ -1,0 +1,6 @@
+[100] Deoxys Defense Form / Counter / Rock Slide
+[100] Deoxys Defense Form / Zen Headbutt / Rock Slide
+[90] Deoxys Defense Form / Counter / Psycho Boost
+[90] Deoxys Defense Form / Zen Headbutt / Psycho Boost
+[90] Deoxys Defense Form / Counter / Zap Cannon
+[90] Deoxys Defense Form / Zen Headbutt / Zap Cannon

@@ -1,0 +1,6 @@
+[100] Girafarig / Confusion / Psychic
+[96] Girafarig / Confusion / Thunderbolt
+[93] Girafarig / Confusion / Mirror Coat
+[90] Girafarig / Tackle / Psychic
+[88] Girafarig / Tackle / Thunderbolt
+[85] Girafarig / Tackle / Mirror Coat

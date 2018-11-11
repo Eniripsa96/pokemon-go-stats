@@ -1,0 +1,6 @@
+[100] Weavile / Feint Attack / Avalanche
+[96] Weavile / Ice Shard / Avalanche
+[86] Weavile / Feint Attack / Foul Play
+[82] Weavile / Feint Attack / Focus Blast
+[82] Weavile / Ice Shard / Foul Play
+[78] Weavile / Ice Shard / Focus Blast

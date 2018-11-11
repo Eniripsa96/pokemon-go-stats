@@ -1,0 +1,6 @@
+[1662] Furret / Quick Attack / Brick Break
+[1662] Furret / Sucker Punch / Brick Break
+[1662] Furret / Quick Attack / Dig
+[1662] Furret / Sucker Punch / Dig
+[1662] Furret / Quick Attack / Hyper Beam
+[1662] Furret / Sucker Punch / Hyper Beam

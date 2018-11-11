@@ -1,0 +1,6 @@
+[99] Minun / Quick Attack / Discharge
+[95] Minun / Spark / Discharge
+[85] Minun / Quick Attack / Thunderbolt
+[80] Minun / Spark / Thunderbolt
+[68] Minun / Quick Attack / Swift
+[63] Minun / Spark / Swift

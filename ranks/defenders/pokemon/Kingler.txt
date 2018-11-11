@@ -1,0 +1,9 @@
+[100] Kingler / Bubble / Water Pulse
+[97] Kingler / Bubble / X Scissor
+[90] Kingler / Metal Claw / Water Pulse
+[87] Kingler / Metal Claw / X Scissor
+[82] Kingler / Bubble / Vice Grip
+[82] Kingler / Mud Shot / Water Pulse
+[80] Kingler / Mud Shot / X Scissor
+[72] Kingler / Metal Claw / Vice Grip
+[65] Kingler / Mud Shot / Vice Grip

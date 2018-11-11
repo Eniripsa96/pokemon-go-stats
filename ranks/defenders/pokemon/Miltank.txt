@@ -1,0 +1,6 @@
+[100] Miltank / Zen Headbutt / Gyro Ball
+[95] Miltank / Zen Headbutt / Body Slam
+[84] Miltank / Tackle / Gyro Ball
+[79] Miltank / Tackle / Body Slam
+[77] Miltank / Zen Headbutt / Stomp
+[61] Miltank / Tackle / Stomp

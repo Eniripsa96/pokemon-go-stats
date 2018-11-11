@@ -1,0 +1,15 @@
+[2843] Arcanine / Bite / Bulldoze
+[2843] Arcanine / Fire Fang / Bulldoze
+[2843] Arcanine / Snarl / Bulldoze
+[2843] Arcanine / Bite / Crunch
+[2843] Arcanine / Fire Fang / Crunch
+[2843] Arcanine / Snarl / Crunch
+[2843] Arcanine / Bite / Fire Blast
+[2843] Arcanine / Fire Fang / Fire Blast
+[2843] Arcanine / Snarl / Fire Blast
+[2843] Arcanine / Bite / Flamethrower
+[2843] Arcanine / Fire Fang / Flamethrower
+[2843] Arcanine / Snarl / Flamethrower
+[2843] Arcanine / Bite / Wild Charge
+[2843] Arcanine / Fire Fang / Wild Charge
+[2843] Arcanine / Snarl / Wild Charge
