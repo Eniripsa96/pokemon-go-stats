@@ -1058,28 +1058,6 @@ const POKEMON_DATA = {
     ],
     "speed": 91
   },
-  "Rhydon": {
-    "spDef": 45,
-    "types": [
-      "ROCK",
-      "GROUND"
-    ],
-    "spAtk": 45,
-    "def": 120,
-    "hp": 105,
-    "quickMoves": [
-      "Mud Slap",
-      "Rock Smash"
-    ],
-    "atk": 130,
-    "chargeMoves": [
-      "Stone Edge",
-      "Megahorn",
-      "Earthquake",
-      "Surf"
-    ],
-    "speed": 40
-  },
   "Mr Mime": {
     "spDef": 120,
     "types": [
@@ -1898,27 +1876,6 @@ const POKEMON_DATA = {
       "Air Cutter"
     ],
     "speed": 130
-  },
-  "Tangela": {
-    "spDef": 40,
-    "types": [
-      "GRASS"
-    ],
-    "spAtk": 100,
-    "def": 115,
-    "hp": 65,
-    "quickMoves": [
-      "Vine Whip",
-      "Infestation"
-    ],
-    "atk": 55,
-    "chargeMoves": [
-      "Solarbeam",
-      "Grass Knot",
-      "Power Whip",
-      "Sludge Bomb"
-    ],
-    "speed": 60
   },
   "Rayquaza": {
     "spDef": 90,
@@ -2818,27 +2775,6 @@ const POKEMON_DATA = {
     ],
     "speed": 65
   },
-  "Chansey": {
-    "spDef": 105,
-    "types": [
-      "NORMAL"
-    ],
-    "spAtk": 35,
-    "def": 5,
-    "hp": 250,
-    "quickMoves": [
-      "Pound",
-      "Zen Headbutt"
-    ],
-    "atk": 5,
-    "chargeMoves": [
-      "Hyper Beam",
-      "Psychic",
-      "Dazzling Gleam",
-      "Psybeam"
-    ],
-    "speed": 50
-  },
   "Lopunny": {
     "spDef": 96,
     "types": [
@@ -3400,29 +3336,6 @@ const POKEMON_DATA = {
     ],
     "speed": 50
   },
-  "Magneton": {
-    "spDef": 70,
-    "types": [
-      "ELECTRIC",
-      "STEEL"
-    ],
-    "spAtk": 120,
-    "def": 95,
-    "hp": 50,
-    "quickMoves": [
-      "Spark",
-      "Thunder Shock",
-      "Charge Beam"
-    ],
-    "atk": 60,
-    "chargeMoves": [
-      "Zap Cannon",
-      "Flash Cannon",
-      "Discharge",
-      "Magnet Bomb"
-    ],
-    "speed": 70
-  },
   "Medicham": {
     "spDef": 75,
     "types": [
@@ -3841,29 +3754,6 @@ const POKEMON_DATA = {
       "Night Slash"
     ],
     "speed": 115
-  },
-  "Onix": {
-    "spDef": 45,
-    "types": [
-      "ROCK",
-      "GROUND"
-    ],
-    "spAtk": 30,
-    "def": 160,
-    "hp": 35,
-    "quickMoves": [
-      "Rock Throw",
-      "Tackle"
-    ],
-    "atk": 45,
-    "chargeMoves": [
-      "Stone Edge",
-      "Rock Slide",
-      "Heavy Slam",
-      "Iron Head",
-      "Sand Tomb"
-    ],
-    "speed": 70
   },
   "Togekiss": {
     "spDef": 115,
@@ -4512,26 +4402,6 @@ const POKEMON_DATA = {
     ],
     "speed": 100
   },
-  "Porygon2": {
-    "spDef": 95,
-    "types": [
-      "NORMAL"
-    ],
-    "spAtk": 105,
-    "def": 90,
-    "hp": 85,
-    "quickMoves": [
-      "Hidden Power",
-      "Charge Beam"
-    ],
-    "atk": 80,
-    "chargeMoves": [
-      "Hyper Beam",
-      "Zap Cannon",
-      "Solarbeam"
-    ],
-    "speed": 60
-  },
   "Luxray": {
     "spDef": 79,
     "types": [
@@ -4884,46 +4754,6 @@ const POKEMON_DATA = {
       "Icy Wind"
     ],
     "speed": 85
-  },
-  "Electabuzz": {
-    "spDef": 85,
-    "types": [
-      "ELECTRIC"
-    ],
-    "spAtk": 95,
-    "def": 57,
-    "hp": 65,
-    "quickMoves": [
-      "Low Kick",
-      "Thunder Shock"
-    ],
-    "atk": 83,
-    "chargeMoves": [
-      "Thunder",
-      "Thunderbolt",
-      "Thunder Punch"
-    ],
-    "speed": 105
-  },
-  "Magmar": {
-    "spDef": 85,
-    "types": [
-      "FIRE"
-    ],
-    "spAtk": 100,
-    "def": 57,
-    "hp": 65,
-    "quickMoves": [
-      "Ember",
-      "Karate Chop"
-    ],
-    "atk": 95,
-    "chargeMoves": [
-      "Fire Blast",
-      "Flamethrower",
-      "Fire Punch"
-    ],
-    "speed": 93
   },
   "Dewgong": {
     "spDef": 95,
@@ -5519,29 +5349,6 @@ const POKEMON_DATA = {
     ],
     "speed": 75
   },
-  "Scyther": {
-    "spDef": 80,
-    "types": [
-      "BUG",
-      "FLYING"
-    ],
-    "spAtk": 55,
-    "def": 80,
-    "hp": 70,
-    "quickMoves": [
-      "Steel Wing",
-      "Air Slash",
-      "Fury Cutter"
-    ],
-    "atk": 110,
-    "chargeMoves": [
-      "X Scissor",
-      "Bug Buzz",
-      "Aerial Ace",
-      "Night Slash"
-    ],
-    "speed": 105
-  },
   "Darkrai": {
     "spDef": 90,
     "types": [
@@ -5706,26 +5513,6 @@ const POKEMON_DATA = {
       "Ancient Power"
     ],
     "speed": 130
-  },
-  "Dusclops": {
-    "spDef": 130,
-    "types": [
-      "GHOST"
-    ],
-    "spAtk": 60,
-    "def": 130,
-    "hp": 40,
-    "quickMoves": [
-      "Feint Attack",
-      "Hex"
-    ],
-    "atk": 70,
-    "chargeMoves": [
-      "Shadow Punch",
-      "Ice Punch",
-      "Fire Punch"
-    ],
-    "speed": 25
   },
   "Gallade": {
     "spDef": 115,

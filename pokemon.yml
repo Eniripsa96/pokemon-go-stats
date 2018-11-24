@@ -1608,38 +1608,6 @@ Spinda:
   - 'Icy Wind'
   types: 
   - 'NORMAL'
-Electabuzz: 
-  hp: 65
-  atk: 83
-  def: 57
-  spAtk: 95
-  spDef: 85
-  speed: 105
-  quickMoves: 
-  - 'Low Kick'
-  - 'Thunder Shock'
-  chargeMoves: 
-  - 'Thunder'
-  - 'Thunderbolt'
-  - 'Thunder Punch'
-  types: 
-  - 'ELECTRIC'
-Magmar: 
-  hp: 65
-  atk: 95
-  def: 57
-  spAtk: 100
-  spDef: 85
-  speed: 93
-  quickMoves: 
-  - 'Ember'
-  - 'Karate Chop'
-  chargeMoves: 
-  - 'Fire Blast'
-  - 'Flamethrower'
-  - 'Fire Punch'
-  types: 
-  - 'FIRE'
 Deoxys: 
   hp: 50
   atk: 150
@@ -2099,25 +2067,6 @@ Dialga:
   types: 
   - 'DRAGON'
   - 'STEEL'
-Magneton: 
-  hp: 50
-  atk: 60
-  def: 95
-  spAtk: 120
-  spDef: 70
-  speed: 70
-  quickMoves: 
-  - 'Spark'
-  - 'Thunder Shock'
-  - 'Charge Beam'
-  chargeMoves: 
-  - 'Zap Cannon'
-  - 'Flash Cannon'
-  - 'Discharge'
-  - 'Magnet Bomb'
-  types: 
-  - 'ELECTRIC'
-  - 'STEEL'
 Pidgeot: 
   hp: 83
   atk: 80
@@ -2322,25 +2271,6 @@ Groudon:
   - 'Fire Blast'
   types: 
   - 'GROUND'
-Scyther: 
-  hp: 70
-  atk: 110
-  def: 80
-  spAtk: 55
-  spDef: 80
-  speed: 105
-  quickMoves: 
-  - 'Steel Wing'
-  - 'Air Slash'
-  - 'Fury Cutter'
-  chargeMoves: 
-  - 'X Scissor'
-  - 'Bug Buzz'
-  - 'Aerial Ace'
-  - 'Night Slash'
-  types: 
-  - 'BUG'
-  - 'FLYING'
 Bibarel: 
   hp: 79
   atk: 85
@@ -3601,25 +3531,6 @@ Empoleon:
   types: 
   - 'WATER'
   - 'STEEL'
-Onix: 
-  hp: 35
-  atk: 45
-  def: 160
-  spAtk: 30
-  spDef: 45
-  speed: 70
-  quickMoves: 
-  - 'Rock Throw'
-  - 'Tackle'
-  chargeMoves: 
-  - 'Stone Edge'
-  - 'Rock Slide'
-  - 'Heavy Slam'
-  - 'Iron Head'
-  - 'Sand Tomb'
-  types: 
-  - 'ROCK'
-  - 'GROUND'
 Suicune: 
   hp: 100
   atk: 75
@@ -4429,23 +4340,6 @@ Kangaskhan:
   - 'Brick Break'
   types: 
   - 'NORMAL'
-Chansey: 
-  hp: 250
-  atk: 5
-  def: 5
-  spAtk: 35
-  spDef: 105
-  speed: 50
-  quickMoves: 
-  - 'Pound'
-  - 'Zen Headbutt'
-  chargeMoves: 
-  - 'Hyper Beam'
-  - 'Psychic'
-  - 'Dazzling Gleam'
-  - 'Psybeam'
-  types: 
-  - 'NORMAL'
 Mew: 
   hp: 100
   atk: 100
@@ -4501,23 +4395,6 @@ Mesprit:
   - 'Blizzard'
   types: 
   - 'PSYCHIC'
-Tangela: 
-  hp: 65
-  atk: 55
-  def: 115
-  spAtk: 100
-  spDef: 40
-  speed: 60
-  quickMoves: 
-  - 'Vine Whip'
-  - 'Infestation'
-  chargeMoves: 
-  - 'Solarbeam'
-  - 'Grass Knot'
-  - 'Power Whip'
-  - 'Sludge Bomb'
-  types: 
-  - 'GRASS'
 Azumarill: 
   hp: 100
   atk: 50
@@ -4802,22 +4679,6 @@ Parasect:
   types: 
   - 'GRASS'
   - 'BUG'
-Dusclops: 
-  hp: 40
-  atk: 70
-  def: 130
-  spAtk: 60
-  spDef: 130
-  speed: 25
-  quickMoves: 
-  - 'Feint Attack'
-  - 'Hex'
-  chargeMoves: 
-  - 'Shadow Punch'
-  - 'Ice Punch'
-  - 'Fire Punch'
-  types: 
-  - 'GHOST'
 Dragonite: 
   hp: 91
   atk: 134

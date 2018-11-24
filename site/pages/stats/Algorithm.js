@@ -79,6 +79,7 @@ class Algorithm {
     this.finalizeRanges(this.ranges);
     this.finalizeRanges(this.nonLegendRanges);
     Object.keys(this.resultsByPokemon).forEach(pokemon => this.finalizeResults(this.resultsByPokemon[pokemon]));
+    Object.keys(this.rangesByType).forEach(type => this.finalizeRanges(this.rangesByType[type]));
     Object.keys(this.nonLegendRangesByType).forEach(type => this.finalizeRanges(this.nonLegendRangesByType[type]));
   }
 
