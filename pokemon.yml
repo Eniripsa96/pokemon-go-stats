@@ -2776,23 +2776,6 @@ Shuckle:
   types: 
   - 'BUG'
   - 'ROCK'
-Piloswine: 
-  hp: 100
-  atk: 100
-  def: 80
-  spAtk: 60
-  spDef: 60
-  speed: 50
-  quickMoves: 
-  - 'Ice Shard'
-  - 'Powder Snow'
-  chargeMoves: 
-  - 'Stone Edge'
-  - 'Avalanche'
-  - 'Bulldoze'
-  types: 
-  - 'ICE'
-  - 'GROUND'
 Steelix: 
   hp: 75
   atk: 85

@@ -2795,27 +2795,6 @@ const POKEMON_DATA = {
     ],
     "speed": 105
   },
-  "Piloswine": {
-    "spDef": 60,
-    "types": [
-      "ICE",
-      "GROUND"
-    ],
-    "spAtk": 60,
-    "def": 80,
-    "hp": 100,
-    "quickMoves": [
-      "Ice Shard",
-      "Powder Snow"
-    ],
-    "atk": 100,
-    "chargeMoves": [
-      "Stone Edge",
-      "Avalanche",
-      "Bulldoze"
-    ],
-    "speed": 50
-  },
   "Octillery": {
     "spDef": 75,
     "types": [
