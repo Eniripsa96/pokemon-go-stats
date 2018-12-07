@@ -1,6 +1,0 @@
-[100] Huntail / Water Gun / Aqua Tail
-[90] Huntail / Bite / Aqua Tail
-[79] Huntail / Water Gun / Ice Beam
-[74] Huntail / Bite / Ice Beam
-[73] Huntail / Water Gun / Crunch
-[69] Huntail / Bite / Crunch

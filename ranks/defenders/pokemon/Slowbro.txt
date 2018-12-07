@@ -1,6 +1,0 @@
-[100] Slowbro / Confusion / Ice Beam
-[85] Slowbro / Confusion / Water Pulse
-[73] Slowbro / Water Gun / Ice Beam
-[71] Slowbro / Confusion / Psychic
-[58] Slowbro / Water Gun / Water Pulse
-[44] Slowbro / Water Gun / Psychic

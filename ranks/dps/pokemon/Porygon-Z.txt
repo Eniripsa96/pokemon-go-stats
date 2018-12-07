@@ -1,6 +1,0 @@
-[100] Porygon-Z / Hidden Power / Hyper Beam
-[96] Porygon-Z / Charge Beam / Hyper Beam
-[90] Porygon-Z / Hidden Power / Solarbeam
-[85] Porygon-Z / Charge Beam / Solarbeam
-[84] Porygon-Z / Hidden Power / Zap Cannon
-[77] Porygon-Z / Charge Beam / Zap Cannon

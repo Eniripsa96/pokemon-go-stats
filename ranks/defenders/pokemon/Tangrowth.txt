@@ -1,6 +1,0 @@
-[100] Tangrowth / Infestation / Ancient Power
-[94] Tangrowth / Vine Whip / Ancient Power
-[88] Tangrowth / Infestation / Solarbeam
-[82] Tangrowth / Vine Whip / Solarbeam
-[80] Tangrowth / Infestation / Sludge Bomb
-[75] Tangrowth / Vine Whip / Sludge Bomb

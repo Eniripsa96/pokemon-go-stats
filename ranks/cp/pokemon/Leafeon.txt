@@ -1,6 +1,0 @@
-[2762] Leafeon / Quick Attack / Energy Ball
-[2762] Leafeon / Razor Leaf / Energy Ball
-[2762] Leafeon / Quick Attack / Leaf Blade
-[2762] Leafeon / Razor Leaf / Leaf Blade
-[2762] Leafeon / Quick Attack / Solarbeam
-[2762] Leafeon / Razor Leaf / Solarbeam

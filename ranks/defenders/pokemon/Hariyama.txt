@@ -1,6 +1,0 @@
-[100] Hariyama / Counter / Dynamic Punch
-[93] Hariyama / Bullet Punch / Dynamic Punch
-[83] Hariyama / Counter / Heavy Slam
-[77] Hariyama / Bullet Punch / Heavy Slam
-[66] Hariyama / Counter / Close Combat
-[60] Hariyama / Bullet Punch / Close Combat

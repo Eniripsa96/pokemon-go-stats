@@ -1,8 +1,0 @@
-[100] Mewtwo / Confusion / Hyper Beam
-[99] Mewtwo / Confusion / Psychic
-[96] Mewtwo / Confusion / Focus Blast
-[94] Mewtwo / Confusion / Shadow Ball
-[93] Mewtwo / Psycho Cut / Hyper Beam
-[92] Mewtwo / Psycho Cut / Psychic
-[89] Mewtwo / Psycho Cut / Focus Blast
-[88] Mewtwo / Psycho Cut / Shadow Ball

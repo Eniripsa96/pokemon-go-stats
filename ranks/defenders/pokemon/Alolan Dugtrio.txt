@@ -1,6 +1,0 @@
-[100] Alolan Dugtrio / Mud Slap / Mud Bomb
-[85] Alolan Dugtrio / Metal Claw / Mud Bomb
-[81] Alolan Dugtrio / Mud Slap / Earthquake
-[81] Alolan Dugtrio / Mud Slap / Iron Head
-[66] Alolan Dugtrio / Metal Claw / Earthquake
-[66] Alolan Dugtrio / Metal Claw / Iron Head

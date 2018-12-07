@@ -1,6 +1,0 @@
-[100] Slowking / Confusion / Psychic
-[94] Slowking / Confusion / Blizzard
-[90] Slowking / Confusion / Fire Blast
-[90] Slowking / Water Gun / Psychic
-[85] Slowking / Water Gun / Blizzard
-[82] Slowking / Water Gun / Fire Blast

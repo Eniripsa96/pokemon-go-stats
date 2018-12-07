@@ -1,8 +1,0 @@
-[2409] Blastoise / Bite / Flash Cannon
-[2409] Blastoise / Water Gun / Flash Cannon
-[2409] Blastoise / Bite / Hydro Cannon
-[2409] Blastoise / Water Gun / Hydro Cannon
-[2409] Blastoise / Bite / Hydro Pump
-[2409] Blastoise / Water Gun / Hydro Pump
-[2409] Blastoise / Bite / Ice Beam
-[2409] Blastoise / Water Gun / Ice Beam

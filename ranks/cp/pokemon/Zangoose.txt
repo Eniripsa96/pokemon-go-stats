@@ -1,6 +1,0 @@
-[2285] Zangoose / Fury Cutter / Close Combat
-[2285] Zangoose / Shadow Claw / Close Combat
-[2285] Zangoose / Fury Cutter / Dig
-[2285] Zangoose / Shadow Claw / Dig
-[2285] Zangoose / Fury Cutter / Night Slash
-[2285] Zangoose / Shadow Claw / Night Slash

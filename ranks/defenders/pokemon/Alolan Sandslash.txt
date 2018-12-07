@@ -1,6 +1,0 @@
-[100] Alolan Sandslash / Metal Claw / Gyro Ball
-[95] Alolan Sandslash / Powder Snow / Gyro Ball
-[95] Alolan Sandslash / Metal Claw / Night Slash
-[90] Alolan Sandslash / Powder Snow / Night Slash
-[85] Alolan Sandslash / Metal Claw / Blizzard
-[80] Alolan Sandslash / Powder Snow / Blizzard

@@ -1,6 +1,0 @@
-[2601] Staraptor / Quick Attack / Brave Bird
-[2601] Staraptor / Wing Attack / Brave Bird
-[2601] Staraptor / Quick Attack / Close Combat
-[2601] Staraptor / Wing Attack / Close Combat
-[2601] Staraptor / Quick Attack / Heat Wave
-[2601] Staraptor / Wing Attack / Heat Wave

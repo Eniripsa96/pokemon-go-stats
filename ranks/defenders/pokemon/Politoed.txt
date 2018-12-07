@@ -1,8 +1,0 @@
-[100] Politoed / Bubble / Blizzard
-[100] Politoed / Bubble / Hydro Pump
-[100] Politoed / Bubble / Surf
-[94] Politoed / Bubble / Earthquake
-[81] Politoed / Mud Shot / Blizzard
-[81] Politoed / Mud Shot / Hydro Pump
-[81] Politoed / Mud Shot / Surf
-[76] Politoed / Mud Shot / Earthquake

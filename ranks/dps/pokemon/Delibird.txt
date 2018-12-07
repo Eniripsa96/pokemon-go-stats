@@ -1,6 +1,0 @@
-[100] Delibird / Quick Attack / Ice Punch
-[98] Delibird / Ice Shard / Ice Punch
-[85] Delibird / Ice Shard / Aerial Ace
-[84] Delibird / Quick Attack / Aerial Ace
-[75] Delibird / Ice Shard / Icy Wind
-[73] Delibird / Quick Attack / Icy Wind

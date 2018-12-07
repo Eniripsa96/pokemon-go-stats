@@ -1,8 +1,0 @@
-[2665] Typlosion / Ember / Blast Burn
-[2665] Typlosion / Shadow Claw / Blast Burn
-[2665] Typlosion / Ember / Fire Blast
-[2665] Typlosion / Shadow Claw / Fire Blast
-[2665] Typlosion / Ember / Overheat
-[2665] Typlosion / Shadow Claw / Overheat
-[2665] Typlosion / Ember / Solarbeam
-[2665] Typlosion / Shadow Claw / Solarbeam

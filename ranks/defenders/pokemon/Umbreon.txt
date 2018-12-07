@@ -1,6 +1,0 @@
-[100] Umbreon / Snarl / Last Resort
-[95] Umbreon / Feint Attack / Last Resort
-[91] Umbreon / Snarl / Dark Pulse
-[87] Umbreon / Feint Attack / Dark Pulse
-[83] Umbreon / Snarl / Foul Play
-[79] Umbreon / Feint Attack / Foul Play

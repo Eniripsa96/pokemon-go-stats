@@ -1,6 +1,0 @@
-[2489] Octillery / Mud Shot / Aurora Beam
-[2489] Octillery / Water Gun / Aurora Beam
-[2489] Octillery / Mud Shot / Gunk Shot
-[2489] Octillery / Water Gun / Gunk Shot
-[2489] Octillery / Mud Shot / Water Pulse
-[2489] Octillery / Water Gun / Water Pulse

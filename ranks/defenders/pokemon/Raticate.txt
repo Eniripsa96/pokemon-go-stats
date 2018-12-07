@@ -1,6 +1,0 @@
-[100] Raticate / Quick Attack / Dig
-[95] Raticate / Bite / Dig
-[83] Raticate / Quick Attack / Hyper Fang
-[79] Raticate / Quick Attack / Hyper Beam
-[79] Raticate / Bite / Hyper Fang
-[75] Raticate / Bite / Hyper Beam

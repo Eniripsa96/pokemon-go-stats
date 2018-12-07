@@ -19,22 +19,22 @@ class Pokemon {
     console.log(this.name + ' - ' + this.getAttack() + ' / ' + this.getDefense() + ' / ' + this.getStamina() + " : " + (Math.round(2 * (7 * higherAtk / 8 + lowerAtk / 8))));
   }
 
-  getAttack() {
+  getAttack(iv = this.atkIv) {
     const higherAtk = Math.max(this.attack, this.specialAttack);
     const lowerAtk = Math.min(this.attack, this.specialAttack);
     const scaledAttack = Math.round(2 * (7 * higherAtk / 8 + lowerAtk / 8));
-    return Math.round(scaledAttack * this.getSpeedMod() + this.atkIv);
+    return Math.round(scaledAttack * this.getSpeedMod() + iv);
   }
 
-  getStamina() {
-    return (this.health * 1.75 + 50 + this.staIv) | 0
+  getStamina(iv = this.staIv) {
+    return (this.health * 1.75 + 50 + iv) | 0
   }
 
-  getDefense() {
+  getDefense(iv = this.defIv) {
     const higherDef = Math.max(this.defense, this.specialDefense);
     const lowerDef = Math.min(this.defense, this.specialDefense);
     const scaledDefense = Math.round(2 * (5 * higherDef / 8 + 3 * lowerDef / 8));
-    return Math.round(scaledDefense * this.getSpeedMod() + this.defIv);
+    return Math.round(scaledDefense * this.getSpeedMod() + iv);
   }
 
   getSpeedMod() {

@@ -1,6 +1,0 @@
-[100] Manaphy / Bubble / Surf
-[95] Manaphy / Waterfall / Surf
-[93] Manaphy / Bubble / Bubblebeam
-[91] Manaphy / Waterfall / Bubblebeam
-[80] Manaphy / Waterfall / Psychic
-[76] Manaphy / Bubble / Psychic

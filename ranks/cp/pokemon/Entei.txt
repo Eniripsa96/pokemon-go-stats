@@ -1,6 +1,0 @@
-[3211] Entei / Fire Fang / Fire Blast
-[3211] Entei / Fire Spin / Fire Blast
-[3211] Entei / Fire Fang / Flamethrower
-[3211] Entei / Fire Spin / Flamethrower
-[3211] Entei / Fire Fang / Overheat
-[3211] Entei / Fire Spin / Overheat

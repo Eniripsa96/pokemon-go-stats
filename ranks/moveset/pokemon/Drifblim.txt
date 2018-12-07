@@ -1,6 +1,0 @@
-[100] Drifblim / Hex / Shadow Ball
-[97] Drifblim / Astonish / Shadow Ball
-[81] Drifblim / Hex / Ominous Wind
-[78] Drifblim / Astonish / Ominous Wind
-[65] Drifblim / Hex / Icy Wind
-[62] Drifblim / Astonish / Icy Wind

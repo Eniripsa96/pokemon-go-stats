@@ -1,6 +1,0 @@
-[100] Dusknoir / Hex / Ominous Wind
-[96] Dusknoir / Astonish / Ominous Wind
-[94] Dusknoir / Hex / Psychic
-[89] Dusknoir / Astonish / Psychic
-[89] Dusknoir / Hex / Dark Pulse
-[86] Dusknoir / Astonish / Dark Pulse

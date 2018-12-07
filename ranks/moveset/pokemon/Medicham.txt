@@ -1,6 +1,0 @@
-[99] Medicham / Counter / Dynamic Punch
-[97] Medicham / Psycho Cut / Dynamic Punch
-[87] Medicham / Counter / Ice Punch
-[87] Medicham / Counter / Psychic
-[80] Medicham / Psycho Cut / Ice Punch
-[79] Medicham / Psycho Cut / Psychic

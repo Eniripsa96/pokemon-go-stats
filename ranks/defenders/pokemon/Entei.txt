@@ -1,6 +1,0 @@
-[100] Entei / Fire Spin / Overheat
-[93] Entei / Fire Fang / Overheat
-[91] Entei / Fire Spin / Fire Blast
-[91] Entei / Fire Spin / Flamethrower
-[84] Entei / Fire Fang / Fire Blast
-[84] Entei / Fire Fang / Flamethrower

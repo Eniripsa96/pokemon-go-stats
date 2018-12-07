@@ -1,6 +1,0 @@
-[100] Crawdaunt / Waterfall / Night Slash
-[93] Crawdaunt / Waterfall / Bubble Beam
-[91] Crawdaunt / Snarl / Night Slash
-[84] Crawdaunt / Snarl / Bubble Beam
-[80] Crawdaunt / Waterfall / Vice Grip
-[71] Crawdaunt / Snarl / Vice Grip

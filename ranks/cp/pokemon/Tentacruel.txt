@@ -1,6 +1,0 @@
-[2231] Tentacruel / Acid / Blizzard
-[2231] Tentacruel / Poison Jab / Blizzard
-[2231] Tentacruel / Acid / Hydro Pump
-[2231] Tentacruel / Poison Jab / Hydro Pump
-[2231] Tentacruel / Acid / Sludge Wave
-[2231] Tentacruel / Poison Jab / Sludge Wave

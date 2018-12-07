@@ -1,9 +1,0 @@
-[100] Weezing / Infestation / Shadow Ball
-[98] Weezing / Acid / Shadow Ball
-[90] Weezing / Tackle / Shadow Ball
-[84] Weezing / Infestation / Dark Pulse
-[84] Weezing / Infestation / Sludge Bomb
-[82] Weezing / Acid / Dark Pulse
-[82] Weezing / Acid / Sludge Bomb
-[74] Weezing / Tackle / Dark Pulse
-[74] Weezing / Tackle / Sludge Bomb

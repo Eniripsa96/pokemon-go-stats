@@ -1,6 +1,0 @@
-[100] Sceptile / Fury Cutter / Leaf Blade
-[97] Sceptile / Bullet Seed / Leaf Blade
-[71] Sceptile / Bullet Seed / Earthquake
-[71] Sceptile / Fury Cutter / Earthquake
-[69] Sceptile / Bullet Seed / Aerial Ace
-[68] Sceptile / Fury Cutter / Aerial Ace

@@ -1,6 +1,0 @@
-[100] Cradily / Infestation / Grass Knot
-[96] Cradily / Acid / Grass Knot
-[79] Cradily / Infestation / Stone Edge
-[79] Cradily / Acid / Stone Edge
-[68] Cradily / Acid / Bulldoze
-[66] Cradily / Infestation / Bulldoze

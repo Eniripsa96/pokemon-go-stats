@@ -1,6 +1,0 @@
-[100] Alolan Raticate / Quick Attack / Hyper Beam
-[95] Alolan Raticate / Quick Attack / Hyper Fang
-[92] Alolan Raticate / Bite / Hyper Beam
-[89] Alolan Raticate / Bite / Hyper Fang
-[81] Alolan Raticate / Quick Attack / Crunch
-[80] Alolan Raticate / Bite / Crunch

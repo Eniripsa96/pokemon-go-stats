@@ -1,9 +1,0 @@
-[1757] Electrode / Spark / Discharge
-[1757] Electrode / Tackle / Discharge
-[1757] Electrode / Volt Switch / Discharge
-[1757] Electrode / Spark / Hyper Beam
-[1757] Electrode / Tackle / Hyper Beam
-[1757] Electrode / Volt Switch / Hyper Beam
-[1757] Electrode / Spark / Thunderbolt
-[1757] Electrode / Tackle / Thunderbolt
-[1757] Electrode / Volt Switch / Thunderbolt

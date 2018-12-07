@@ -1,9 +1,0 @@
-[2100] Parasect / Bug Bite / Cross Poison
-[2100] Parasect / Fury Cutter / Cross Poison
-[2100] Parasect / Struggle Bug / Cross Poison
-[2100] Parasect / Bug Bite / Solarbeam
-[2100] Parasect / Fury Cutter / Solarbeam
-[2100] Parasect / Struggle Bug / Solarbeam
-[2100] Parasect / Bug Bite / X Scissor
-[2100] Parasect / Fury Cutter / X Scissor
-[2100] Parasect / Struggle Bug / X Scissor

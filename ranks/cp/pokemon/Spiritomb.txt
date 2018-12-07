@@ -1,6 +1,0 @@
-[2295] Spiritomb / Feint Attack / Ominous Wind
-[2295] Spiritomb / Sucker Punch / Ominous Wind
-[2295] Spiritomb / Feint Attack / Shadow Ball
-[2295] Spiritomb / Sucker Punch / Shadow Ball
-[2295] Spiritomb / Feint Attack / Shadow Sneak
-[2295] Spiritomb / Sucker Punch / Shadow Sneak

@@ -1,6 +1,0 @@
-[100] Piloswine / Powder Snow / Avalanche
-[96] Piloswine / Ice Shard / Avalanche
-[78] Piloswine / Ice Shard / Bulldoze
-[76] Piloswine / Powder Snow / Bulldoze
-[72] Piloswine / Ice Shard / Stone Edge
-[67] Piloswine / Powder Snow / Stone Edge

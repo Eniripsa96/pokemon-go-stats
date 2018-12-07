@@ -1,6 +1,0 @@
-[3007] Celebi / Charge Beam / Dazzling Gleam
-[3007] Celebi / Confusion / Dazzling Gleam
-[3007] Celebi / Charge Beam / Hyper Beam
-[3007] Celebi / Confusion / Hyper Beam
-[3007] Celebi / Charge Beam / Psychic
-[3007] Celebi / Confusion / Psychic

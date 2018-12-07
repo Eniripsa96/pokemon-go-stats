@@ -1,6 +1,0 @@
-[100] Armaldo / Fury Cutter / Rock Blast
-[98] Armaldo / Struggle Bug / Rock Blast
-[95] Armaldo / Fury Cutter / Cross Poison
-[95] Armaldo / Struggle Bug / Cross Poison
-[83] Armaldo / Struggle Bug / Water Pulse
-[80] Armaldo / Fury Cutter / Water Pulse

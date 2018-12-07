@@ -1,6 +1,0 @@
-[100] Dusclops / Feint Attack / Fire Punch
-[100] Dusclops / Hex / Fire Punch
-[93] Dusclops / Feint Attack / Ice Punch
-[93] Dusclops / Hex / Ice Punch
-[79] Dusclops / Feint Attack / Shadow Punch
-[79] Dusclops / Hex / Shadow Punch

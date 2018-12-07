@@ -1,6 +1,0 @@
-[100] Granbull / Snarl / Crunch
-[88] Granbull / Bite / Crunch
-[88] Granbull / Snarl / Play Rough
-[77] Granbull / Bite / Play Rough
-[59] Granbull / Snarl / Close Combat
-[48] Granbull / Bite / Close Combat

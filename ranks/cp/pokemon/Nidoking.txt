@@ -1,9 +1,0 @@
-[2467] Nidoking / Fury Cutter / Earthquake
-[2467] Nidoking / Iron Tail / Earthquake
-[2467] Nidoking / Poison Jab / Earthquake
-[2467] Nidoking / Fury Cutter / Megahorn
-[2467] Nidoking / Iron Tail / Megahorn
-[2467] Nidoking / Poison Jab / Megahorn
-[2467] Nidoking / Fury Cutter / Sludge Wave
-[2467] Nidoking / Iron Tail / Sludge Wave
-[2467] Nidoking / Poison Jab / Sludge Wave

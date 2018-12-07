@@ -1,6 +1,0 @@
-[100] Alolan Ninetails / Feint Attack / Dazzling Gleam
-[92] Alolan Ninetails / Powder Snow / Dazzling Gleam
-[92] Alolan Ninetails / Feint Attack / Ice Beam
-[84] Alolan Ninetails / Powder Snow / Ice Beam
-[72] Alolan Ninetails / Feint Attack / Blizzard
-[64] Alolan Ninetails / Powder Snow / Blizzard

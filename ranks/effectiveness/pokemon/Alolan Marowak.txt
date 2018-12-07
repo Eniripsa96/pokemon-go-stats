@@ -1,6 +1,0 @@
-[100] Alolan Marowak / Hex / Shadow Ball
-[90] Alolan Marowak / Hex / Fire Blast
-[88] Alolan Marowak / Rock Smash / Shadow Ball
-[80] Alolan Marowak / Rock Smash / Fire Blast
-[77] Alolan Marowak / Hex / Bone Club
-[70] Alolan Marowak / Rock Smash / Bone Club

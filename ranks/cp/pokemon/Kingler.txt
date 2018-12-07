@@ -1,9 +1,0 @@
-[2785] Kingler / Bubble / Vice Grip
-[2785] Kingler / Metal Claw / Vice Grip
-[2785] Kingler / Mud Shot / Vice Grip
-[2785] Kingler / Bubble / Water Pulse
-[2785] Kingler / Metal Claw / Water Pulse
-[2785] Kingler / Mud Shot / Water Pulse
-[2785] Kingler / Bubble / X Scissor
-[2785] Kingler / Metal Claw / X Scissor
-[2785] Kingler / Mud Shot / X Scissor

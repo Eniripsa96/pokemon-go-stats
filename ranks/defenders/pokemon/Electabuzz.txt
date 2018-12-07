@@ -1,6 +1,0 @@
-[100] Electabuzz / Low Kick / Thunderbolt
-[97] Electabuzz / Thunder Shock / Thunderbolt
-[86] Electabuzz / Low Kick / Thunder Punch
-[84] Electabuzz / Thunder Shock / Thunder Punch
-[68] Electabuzz / Low Kick / Thunder
-[65] Electabuzz / Thunder Shock / Thunder

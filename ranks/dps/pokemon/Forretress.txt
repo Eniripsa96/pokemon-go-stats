@@ -1,6 +1,0 @@
-[100] Forretress / Bug Bite / Heavy Slam
-[94] Forretress / Struggle Bug / Heavy Slam
-[87] Forretress / Bug Bite / Earthquake
-[86] Forretress / Bug Bite / Rock Tomb
-[83] Forretress / Struggle Bug / Earthquake
-[82] Forretress / Struggle Bug / Rock Tomb

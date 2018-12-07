@@ -1,8 +1,0 @@
-[100] Typlosion / Ember / Blast Burn
-[98] Typlosion / Shadow Claw / Blast Burn
-[85] Typlosion / Ember / Solarbeam
-[83] Typlosion / Shadow Claw / Solarbeam
-[77] Typlosion / Ember / Overheat
-[75] Typlosion / Shadow Claw / Overheat
-[70] Typlosion / Ember / Fire Blast
-[68] Typlosion / Shadow Claw / Fire Blast

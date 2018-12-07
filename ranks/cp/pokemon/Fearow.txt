@@ -1,8 +1,0 @@
-[1817] Fearow / Peck / Aerial Ace
-[1817] Fearow / Steel Wing / Aerial Ace
-[1817] Fearow / Peck / Drill Run
-[1817] Fearow / Steel Wing / Drill Run
-[1817] Fearow / Peck / Sky Attack
-[1817] Fearow / Steel Wing / Sky Attack
-[1817] Fearow / Peck / Twister
-[1817] Fearow / Steel Wing / Twister

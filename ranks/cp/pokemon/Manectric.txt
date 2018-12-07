@@ -1,6 +1,0 @@
-[2117] Manectric / Charge Beam / Flame Burst
-[2117] Manectric / Snarl / Flame Burst
-[2117] Manectric / Charge Beam / Thunder
-[2117] Manectric / Snarl / Thunder
-[2117] Manectric / Charge Beam / Wild Charge
-[2117] Manectric / Snarl / Wild Charge

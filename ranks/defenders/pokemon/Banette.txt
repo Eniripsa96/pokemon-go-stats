@@ -1,6 +1,0 @@
-[100] Banette / Hex / Dazzling Gleam
-[100] Banette / Hex / Shadow Ball
-[97] Banette / Shadow Claw / Dazzling Gleam
-[97] Banette / Shadow Claw / Shadow Ball
-[59] Banette / Hex / Thunder
-[57] Banette / Shadow Claw / Thunder

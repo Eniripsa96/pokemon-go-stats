@@ -1,9 +1,0 @@
-[2640] Kabutops / Fury Cutter / Ancient Power
-[2640] Kabutops / Mud Shot / Ancient Power
-[2640] Kabutops / Rock Smash / Ancient Power
-[2640] Kabutops / Fury Cutter / Stone Edge
-[2640] Kabutops / Mud Shot / Stone Edge
-[2640] Kabutops / Rock Smash / Stone Edge
-[2640] Kabutops / Fury Cutter / Water Pulse
-[2640] Kabutops / Mud Shot / Water Pulse
-[2640] Kabutops / Rock Smash / Water Pulse

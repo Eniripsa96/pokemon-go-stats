@@ -1,6 +1,0 @@
-[100] Deoxys / Zen Headbutt / Thunderbolt
-[95] Deoxys / Zen Headbutt / Hyper Beam
-[90] Deoxys / Zen Headbutt / Psycho Boost
-[90] Deoxys / Charge Beam / Thunderbolt
-[86] Deoxys / Charge Beam / Hyper Beam
-[81] Deoxys / Charge Beam / Psycho Boost

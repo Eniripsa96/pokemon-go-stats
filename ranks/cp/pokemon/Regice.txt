@@ -1,6 +1,0 @@
-[3309] Regice / Frost Breath / Blizzard
-[3309] Regice / Rock Smash / Blizzard
-[3309] Regice / Frost Breath / Earthquake
-[3309] Regice / Rock Smash / Earthquake
-[3309] Regice / Frost Breath / Focus Blast
-[3309] Regice / Rock Smash / Focus Blast

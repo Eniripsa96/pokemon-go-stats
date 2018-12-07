@@ -1,6 +1,0 @@
-[100] Torterra / Razor Leaf / Solarbeam
-[90] Torterra / Bite / Solarbeam
-[88] Torterra / Razor Leaf / Earthquake
-[81] Torterra / Razor Leaf / Stone Edge
-[77] Torterra / Bite / Earthquake
-[68] Torterra / Bite / Stone Edge

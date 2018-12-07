@@ -1,9 +1,0 @@
-[99] Tyranitar / Smack Down / Stone Edge
-[97] Tyranitar / Bite / Stone Edge
-[96] Tyranitar / Smack Down / Crunch
-[94] Tyranitar / Bite / Crunch
-[93] Tyranitar / Smack Down / Fire Blast
-[89] Tyranitar / Bite / Fire Blast
-[87] Tyranitar / Iron Tail / Crunch
-[86] Tyranitar / Iron Tail / Stone Edge
-[81] Tyranitar / Iron Tail / Fire Blast

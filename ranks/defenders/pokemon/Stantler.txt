@@ -1,6 +1,0 @@
-[100] Stantler / Zen Headbutt / Wild Charge
-[85] Stantler / Tackle / Wild Charge
-[70] Stantler / Zen Headbutt / Stomp
-[62] Stantler / Zen Headbutt / Megahorn
-[56] Stantler / Tackle / Stomp
-[47] Stantler / Tackle / Megahorn

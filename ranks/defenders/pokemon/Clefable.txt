@@ -1,9 +1,0 @@
-[100] Clefable / Zen Headbutt / Dazzling Gleam
-[92] Clefable / Charge Beam / Dazzling Gleam
-[90] Clefable / Pound / Dazzling Gleam
-[73] Clefable / Zen Headbutt / Moonblast
-[65] Clefable / Charge Beam / Moonblast
-[63] Clefable / Pound / Moonblast
-[61] Clefable / Zen Headbutt / Psychic
-[53] Clefable / Charge Beam / Psychic
-[51] Clefable / Pound / Psychic

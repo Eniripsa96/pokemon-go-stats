@@ -1,6 +1,0 @@
-[100] Mantine / Bubble / Ice Beam
-[93] Mantine / Bubble / Aerial Ace
-[91] Mantine / Wing Attack / Ice Beam
-[85] Mantine / Wing Attack / Aerial Ace
-[83] Mantine / Bubble / Water Pulse
-[75] Mantine / Wing Attack / Water Pulse

@@ -1,6 +1,0 @@
-[2370] Toxicroak / Counter / Dynamic Punch
-[2370] Toxicroak / Poison Jab / Dynamic Punch
-[2370] Toxicroak / Counter / Mud Bomb
-[2370] Toxicroak / Poison Jab / Mud Bomb
-[2370] Toxicroak / Counter / Sludge Bomb
-[2370] Toxicroak / Poison Jab / Sludge Bomb

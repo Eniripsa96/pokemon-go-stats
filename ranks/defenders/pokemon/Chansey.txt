@@ -1,8 +1,0 @@
-[100] Chansey / Zen Headbutt / Dazzling Gleam
-[90] Chansey / Pound / Dazzling Gleam
-[80] Chansey / Zen Headbutt / Hyper Beam
-[76] Chansey / Zen Headbutt / Psybeam
-[71] Chansey / Pound / Hyper Beam
-[67] Chansey / Pound / Psybeam
-[61] Chansey / Zen Headbutt / Psychic
-[51] Chansey / Pound / Psychic

@@ -1,6 +1,0 @@
-[100] Dunsparce / Bite / Drill Run
-[100] Dunsparce / Bite / Rock Slide
-[97] Dunsparce / Astonish / Drill Run
-[97] Dunsparce / Astonish / Rock Slide
-[90] Dunsparce / Bite / Dig
-[86] Dunsparce / Astonish / Dig

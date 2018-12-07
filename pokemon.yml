@@ -3568,6 +3568,22 @@ Lapras:
   types: 
   - 'WATER'
   - 'ICE'
+Melmetal: 
+  hp: 135
+  atk: 143
+  def: 143
+  spAtk: 80
+  spDef: 65
+  speed: 34
+  quickMoves: 
+  - 'Thunder Shock'
+  chargeMoves: 
+  - 'Flash Cannon'
+  - 'Thunderbolt'
+  - 'Hyper Beam'
+  - 'Rock Slide'
+  types: 
+  - 'STEEL'
 Latias: 
   hp: 80
   atk: 80
@@ -3719,6 +3735,7 @@ Ampharos:
   - 'Dragon Pulse'
   types: 
   - 'ELECTRIC'
+  - 'DRAGON'
 Forretress: 
   hp: 75
   atk: 90
@@ -4331,19 +4348,46 @@ Mew:
   spDef: 100
   speed: 100
   quickMoves: 
+  - 'Steel Wing'
+  - 'Charge Beam'
+  - 'Shadow Claw'
+  - 'Volt Switch'
+  - 'Struggle Bug'
+  - 'Dragon Tail'
+  - 'Frost Breath'
+  - 'Infestation'
+  - 'Poison Jab'
+  - 'Rock Smash'
+  - 'Snarl'
+  - 'Cut'
   - 'Pound'
+  - 'Waterfall'
   chargeMoves: 
   - 'Psychic'
-  - 'Thunder'
+  - 'Ancient Power'
+  - 'Dragon Claw'
+  - 'Psyshock'
+  - 'Ice Beam'
   - 'Blizzard'
   - 'Hyper Beam'
-  - 'Focus Blast'
-  - 'Hurricane'
   - 'Solarbeam'
-  - 'Moonblast'
-  - 'Fire Blast'
-  - 'Earthquake'
-  - 'Dragon Pulse'
+  - 'Thunderbolt'
+  - 'Thunder'
+  - 'Flame Charge'
+  - 'Low Sweep'
+  - 'Overheat'
+  - 'Energy Ball'
+  - 'Stone Edge'
+  - 'Focus Blast'
+  - 'Gyro Ball'
+  - 'Bulldoze'
+  - 'Rock Slide'
+  - 'Grass Knot'
+  - 'Flash Cannon'
+  - 'Wild Charge'
+  - 'Dark Pulse'
+  - 'Dazzling Gleam'
+  - 'Surf'
   types: 
   - 'PSYCHIC'
 Regirock: 

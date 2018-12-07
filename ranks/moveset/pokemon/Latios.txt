@@ -1,6 +1,0 @@
-[100] Latios / Dragon Breath / Dragon Claw
-[99] Latios / Zen Headbutt / Dragon Claw
-[92] Latios / Dragon Breath / Solarbeam
-[90] Latios / Zen Headbutt / Solarbeam
-[89] Latios / Dragon Breath / Psychic
-[87] Latios / Zen Headbutt / Psychic

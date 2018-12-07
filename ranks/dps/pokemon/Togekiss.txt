@@ -1,6 +1,0 @@
-[100] Togekiss / Air Slash / Dazzling Gleam
-[92] Togekiss / Hidden Power / Dazzling Gleam
-[89] Togekiss / Air Slash / Aerial Ace
-[81] Togekiss / Hidden Power / Aerial Ace
-[77] Togekiss / Air Slash / Ancient Power
-[69] Togekiss / Hidden Power / Ancient Power

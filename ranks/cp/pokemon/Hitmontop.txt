@@ -1,6 +1,0 @@
-[2163] Hitmontop / Counter / Close Combat
-[2163] Hitmontop / Rock Smash / Close Combat
-[2163] Hitmontop / Counter / Gyro Ball
-[2163] Hitmontop / Rock Smash / Gyro Ball
-[2163] Hitmontop / Counter / Stone Edge
-[2163] Hitmontop / Rock Smash / Stone Edge

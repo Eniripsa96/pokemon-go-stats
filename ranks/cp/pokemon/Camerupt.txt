@@ -1,6 +1,0 @@
-[2380] Camerupt / Ember / Earthquake
-[2380] Camerupt / Rock Smash / Earthquake
-[2380] Camerupt / Ember / Overheat
-[2380] Camerupt / Rock Smash / Overheat
-[2380] Camerupt / Ember / Solarbeam
-[2380] Camerupt / Rock Smash / Solarbeam

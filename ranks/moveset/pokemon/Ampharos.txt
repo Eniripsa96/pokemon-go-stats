@@ -1,8 +1,0 @@
-[100] Ampharos / Charge Beam / Zap Cannon
-[96] Ampharos / Volt Switch / Zap Cannon
-[87] Ampharos / Charge Beam / Thunder
-[85] Ampharos / Volt Switch / Thunder
-[85] Ampharos / Charge Beam / Focus Blast
-[84] Ampharos / Volt Switch / Focus Blast
-[79] Ampharos / Charge Beam / Dragon Pulse
-[78] Ampharos / Volt Switch / Dragon Pulse

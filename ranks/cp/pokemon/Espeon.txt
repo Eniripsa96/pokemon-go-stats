@@ -1,8 +1,0 @@
-[2849] Espeon / Confusion / Future Sight
-[2849] Espeon / Zen Headbutt / Future Sight
-[2849] Espeon / Confusion / Last Resort
-[2849] Espeon / Zen Headbutt / Last Resort
-[2849] Espeon / Confusion / Psybeam
-[2849] Espeon / Zen Headbutt / Psybeam
-[2849] Espeon / Confusion / Psychic
-[2849] Espeon / Zen Headbutt / Psychic

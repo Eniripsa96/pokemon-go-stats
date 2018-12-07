@@ -1,6 +1,0 @@
-[2048] Arbok / Acid / Dark Pulse
-[2048] Arbok / Bite / Dark Pulse
-[2048] Arbok / Acid / Gunk Shot
-[2048] Arbok / Bite / Gunk Shot
-[2048] Arbok / Acid / Sludge Wave
-[2048] Arbok / Bite / Sludge Wave

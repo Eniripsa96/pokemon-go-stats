@@ -1,6 +1,0 @@
-[100] Qwilfish / Water Gun / Aqua Tail
-[93] Qwilfish / Poison Sting / Aqua Tail
-[79] Qwilfish / Water Gun / Ice Beam
-[75] Qwilfish / Water Gun / Sludge Wave
-[71] Qwilfish / Poison Sting / Ice Beam
-[65] Qwilfish / Poison Sting / Sludge Wave

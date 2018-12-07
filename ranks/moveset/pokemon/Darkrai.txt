@@ -1,6 +1,0 @@
-[100] Darkrai / Snarl / Focus Blast
-[98] Darkrai / Feint Attack / Focus Blast
-[98] Darkrai / Snarl / Dark Pulse
-[98] Darkrai / Snarl / Shadow Ball
-[97] Darkrai / Feint Attack / Dark Pulse
-[97] Darkrai / Feint Attack / Shadow Ball

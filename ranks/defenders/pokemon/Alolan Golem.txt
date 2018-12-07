@@ -1,6 +1,0 @@
-[100] Alolan Golem / Volt Switch / Wild Charge
-[89] Alolan Golem / Volt Switch / Rock Blast
-[85] Alolan Golem / Rock Throw / Wild Charge
-[75] Alolan Golem / Rock Throw / Rock Blast
-[71] Alolan Golem / Volt Switch / Stone Edge
-[57] Alolan Golem / Rock Throw / Stone Edge

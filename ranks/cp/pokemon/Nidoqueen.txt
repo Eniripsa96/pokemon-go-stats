@@ -1,6 +1,0 @@
-[2442] Nidoqueen / Bite / Earthquake
-[2442] Nidoqueen / Poison Jab / Earthquake
-[2442] Nidoqueen / Bite / Sludge Wave
-[2442] Nidoqueen / Poison Jab / Sludge Wave
-[2442] Nidoqueen / Bite / Stone Edge
-[2442] Nidoqueen / Poison Jab / Stone Edge

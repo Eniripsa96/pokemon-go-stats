@@ -1,6 +1,0 @@
-[2235] Magcargo / Ember / Heat Wave
-[2235] Magcargo / Rock Throw / Heat Wave
-[2235] Magcargo / Ember / Overheat
-[2235] Magcargo / Rock Throw / Overheat
-[2235] Magcargo / Ember / Stone Edge
-[2235] Magcargo / Rock Throw / Stone Edge

@@ -1,6 +1,0 @@
-[3215] Donphan / Counter / Earthquake
-[3215] Donphan / Tackle / Earthquake
-[3215] Donphan / Counter / Heavy Slam
-[3215] Donphan / Tackle / Heavy Slam
-[3215] Donphan / Counter / Play Rough
-[3215] Donphan / Tackle / Play Rough

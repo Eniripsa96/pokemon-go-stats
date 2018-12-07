@@ -1,8 +1,0 @@
-[3805] Metagross / Bullet Punch / Earthquake
-[3805] Metagross / Zen Headbutt / Earthquake
-[3805] Metagross / Bullet Punch / Flash Cannon
-[3805] Metagross / Zen Headbutt / Flash Cannon
-[3805] Metagross / Bullet Punch / Meteor Mash
-[3805] Metagross / Zen Headbutt / Meteor Mash
-[3805] Metagross / Bullet Punch / Psychic
-[3805] Metagross / Zen Headbutt / Psychic

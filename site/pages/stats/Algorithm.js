@@ -1,6 +1,6 @@
 import {POKEMON_MAP} from "app/data/Database";
 
-const LEGENDARIES = [
+export const LEGENDARIES = [
   "Giratina", "Dialga", "Palkia", "Kyogre", "Arceus", "Rayquaza", "Groudon",
   "Ho-Oh", "Regigigas", "Lugia", "Mewtwo", "Heatran", "Regirock", "Jirachi",
   "Regice", "Cresselia", "Latias", "Entei", "Manaphy", "Latios", "Moltres",
@@ -97,7 +97,7 @@ class Algorithm {
     });
     if (this.percentage) {
       const m = 100 / resultList[0].rank;
-      resultList.forEach(result => result.rank = Math.round(result.rank * m));
+      resultList.forEach(result => result.rank = Math.round(result.rank * m * 10) / 10);
     }
   }
 

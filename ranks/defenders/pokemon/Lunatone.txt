@@ -1,6 +1,0 @@
-[100] Lunatone / Confusion / Rock Slide
-[88] Lunatone / Confusion / Moonblast
-[84] Lunatone / Rock Throw / Rock Slide
-[76] Lunatone / Confusion / Psychic
-[73] Lunatone / Rock Throw / Moonblast
-[61] Lunatone / Rock Throw / Psychic

@@ -1,6 +1,0 @@
-[100] Breloom / Counter / Dynamic Punch
-[93] Breloom / Counter / Seed Bomb
-[91] Breloom / Bullet Seed / Dynamic Punch
-[91] Breloom / Counter / Sludge Bomb
-[85] Breloom / Bullet Seed / Seed Bomb
-[83] Breloom / Bullet Seed / Sludge Bomb

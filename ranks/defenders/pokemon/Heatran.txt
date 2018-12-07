@@ -1,6 +1,0 @@
-[100] Heatran / Fire Spin / Fire Blast
-[90] Heatran / Fire Spin / Iron Head
-[80] Heatran / Fire Spin / Stone Edge
-[78] Heatran / Bug Bite / Fire Blast
-[69] Heatran / Bug Bite / Iron Head
-[59] Heatran / Bug Bite / Stone Edge

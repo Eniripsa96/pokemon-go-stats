@@ -1,6 +1,0 @@
-[100] Magnezone / Spark / Wild Charge
-[98] Magnezone / Charge Beam / Wild Charge
-[91] Magnezone / Spark / Zap Cannon
-[89] Magnezone / Charge Beam / Zap Cannon
-[81] Magnezone / Spark / Flash Cannon
-[78] Magnezone / Charge Beam / Flash Cannon

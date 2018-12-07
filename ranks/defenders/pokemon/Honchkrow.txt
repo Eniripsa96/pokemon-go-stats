@@ -1,6 +1,0 @@
-[100] Honchkrow / Snarl / Dark Pulse
-[95] Honchkrow / Peck / Dark Pulse
-[72] Honchkrow / Snarl / Psychic
-[68] Honchkrow / Snarl / Brave Bird
-[68] Honchkrow / Peck / Psychic
-[63] Honchkrow / Peck / Brave Bird

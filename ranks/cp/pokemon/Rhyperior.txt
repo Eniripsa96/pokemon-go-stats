@@ -1,6 +1,0 @@
-[4066] Rhyperior / Mud Slap / Earthquake
-[4066] Rhyperior / Smack Down / Earthquake
-[4066] Rhyperior / Mud Slap / Stone Edge
-[4066] Rhyperior / Smack Down / Stone Edge
-[4066] Rhyperior / Mud Slap / Surf
-[4066] Rhyperior / Smack Down / Surf

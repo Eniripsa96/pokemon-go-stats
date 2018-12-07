@@ -1,6 +1,0 @@
-[100] Vespiqueen / Bug Bite / X Scissor
-[95] Vespiqueen / Bug Bite / Bug Buzz
-[88] Vespiqueen / Bug Bite / Power Gem
-[86] Vespiqueen / Poison Sting / X Scissor
-[84] Vespiqueen / Poison Sting / Bug Buzz
-[76] Vespiqueen / Poison Sting / Power Gem

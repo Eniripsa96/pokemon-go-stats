@@ -1,6 +1,0 @@
-[100] Lucario / Counter / Close Combat
-[100] Lucario / Counter / Flash Cannon
-[95] Lucario / Counter / Shadow Ball
-[91] Lucario / Bullet Punch / Close Combat
-[91] Lucario / Bullet Punch / Flash Cannon
-[88] Lucario / Bullet Punch / Shadow Ball

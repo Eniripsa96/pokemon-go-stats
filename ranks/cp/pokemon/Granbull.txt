@@ -1,6 +1,0 @@
-[2733] Granbull / Bite / Close Combat
-[2733] Granbull / Snarl / Close Combat
-[2733] Granbull / Bite / Crunch
-[2733] Granbull / Snarl / Crunch
-[2733] Granbull / Bite / Play Rough
-[2733] Granbull / Snarl / Play Rough

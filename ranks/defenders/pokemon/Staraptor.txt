@@ -1,6 +1,0 @@
-[100] Staraptor / Quick Attack / Close Combat
-[100] Staraptor / Wing Attack / Close Combat
-[96] Staraptor / Quick Attack / Heat Wave
-[96] Staraptor / Wing Attack / Heat Wave
-[92] Staraptor / Quick Attack / Brave Bird
-[92] Staraptor / Wing Attack / Brave Bird

@@ -1,6 +1,0 @@
-[100] Empoleon / Waterfall / Blizzard
-[100] Empoleon / Waterfall / Hydro Pump
-[85] Empoleon / Waterfall / Flash Cannon
-[80] Empoleon / Metal Claw / Blizzard
-[80] Empoleon / Metal Claw / Hydro Pump
-[66] Empoleon / Metal Claw / Flash Cannon

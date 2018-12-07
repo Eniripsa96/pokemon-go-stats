@@ -1,6 +1,0 @@
-[100] Glaceon / Ice Shard / Avalanche
-[100] Glaceon / Ice Shard / Ice Beam
-[100] Glaceon / Ice Shard / Icy Wind
-[95] Glaceon / Frost Breath / Avalanche
-[95] Glaceon / Frost Breath / Ice Beam
-[95] Glaceon / Frost Breath / Icy Wind

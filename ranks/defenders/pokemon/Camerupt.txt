@@ -1,6 +1,0 @@
-[100] Camerupt / Rock Smash / Solarbeam
-[92] Camerupt / Rock Smash / Overheat
-[90] Camerupt / Ember / Solarbeam
-[82] Camerupt / Ember / Overheat
-[76] Camerupt / Rock Smash / Earthquake
-[66] Camerupt / Ember / Earthquake

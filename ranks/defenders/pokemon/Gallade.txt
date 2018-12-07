@@ -1,6 +1,0 @@
-[100] Gallade / Confusion / Leaf Blade
-[77] Gallade / Low Kick / Leaf Blade
-[64] Gallade / Confusion / Close Combat
-[64] Gallade / Confusion / Psychic
-[41] Gallade / Low Kick / Close Combat
-[41] Gallade / Low Kick / Psychic

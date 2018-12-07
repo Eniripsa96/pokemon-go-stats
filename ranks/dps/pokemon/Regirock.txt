@@ -1,6 +1,0 @@
-[100] Regirock / Rock Throw / Stone Edge
-[97] Regirock / Rock Throw / Focus Blast
-[97] Regirock / Rock Throw / Zap Cannon
-[80] Regirock / Rock Smash / Stone Edge
-[79] Regirock / Rock Smash / Focus Blast
-[79] Regirock / Rock Smash / Zap Cannon

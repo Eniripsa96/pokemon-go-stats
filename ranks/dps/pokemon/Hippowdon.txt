@@ -1,6 +1,0 @@
-[100] Hippowdon / Fire Fang / Body Slam
-[100] Hippowdon / Fire Fang / Earthquake
-[95] Hippowdon / Bite / Body Slam
-[95] Hippowdon / Bite / Earthquake
-[88] Hippowdon / Fire Fang / Stone Edge
-[85] Hippowdon / Bite / Stone Edge

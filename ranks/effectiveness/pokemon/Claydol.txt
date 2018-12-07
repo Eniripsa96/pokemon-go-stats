@@ -1,6 +1,0 @@
-[100] Claydol / Confusion / Earthquake
-[99] Claydol / Confusion / Psychic
-[97] Claydol / Extrasensory / Earthquake
-[96] Claydol / Extrasensory / Psychic
-[84] Claydol / Confusion / Gyro Ball
-[81] Claydol / Extrasensory / Gyro Ball

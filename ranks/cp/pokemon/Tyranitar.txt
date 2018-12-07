@@ -1,9 +1,0 @@
-[3933] Tyranitar / Bite / Crunch
-[3933] Tyranitar / Iron Tail / Crunch
-[3933] Tyranitar / Smack Down / Crunch
-[3933] Tyranitar / Bite / Fire Blast
-[3933] Tyranitar / Iron Tail / Fire Blast
-[3933] Tyranitar / Smack Down / Fire Blast
-[3933] Tyranitar / Bite / Stone Edge
-[3933] Tyranitar / Iron Tail / Stone Edge
-[3933] Tyranitar / Smack Down / Stone Edge

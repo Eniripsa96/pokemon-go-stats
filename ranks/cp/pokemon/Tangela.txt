@@ -1,8 +1,0 @@
-[2290] Tangela / Infestation / Grass Knot
-[2290] Tangela / Vine Whip / Grass Knot
-[2290] Tangela / Infestation / Power Whip
-[2290] Tangela / Vine Whip / Power Whip
-[2290] Tangela / Infestation / Sludge Bomb
-[2290] Tangela / Vine Whip / Sludge Bomb
-[2290] Tangela / Infestation / Solarbeam
-[2290] Tangela / Vine Whip / Solarbeam

@@ -1,6 +1,0 @@
-[100] Solrock / Confusion / Rock Slide
-[98] Solrock / Rock Throw / Rock Slide
-[94] Solrock / Confusion / Solarbeam
-[93] Solrock / Rock Throw / Solarbeam
-[92] Solrock / Confusion / Psychic
-[91] Solrock / Rock Throw / Psychic

@@ -1,6 +1,0 @@
-[100] Snowy Castform / Powder Snow / Weather Ball Ice
-[87] Snowy Castform / Tackle / Weather Ball Ice
-[77] Snowy Castform / Powder Snow / Blizzard
-[76] Snowy Castform / Powder Snow / Ice Beam
-[71] Snowy Castform / Tackle / Ice Beam
-[70] Snowy Castform / Tackle / Blizzard

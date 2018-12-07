@@ -1,6 +1,0 @@
-[3013] Hariyama / Bullet Punch / Close Combat
-[3013] Hariyama / Counter / Close Combat
-[3013] Hariyama / Bullet Punch / Dynamic Punch
-[3013] Hariyama / Counter / Dynamic Punch
-[3013] Hariyama / Bullet Punch / Heavy Slam
-[3013] Hariyama / Counter / Heavy Slam

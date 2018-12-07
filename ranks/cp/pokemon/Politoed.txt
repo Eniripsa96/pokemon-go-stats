@@ -1,8 +1,0 @@
-[2456] Politoed / Bubble / Blizzard
-[2456] Politoed / Mud Shot / Blizzard
-[2456] Politoed / Bubble / Earthquake
-[2456] Politoed / Mud Shot / Earthquake
-[2456] Politoed / Bubble / Hydro Pump
-[2456] Politoed / Mud Shot / Hydro Pump
-[2456] Politoed / Bubble / Surf
-[2456] Politoed / Mud Shot / Surf

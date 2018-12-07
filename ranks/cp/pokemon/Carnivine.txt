@@ -1,6 +1,0 @@
-[2314] Carnivine / Bite / Crunch
-[2314] Carnivine / Vine Whip / Crunch
-[2314] Carnivine / Bite / Energy Ball
-[2314] Carnivine / Vine Whip / Energy Ball
-[2314] Carnivine / Bite / Power Whip
-[2314] Carnivine / Vine Whip / Power Whip

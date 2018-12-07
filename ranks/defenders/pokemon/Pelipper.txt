@@ -1,6 +1,0 @@
-[100] Pelipper / Wing Attack / Blizzard
-[100] Pelipper / Wing Attack / Hydro Pump
-[91] Pelipper / Water Gun / Blizzard
-[91] Pelipper / Water Gun / Hydro Pump
-[88] Pelipper / Wing Attack / Hurricane
-[79] Pelipper / Water Gun / Hurricane

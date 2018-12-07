@@ -1,8 +1,0 @@
-[100] Metagross / Zen Headbutt / Meteor Mash
-[94] Metagross / Bullet Punch / Meteor Mash
-[69] Metagross / Zen Headbutt / Earthquake
-[63] Metagross / Bullet Punch / Earthquake
-[61] Metagross / Zen Headbutt / Flash Cannon
-[61] Metagross / Zen Headbutt / Psychic
-[55] Metagross / Bullet Punch / Flash Cannon
-[55] Metagross / Bullet Punch / Psychic

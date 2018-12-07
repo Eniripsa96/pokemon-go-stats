@@ -1,8 +1,0 @@
-[3262] Zapdos / Charge Beam / Discharge
-[3262] Zapdos / Thunder Shock / Discharge
-[3262] Zapdos / Charge Beam / Thunder
-[3262] Zapdos / Thunder Shock / Thunder
-[3262] Zapdos / Charge Beam / Thunderbolt
-[3262] Zapdos / Thunder Shock / Thunderbolt
-[3262] Zapdos / Charge Beam / Zap Cannon
-[3262] Zapdos / Thunder Shock / Zap Cannon

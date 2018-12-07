@@ -1,8 +1,0 @@
-[2472] Jolteon / Thunder Shock / Discharge
-[2472] Jolteon / Volt Switch / Discharge
-[2472] Jolteon / Thunder Shock / Last Resort
-[2472] Jolteon / Volt Switch / Last Resort
-[2472] Jolteon / Thunder Shock / Thunder
-[2472] Jolteon / Volt Switch / Thunder
-[2472] Jolteon / Thunder Shock / Thunderbolt
-[2472] Jolteon / Volt Switch / Thunderbolt

@@ -1,8 +1,0 @@
-[100] Snorlax / Lick / Body Slam
-[100] Snorlax / Lick / Hyper Beam
-[91] Snorlax / Zen Headbutt / Body Slam
-[91] Snorlax / Zen Headbutt / Hyper Beam
-[75] Snorlax / Lick / Heavy Slam
-[75] Snorlax / Lick / Earthquake
-[72] Snorlax / Zen Headbutt / Heavy Slam
-[71] Snorlax / Zen Headbutt / Earthquake

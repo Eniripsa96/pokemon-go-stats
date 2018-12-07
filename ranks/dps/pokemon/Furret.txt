@@ -1,6 +1,0 @@
-[100] Furret / Quick Attack / Hyper Beam
-[89] Furret / Sucker Punch / Hyper Beam
-[76] Furret / Quick Attack / Brick Break
-[71] Furret / Quick Attack / Dig
-[67] Furret / Sucker Punch / Brick Break
-[65] Furret / Sucker Punch / Dig

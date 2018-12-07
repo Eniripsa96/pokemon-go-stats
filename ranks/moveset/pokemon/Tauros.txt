@@ -1,6 +1,0 @@
-[100] Tauros / Tackle / Horn Attack
-[96] Tauros / Tackle / Iron Head
-[91] Tauros / Zen Headbutt / Horn Attack
-[89] Tauros / Tackle / Earthquake
-[87] Tauros / Zen Headbutt / Iron Head
-[81] Tauros / Zen Headbutt / Earthquake

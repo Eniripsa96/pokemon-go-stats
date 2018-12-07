@@ -1,6 +1,0 @@
-[100] Seviper / Poison Jab / Poison Fang
-[95] Seviper / Poison Jab / Wrap
-[88] Seviper / Poison Jab / Crunch
-[85] Seviper / Iron Tail / Poison Fang
-[84] Seviper / Iron Tail / Wrap
-[79] Seviper / Iron Tail / Crunch

@@ -1,6 +1,0 @@
-[100] Lanturn / Charge Beam / Thunderbolt
-[98] Lanturn / Water Gun / Thunderbolt
-[94] Lanturn / Charge Beam / Hydro Pump
-[93] Lanturn / Water Gun / Hydro Pump
-[88] Lanturn / Water Gun / Thunder
-[87] Lanturn / Charge Beam / Thunder

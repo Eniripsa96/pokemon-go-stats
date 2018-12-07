@@ -994,6 +994,12 @@ Poison Jab:
   eps: 8.75
   bars: 1
   type: 'POISON'
+Flame Charge: 
+  pow: 70
+  ms: 3800
+  eps: 18.42
+  bars: 3
+  type: 'FIRE'
 Posion Jab: 
   pow: 10
   ms: 800

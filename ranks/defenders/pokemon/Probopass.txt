@@ -1,6 +1,0 @@
-[100] Probopass / Rock Throw / Magnet Bomb
-[88] Probopass / Spark / Magnet Bomb
-[81] Probopass / Rock Throw / Rock Slide
-[81] Probopass / Rock Throw / Thunderbolt
-[70] Probopass / Spark / Rock Slide
-[70] Probopass / Spark / Thunderbolt

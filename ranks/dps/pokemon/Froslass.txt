@@ -1,6 +1,0 @@
-[100] Froslass / Powder Snow / Avalanche
-[99] Froslass / Hex / Avalanche
-[92] Froslass / Hex / Shadow Ball
-[91] Froslass / Powder Snow / Shadow Ball
-[66] Froslass / Hex / Crunch
-[64] Froslass / Powder Snow / Crunch

@@ -1,6 +1,0 @@
-[2977] Mesprit / Confusion / Blizzard
-[2977] Mesprit / Extrasensory / Blizzard
-[2977] Mesprit / Confusion / Future Sight
-[2977] Mesprit / Extrasensory / Future Sight
-[2977] Mesprit / Confusion / Swift
-[2977] Mesprit / Extrasensory / Swift

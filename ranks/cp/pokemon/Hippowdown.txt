@@ -1,9 +1,0 @@
-[3313] Hippowdown / Bite / Body Slam
-[3313] Hippowdown / Earthquake / Body Slam
-[3313] Hippowdown / Fire Fang / Body Slam
-[3313] Hippowdown / Bite / Earthquake
-[3313] Hippowdown / Earthquake / Earthquake
-[3313] Hippowdown / Fire Fang / Earthquake
-[3313] Hippowdown / Bite / Stone Edge
-[3313] Hippowdown / Earthquake / Stone Edge
-[3313] Hippowdown / Fire Fang / Stone Edge

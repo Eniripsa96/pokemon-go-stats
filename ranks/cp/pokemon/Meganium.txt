@@ -1,8 +1,0 @@
-[2336] Meganium / Razor Leaf / Earthquake
-[2336] Meganium / Vine Whip / Earthquake
-[2336] Meganium / Razor Leaf / Frenzy Plant
-[2336] Meganium / Vine Whip / Frenzy Plant
-[2336] Meganium / Razor Leaf / Petal Blizzard
-[2336] Meganium / Vine Whip / Petal Blizzard
-[2336] Meganium / Razor Leaf / Solarbeam
-[2336] Meganium / Vine Whip / Solarbeam

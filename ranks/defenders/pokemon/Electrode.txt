@@ -1,9 +1,0 @@
-[100] Electrode / Volt Switch / Discharge
-[88] Electrode / Volt Switch / Thunderbolt
-[84] Electrode / Volt Switch / Hyper Beam
-[76] Electrode / Spark / Discharge
-[74] Electrode / Tackle / Discharge
-[64] Electrode / Spark / Thunderbolt
-[62] Electrode / Tackle / Thunderbolt
-[61] Electrode / Spark / Hyper Beam
-[59] Electrode / Tackle / Hyper Beam

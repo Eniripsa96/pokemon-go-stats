@@ -1,6 +1,0 @@
-[100] Sunflora / Razor Leaf / Solarbeam
-[91] Sunflora / Razor Leaf / Sludge Bomb
-[89] Sunflora / Bullet Seed / Solarbeam
-[81] Sunflora / Bullet Seed / Sludge Bomb
-[71] Sunflora / Razor Leaf / Petal Blizzard
-[61] Sunflora / Bullet Seed / Petal Blizzard

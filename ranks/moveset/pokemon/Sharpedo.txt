@@ -1,6 +1,0 @@
-[100] Sharpedo / Waterfall / Hydro Pump
-[98] Sharpedo / Bite / Hydro Pump
-[93] Sharpedo / Waterfall / Crunch
-[91] Sharpedo / Bite / Crunch
-[86] Sharpedo / Waterfall / Poison Fang
-[82] Sharpedo / Bite / Poison Fang

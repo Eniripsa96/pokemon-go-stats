@@ -1,6 +1,0 @@
-[2334] Solrock / Confusion / Psychic
-[2334] Solrock / Rock Throw / Psychic
-[2334] Solrock / Confusion / Rock Slide
-[2334] Solrock / Rock Throw / Rock Slide
-[2334] Solrock / Confusion / Solarbeam
-[2334] Solrock / Rock Throw / Solarbeam

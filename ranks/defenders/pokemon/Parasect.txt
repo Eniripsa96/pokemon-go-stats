@@ -1,9 +1,0 @@
-[100] Parasect / Struggle Bug / Solarbeam
-[82] Parasect / Struggle Bug / X Scissor
-[80] Parasect / Bug Bite / Solarbeam
-[76] Parasect / Struggle Bug / Cross Poison
-[76] Parasect / Fury Cutter / Solarbeam
-[62] Parasect / Bug Bite / X Scissor
-[58] Parasect / Fury Cutter / X Scissor
-[56] Parasect / Bug Bite / Cross Poison
-[52] Parasect / Fury Cutter / Cross Poison

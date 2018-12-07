@@ -1,6 +1,0 @@
-[100] Mamoswine / Mud Slap / Avalanche
-[92] Mamoswine / Mud Slap / Bulldoze
-[82] Mamoswine / Powder Snow / Avalanche
-[74] Mamoswine / Powder Snow / Bulldoze
-[68] Mamoswine / Mud Slap / Stone Edge
-[50] Mamoswine / Powder Snow / Stone Edge

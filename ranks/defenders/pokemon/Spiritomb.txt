@@ -1,6 +1,0 @@
-[100] Spiritomb / Feint Attack / Shadow Ball
-[94] Spiritomb / Sucker Punch / Shadow Ball
-[80] Spiritomb / Feint Attack / Ominous Wind
-[80] Spiritomb / Feint Attack / Shadow Sneak
-[74] Spiritomb / Sucker Punch / Ominous Wind
-[74] Spiritomb / Sucker Punch / Shadow Sneak

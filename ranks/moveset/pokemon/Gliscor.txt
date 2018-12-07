@@ -1,6 +1,0 @@
-[100] Gliscor / Wing Attack / Earthquake
-[97] Gliscor / Wing Attack / Aerial Ace
-[94] Gliscor / Fury Cutter / Earthquake
-[92] Gliscor / Fury Cutter / Aerial Ace
-[79] Gliscor / Wing Attack / Night Slash
-[71] Gliscor / Fury Cutter / Night Slash

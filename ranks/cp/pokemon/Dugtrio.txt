@@ -1,9 +1,0 @@
-[1649] Dugtrio / Mud Shot / Earthquake
-[1649] Dugtrio / Mud Slap / Earthquake
-[1649] Dugtrio / Sucker Punch / Earthquake
-[1649] Dugtrio / Mud Shot / Mud Bomb
-[1649] Dugtrio / Mud Slap / Mud Bomb
-[1649] Dugtrio / Sucker Punch / Mud Bomb
-[1649] Dugtrio / Mud Shot / Stone Edge
-[1649] Dugtrio / Mud Slap / Stone Edge
-[1649] Dugtrio / Sucker Punch / Stone Edge

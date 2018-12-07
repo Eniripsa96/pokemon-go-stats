@@ -1,8 +1,0 @@
-[100] Persian / Feint Attack / Play Rough
-[91] Persian / Scratch / Play Rough
-[91] Persian / Feint Attack / Power Gem
-[86] Persian / Feint Attack / Night Slash
-[82] Persian / Feint Attack / Foul Play
-[82] Persian / Scratch / Power Gem
-[78] Persian / Scratch / Night Slash
-[73] Persian / Scratch / Foul Play

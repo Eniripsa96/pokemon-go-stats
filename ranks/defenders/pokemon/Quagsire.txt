@@ -1,6 +1,0 @@
-[100] Quagsire / Mud Shot / Sludge Bomb
-[100] Quagsire / Water Gun / Sludge Bomb
-[78] Quagsire / Mud Shot / Earthquake
-[78] Quagsire / Water Gun / Earthquake
-[67] Quagsire / Mud Shot / Stone Edge
-[67] Quagsire / Water Gun / Stone Edge

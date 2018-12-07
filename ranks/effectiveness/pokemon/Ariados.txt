@@ -1,6 +1,0 @@
-[100] Ariados / Infestation / Cross Poison
-[93] Ariados / Poison Sting / Cross Poison
-[92] Ariados / Infestation / Megahorn
-[86] Ariados / Poison Sting / Megahorn
-[78] Ariados / Infestation / Shadow Sneak
-[74] Ariados / Poison Sting / Shadow Sneak

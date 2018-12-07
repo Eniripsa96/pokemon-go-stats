@@ -1,8 +1,0 @@
-[2649] Venusaur / Razor Leaf / Frenzy Plant
-[2649] Venusaur / Vine Whip / Frenzy Plant
-[2649] Venusaur / Razor Leaf / Petal Blizzard
-[2649] Venusaur / Vine Whip / Petal Blizzard
-[2649] Venusaur / Razor Leaf / Sludge Bomb
-[2649] Venusaur / Vine Whip / Sludge Bomb
-[2649] Venusaur / Razor Leaf / Solarbeam
-[2649] Venusaur / Vine Whip / Solarbeam

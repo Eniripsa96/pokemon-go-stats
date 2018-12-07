@@ -1,6 +1,0 @@
-[100] Marowak / Mud Slap / Bone Club
-[100] Marowak / Mud Slap / Earthquake
-[98] Marowak / Mud Slap / Dig
-[91] Marowak / Rock Smash / Dig
-[89] Marowak / Rock Smash / Bone Club
-[89] Marowak / Rock Smash / Earthquake

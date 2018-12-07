@@ -1,6 +1,0 @@
-[100] Leafeon / Razor Leaf / Leaf Blade
-[90] Leafeon / Quick Attack / Leaf Blade
-[89] Leafeon / Razor Leaf / Energy Ball
-[89] Leafeon / Razor Leaf / Solarbeam
-[80] Leafeon / Quick Attack / Energy Ball
-[80] Leafeon / Quick Attack / Solarbeam

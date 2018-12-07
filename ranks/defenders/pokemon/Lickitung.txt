@@ -1,6 +1,0 @@
-[100] Lickitung / Zen Headbutt / Power Whip
-[87] Lickitung / Zen Headbutt / Hyper Beam
-[85] Lickitung / Lick / Power Whip
-[72] Lickitung / Lick / Hyper Beam
-[70] Lickitung / Zen Headbutt / Stomp
-[56] Lickitung / Lick / Stomp

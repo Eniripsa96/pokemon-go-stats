@@ -1,8 +1,0 @@
-[100] Meganium / Razor Leaf / Frenzy Plant
-[92] Meganium / Razor Leaf / Solarbeam
-[88] Meganium / Vine Whip / Frenzy Plant
-[81] Meganium / Vine Whip / Solarbeam
-[69] Meganium / Razor Leaf / Earthquake
-[66] Meganium / Razor Leaf / Petal Blizzard
-[58] Meganium / Vine Whip / Earthquake
-[54] Meganium / Vine Whip / Petal Blizzard

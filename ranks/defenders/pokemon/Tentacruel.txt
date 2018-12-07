@@ -1,6 +1,0 @@
-[100] Tentacruel / Poison Jab / Blizzard
-[100] Tentacruel / Poison Jab / Hydro Pump
-[97] Tentacruel / Acid / Blizzard
-[97] Tentacruel / Acid / Hydro Pump
-[88] Tentacruel / Poison Jab / Sludge Wave
-[86] Tentacruel / Acid / Sludge Wave

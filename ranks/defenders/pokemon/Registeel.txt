@@ -1,6 +1,0 @@
-[100] Registeel / Rock Smash / Hyper Beam
-[95] Registeel / Rock Smash / Focus Blast
-[84] Registeel / Metal Claw / Hyper Beam
-[80] Registeel / Metal Claw / Focus Blast
-[77] Registeel / Rock Smash / Flash Cannon
-[62] Registeel / Metal Claw / Flash Cannon

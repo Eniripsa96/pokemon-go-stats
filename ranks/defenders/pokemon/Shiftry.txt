@@ -1,6 +1,0 @@
-[100] Shiftry / Razor Leaf / Leaf Blade
-[94] Shiftry / Feint Attack / Leaf Blade
-[74] Shiftry / Razor Leaf / Foul Play
-[69] Shiftry / Feint Attack / Foul Play
-[63] Shiftry / Razor Leaf / Hurricane
-[58] Shiftry / Feint Attack / Hurricane

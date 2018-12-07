@@ -1,9 +1,0 @@
-[2344] Weezing / Acid / Dark Pulse
-[2344] Weezing / Infestation / Dark Pulse
-[2344] Weezing / Tackle / Dark Pulse
-[2344] Weezing / Acid / Shadow Ball
-[2344] Weezing / Infestation / Shadow Ball
-[2344] Weezing / Tackle / Shadow Ball
-[2344] Weezing / Acid / Sludge Bomb
-[2344] Weezing / Infestation / Sludge Bomb
-[2344] Weezing / Tackle / Sludge Bomb

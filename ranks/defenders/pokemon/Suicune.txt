@@ -1,9 +1,0 @@
-[100] Suicune / Hidden Power / Water Pulse
-[97] Suicune / Hidden Power / Bubble Beam
-[95] Suicune / Hidden Power / Hydro Pump
-[93] Suicune / Extrasensory / Water Pulse
-[93] Suicune / Snarl / Water Pulse
-[90] Suicune / Extrasensory / Bubble Beam
-[90] Suicune / Snarl / Bubble Beam
-[88] Suicune / Extrasensory / Hydro Pump
-[88] Suicune / Snarl / Hydro Pump

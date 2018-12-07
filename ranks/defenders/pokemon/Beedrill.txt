@@ -1,9 +1,0 @@
-[100] Beedrill / Infestation / Aerial Ace
-[100] Beedrill / Poison Jab / Aerial Ace
-[97] Beedrill / Infestation / Sludge Bomb
-[97] Beedrill / Poison Jab / Sludge Bomb
-[88] Beedrill / Bug Bite / Aerial Ace
-[86] Beedrill / Bug Bite / Sludge Bomb
-[86] Beedrill / Infestation / X Scissor
-[86] Beedrill / Poison Jab / X Scissor
-[74] Beedrill / Bug Bite / X Scissor

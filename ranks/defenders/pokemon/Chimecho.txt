@@ -1,6 +1,0 @@
-[100] Chimecho / Extrasensory / Shadow Ball
-[98] Chimecho / Extrasensory / Psyshock
-[92] Chimecho / Extrasensory / Energy Ball
-[92] Chimecho / Astonish / Shadow Ball
-[90] Chimecho / Astonish / Psyshock
-[84] Chimecho / Astonish / Energy Ball

@@ -1,6 +1,0 @@
-[100] Roserade / Razor Leaf / Dazzling Gleam
-[94] Roserade / Poison Jab / Dazzling Gleam
-[92] Roserade / Razor Leaf / Solarbeam
-[86] Roserade / Poison Jab / Solarbeam
-[84] Roserade / Razor Leaf / Sludge Bomb
-[79] Roserade / Poison Jab / Sludge Bomb

@@ -1,9 +1,0 @@
-[1651] Farfetchd / Air Slash / Aerial Ace
-[1651] Farfetchd / Cut / Aerial Ace
-[1651] Farfetchd / Fury Cutter / Aerial Ace
-[1651] Farfetchd / Air Slash / Air Cutter
-[1651] Farfetchd / Cut / Air Cutter
-[1651] Farfetchd / Fury Cutter / Air Cutter
-[1651] Farfetchd / Air Slash / Leaf Blade
-[1651] Farfetchd / Cut / Leaf Blade
-[1651] Farfetchd / Fury Cutter / Leaf Blade

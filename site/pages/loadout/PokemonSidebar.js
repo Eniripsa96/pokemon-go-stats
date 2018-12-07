@@ -8,12 +8,14 @@ import EffectivenessAlgorithm from "pages/stats/EffectivenessAlgorithm";
 import {POKEMON_LIST} from "app/data/Database";
 import TYPE_TABLE from "app/data/types";
 import {Button} from "material-ui";
+import CPEfficiencyAlgorithm from "pages/stats/CPEfficiencyAlgorithm";
 
 const ALGORITHMS = {
   CP: CPAlgorithm,
   Defense: DefenseAlgorithm,
   DPS: DPSAlgorithm,
-  Effectiveness: EffectivenessAlgorithm
+  Effectiveness: EffectivenessAlgorithm,
+  'CP Efficiency': CPEfficiencyAlgorithm
 };
 
 const BOOLS = ['True', 'False'];

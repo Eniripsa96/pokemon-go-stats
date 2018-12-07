@@ -1,8 +1,0 @@
-[3465] Rhydon / Mud Slap / Earthquake
-[3465] Rhydon / Rock Smash / Earthquake
-[3465] Rhydon / Mud Slap / Megahorn
-[3465] Rhydon / Rock Smash / Megahorn
-[3465] Rhydon / Mud Slap / Stone Edge
-[3465] Rhydon / Rock Smash / Stone Edge
-[3465] Rhydon / Mud Slap / Surf
-[3465] Rhydon / Rock Smash / Surf

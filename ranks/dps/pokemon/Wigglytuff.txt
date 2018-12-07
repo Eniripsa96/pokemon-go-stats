@@ -1,6 +1,0 @@
-[100] Wigglytuff / Pound / Play Rough
-[96] Wigglytuff / Pound / Hyper Beam
-[93] Wigglytuff / Pound / Dazzling Gleam
-[90] Wigglytuff / Feint Attack / Play Rough
-[86] Wigglytuff / Feint Attack / Hyper Beam
-[85] Wigglytuff / Feint Attack / Dazzling Gleam

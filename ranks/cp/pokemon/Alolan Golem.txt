@@ -1,6 +1,0 @@
-[3179] Alolan Golem / Rock Throw / Rock Blast
-[3179] Alolan Golem / Volt Switch / Rock Blast
-[3179] Alolan Golem / Rock Throw / Stone Edge
-[3179] Alolan Golem / Volt Switch / Stone Edge
-[3179] Alolan Golem / Rock Throw / Wild Charge
-[3179] Alolan Golem / Volt Switch / Wild Charge

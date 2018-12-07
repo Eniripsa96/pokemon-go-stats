@@ -1,6 +1,0 @@
-[100] Absol / Snarl / Dark Pulse
-[84] Absol / Psycho Cut / Dark Pulse
-[72] Absol / Snarl / Thunder
-[68] Absol / Snarl / Megahorn
-[56] Absol / Psycho Cut / Thunder
-[52] Absol / Psycho Cut / Megahorn

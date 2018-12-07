@@ -1,6 +1,0 @@
-[100] Manectric / Charge Beam / Wild Charge
-[95] Manectric / Snarl / Wild Charge
-[79] Manectric / Charge Beam / Thunder
-[78] Manectric / Snarl / Thunder
-[70] Manectric / Charge Beam / Flame Burst
-[70] Manectric / Snarl / Flame Burst

@@ -1,8 +1,0 @@
-[100] Rhydon / Mud Slap / Surf
-[99] Rhydon / Mud Slap / Earthquake
-[98] Rhydon / Mud Slap / Stone Edge
-[89] Rhydon / Rock Smash / Earthquake
-[89] Rhydon / Rock Smash / Surf
-[87] Rhydon / Rock Smash / Stone Edge
-[86] Rhydon / Mud Slap / Megahorn
-[76] Rhydon / Rock Smash / Megahorn

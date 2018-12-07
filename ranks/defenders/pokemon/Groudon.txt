@@ -1,6 +1,0 @@
-[100] Groudon / Dragon Tail / Solarbeam
-[84] Groudon / Dragon Tail / Fire Blast
-[80] Groudon / Mud Shot / Solarbeam
-[76] Groudon / Dragon Tail / Earthquake
-[64] Groudon / Mud Shot / Fire Blast
-[56] Groudon / Mud Shot / Earthquake

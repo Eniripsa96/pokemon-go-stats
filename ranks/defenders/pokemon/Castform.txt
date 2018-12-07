@@ -1,6 +1,0 @@
-[100] Castform / Hex / Energy Ball
-[100] Castform / Hex / Weather Ball Fire
-[89] Castform / Tackle / Energy Ball
-[89] Castform / Tackle / Weather Ball Fire
-[69] Castform / Hex / Hurricane
-[58] Castform / Tackle / Hurricane

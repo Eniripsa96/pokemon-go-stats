@@ -1,6 +1,0 @@
-[1593] Raticate / Bite / Dig
-[1593] Raticate / Quick Attack / Dig
-[1593] Raticate / Bite / Hyper Beam
-[1593] Raticate / Quick Attack / Hyper Beam
-[1593] Raticate / Bite / Hyper Fang
-[1593] Raticate / Quick Attack / Hyper Fang

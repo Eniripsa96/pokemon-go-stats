@@ -1,6 +1,0 @@
-[100] Garchomp / Dragon Tail / Outrage
-[94] Garchomp / Mud Shot / Outrage
-[88] Garchomp / Dragon Tail / Earthquake
-[80] Garchomp / Dragon Tail / Fire Blast
-[77] Garchomp / Mud Shot / Earthquake
-[68] Garchomp / Mud Shot / Fire Blast

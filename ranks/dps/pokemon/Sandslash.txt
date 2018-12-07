@@ -1,6 +1,0 @@
-[100] Sandslash / Mud Shot / Earthquake
-[98] Sandslash / Metal Claw / Earthquake
-[96] Sandslash / Mud Shot / Bulldoze
-[94] Sandslash / Metal Claw / Bulldoze
-[76] Sandslash / Metal Claw / Rock Tomb
-[76] Sandslash / Mud Shot / Rock Tomb

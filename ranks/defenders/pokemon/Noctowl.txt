@@ -1,6 +1,0 @@
-[100] Noctowl / Extrasensory / Sky Attack
-[90] Noctowl / Extrasensory / Night Shade
-[90] Noctowl / Wing Attack / Sky Attack
-[80] Noctowl / Wing Attack / Night Shade
-[80] Noctowl / Extrasensory / Psychic
-[70] Noctowl / Wing Attack / Psychic

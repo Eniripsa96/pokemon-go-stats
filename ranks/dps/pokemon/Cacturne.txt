@@ -1,6 +1,0 @@
-[100] Cacturne / Sucker Punch / Grass Knot
-[90] Cacturne / Poison Jab / Grass Knot
-[86] Cacturne / Sucker Punch / Dynamic Punch
-[79] Cacturne / Sucker Punch / Dark Pulse
-[79] Cacturne / Poison Jab / Dynamic Punch
-[75] Cacturne / Poison Jab / Dark Pulse

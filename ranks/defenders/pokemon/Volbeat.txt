@@ -1,6 +1,0 @@
-[100] Volbeat / Struggle Bug / Bug Buzz
-[92] Volbeat / Struggle Bug / Thunderbolt
-[88] Volbeat / Struggle Bug / Signal Beam
-[80] Volbeat / Tackle / Bug Buzz
-[72] Volbeat / Tackle / Thunderbolt
-[68] Volbeat / Tackle / Signal Beam

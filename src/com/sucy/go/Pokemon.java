@@ -37,6 +37,6 @@ public class Pokemon {
     }
 
     private double speedMod() {
-        return 1 + (speed - 75) / 500;
+        return 1 + (speed - 75) / 500.0;
     }
 }

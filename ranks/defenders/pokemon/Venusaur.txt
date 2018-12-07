@@ -1,8 +1,0 @@
-[100] Venusaur / Razor Leaf / Frenzy Plant
-[92] Venusaur / Razor Leaf / Solarbeam
-[88] Venusaur / Vine Whip / Frenzy Plant
-[84] Venusaur / Razor Leaf / Sludge Bomb
-[81] Venusaur / Vine Whip / Solarbeam
-[73] Venusaur / Vine Whip / Sludge Bomb
-[66] Venusaur / Razor Leaf / Petal Blizzard
-[54] Venusaur / Vine Whip / Petal Blizzard

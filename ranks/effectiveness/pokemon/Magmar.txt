@@ -1,6 +1,0 @@
-[100] Magmar / Ember / Fire Blast
-[100] Magmar / Ember / Flamethrower
-[99] Magmar / Karate Chop / Fire Blast
-[99] Magmar / Karate Chop / Flamethrower
-[96] Magmar / Ember / Fire Punch
-[95] Magmar / Karate Chop / Fire Punch

@@ -1,6 +1,0 @@
-[100] Carnivine / Vine Whip / Power Whip
-[87] Carnivine / Vine Whip / Energy Ball
-[85] Carnivine / Bite / Power Whip
-[76] Carnivine / Bite / Energy Ball
-[70] Carnivine / Vine Whip / Crunch
-[63] Carnivine / Bite / Crunch

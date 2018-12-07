@@ -1,9 +1,0 @@
-[100] Kingdra / Waterfall / Outrage
-[99] Kingdra / Dragon Breath / Outrage
-[99] Kingdra / Water Gun / Outrage
-[91] Kingdra / Waterfall / Hydro Pump
-[90] Kingdra / Dragon Breath / Hydro Pump
-[88] Kingdra / Water Gun / Hydro Pump
-[84] Kingdra / Waterfall / Blizzard
-[81] Kingdra / Dragon Breath / Blizzard
-[78] Kingdra / Water Gun / Blizzard

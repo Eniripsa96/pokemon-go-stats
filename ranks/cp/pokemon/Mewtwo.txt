@@ -1,8 +1,0 @@
-[4239] Mewtwo / Confusion / Focus Blast
-[4239] Mewtwo / Psycho Cut / Focus Blast
-[4239] Mewtwo / Confusion / Hyper Beam
-[4239] Mewtwo / Psycho Cut / Hyper Beam
-[4239] Mewtwo / Confusion / Psychic
-[4239] Mewtwo / Psycho Cut / Psychic
-[4239] Mewtwo / Confusion / Shadow Ball
-[4239] Mewtwo / Psycho Cut / Shadow Ball

@@ -1,6 +1,0 @@
-[100] Golduck / Water Gun / Hydro Pump
-[97] Golduck / Confusion / Hydro Pump
-[86] Golduck / Water Gun / Ice Beam
-[85] Golduck / Confusion / Ice Beam
-[84] Golduck / Water Gun / Psychic
-[83] Golduck / Confusion / Psychic

@@ -1,9 +1,0 @@
-[100] Rapidash / Fire Spin / Fire Blast
-[95] Rapidash / Fire Spin / Drill Run
-[91] Rapidash / Ember / Fire Blast
-[89] Rapidash / Fire Spin / Heat Wave
-[87] Rapidash / Ember / Drill Run
-[84] Rapidash / Low Kick / Fire Blast
-[80] Rapidash / Ember / Heat Wave
-[79] Rapidash / Low Kick / Drill Run
-[72] Rapidash / Low Kick / Heat Wave

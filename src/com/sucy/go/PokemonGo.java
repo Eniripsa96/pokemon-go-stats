@@ -26,6 +26,7 @@ public class PokemonGo {
         if (scanner.nextLine().contains("n")) {
             prompt();
         }
+
         MOVES.save();
         POKEMON.save();
         for (final Ranking ranking : Ranking.values()) {

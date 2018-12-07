@@ -1,9 +1,0 @@
-[100] Milotic / Waterfall / Hyper Beam
-[97] Milotic / Dragon Tail / Hyper Beam
-[91] Milotic / Waterfall / Blizzard
-[91] Milotic / Waterfall / Surf
-[89] Milotic / Dragon Tail / Blizzard
-[89] Milotic / Dragon Tail / Surf
-[76] Milotic / Water Gun / Hyper Beam
-[67] Milotic / Water Gun / Blizzard
-[67] Milotic / Water Gun / Surf
