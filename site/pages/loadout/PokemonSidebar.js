@@ -9,13 +9,15 @@ import {POKEMON_LIST} from "app/data/Database";
 import TYPE_TABLE from "app/data/types";
 import {Button} from "material-ui";
 import CPEfficiencyAlgorithm from "pages/stats/CPEfficiencyAlgorithm";
+import PvPAlgorithm from "pages/stats/PvPAlgorithm";
 
 const ALGORITHMS = {
   CP: CPAlgorithm,
   Defense: DefenseAlgorithm,
   DPS: DPSAlgorithm,
   Effectiveness: EffectivenessAlgorithm,
-  'CP Efficiency': CPEfficiencyAlgorithm
+  'CP Efficiency': CPEfficiencyAlgorithm,
+  PVP: PvPAlgorithm
 };
 
 const BOOLS = ['True', 'False'];

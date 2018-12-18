@@ -22,6 +22,10 @@ public class PokemonGo {
 
     public static void main(final String[] args) {
 
+      MOVES.getMoves().forEach(move -> {
+        if (move.pvpPower == 0) promptPvp(move);
+      });
+
         System.out.println("Skip entering pokemon");
         if (scanner.nextLine().contains("n")) {
             prompt();
@@ -93,8 +97,19 @@ public class PokemonGo {
         move.eps = promptFloat("> EPS");
         move.bars = promptInt("> Bars");
         move.type = promptType("> Move type");
+        move.pvpPower = promptInt("> PVP Power");
+        move.pvpEnergy = promptInt("> PVP Energy");
+        move.pvpTurns = promptInt("> PVP Turns");
         MOVES.addMove(move);
         return move;
+    }
+
+    private static Move promptPvp(final Move move) {
+      System.out.println("-= PVP update for " + move.name + " =-");
+      move.pvpPower = promptInt("PVP Power");
+      move.pvpEnergy = promptInt("PVP Energy");
+      move.pvpTurns = promptInt("PVP Turns");
+      return move;
     }
 
     private static Type promptType(final String text) {

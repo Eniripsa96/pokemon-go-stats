@@ -6,6 +6,9 @@ class Move {
     this.eps = config.eps;
     this.bars = config.bars;
     this.type = config.type;
+    this.pvpPower = config.pvpPower;
+    this.pvpEnergy = config.pvpEnergy;
+    this.pvpTurns = config.pvpTurns;
   }
 }
 

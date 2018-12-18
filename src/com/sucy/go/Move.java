@@ -11,4 +11,7 @@ public class Move {
     public float eps;
     public int bars;
     public Type type;
+    public int pvpPower;
+    public int pvpEnergy;
+    public int pvpTurns;
 }

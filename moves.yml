@@ -4,1077 +4,1617 @@ Vice Grip:
   eps: 17.37
   bars: 3
   type: 'NORMAL'
+  pvpPower: 40
+  pvpTurns: 1
+  pvpEnergy: 40
 Bug Bite: 
   pow: 5
   ms: 500
   eps: 12.0
   bars: 1
   type: 'BUG'
+  pvpPower: 3
+  pvpTurns: 1
+  pvpEnergy: 3
 Shadow Sneak: 
   pow: 50
   ms: 2900
   eps: 11.38
   bars: 3
   type: 'GHOST'
+  pvpPower: 50
+  pvpTurns: 1
+  pvpEnergy: 45
 Ancient Power: 
   pow: 70
   ms: 3500
   eps: 9.43
   bars: 3
   type: 'ROCK'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 45
 Flame Burst: 
   pow: 70
   ms: 2600
   eps: 19.23
   bars: 2
   type: 'FIRE'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 55
 Gyro Ball: 
   pow: 80
   ms: 3300
   eps: 15.15
   bars: 2
   type: 'STEEL'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 60
 Dazzling Gleam: 
   pow: 100
   ms: 3500
   eps: 14.29
   bars: 2
   type: 'FAIRY'
+  pvpPower: 100
+  pvpTurns: 1
+  pvpEnergy: 70
 Brave Bird: 
   pow: 90
   ms: 2000
   eps: 50.0
   bars: 1
   type: 'FLYING'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 55
 Seed Bomb: 
   pow: 55
   ms: 2100
   eps: 15.71
   bars: 3
   type: 'GRASS'
+  pvpPower: 55
+  pvpTurns: 1
+  pvpEnergy: 40
 Ice Shard: 
   pow: 12
   ms: 1200
   eps: 10.0
   bars: 1
   type: 'ICE'
+  pvpPower: 8
+  pvpTurns: 3
+  pvpEnergy: 10
 Shadow Claw: 
   pow: 9
   ms: 700
   eps: 8.57
   bars: 1
   type: 'GHOST'
+  pvpPower: 6
+  pvpTurns: 2
+  pvpEnergy: 7
 Future Sight: 
   pow: 120
   ms: 2700
   eps: 37.04
   bars: 1
   type: 'PSYCHIC'
+  pvpPower: 120
+  pvpTurns: 1
+  pvpEnergy: 65
 Bullet Punch: 
   pow: 9
   ms: 900
   eps: 11.11
   bars: 1
   type: 'STEEL'
+  pvpPower: 6
+  pvpTurns: 2
+  pvpEnergy: 7
 Takcl: 
   pow: 5
   ms: 500
   eps: 10.0
   bars: 1
   type: 'NORMAL'
+  pvpPower: 3
+  pvpTurns: 1
+  pvpEnergy: 2
 Hex: 
   pow: 10
   ms: 1200
   eps: 12.5
   bars: 1
   type: 'GHOST'
+  pvpPower: 6
+  pvpTurns: 3
+  pvpEnergy: 11
 Draco Meteor: 
   pow: 150
   ms: 3600
   eps: 27.78
   bars: 1
   type: 'DRAGON'
+  pvpPower: 150
+  pvpTurns: 1
+  pvpEnergy: 75
 Sludge Bomb: 
   pow: 80
   ms: 2300
   eps: 21.74
   bars: 2
   type: 'POISON'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 50
 Metal Claw: 
   pow: 8
   ms: 700
   eps: 10.0
   bars: 1
   type: 'STEEL'
+  pvpPower: 5
+  pvpTurns: 2
+  pvpEnergy: 6
 Struggle: 
   pow: 35
   ms: 2200
   eps: 22.0
   bars: 2
   type: 'NORMAL'
+  pvpPower: 35
+  pvpTurns: 1
+  pvpEnergy: 100
 Struggle Bug: 
   pow: 15
   ms: 1500
   eps: 10.0
   bars: 1
   type: 'BUG'
+  pvpPower: 9
+  pvpTurns: 3
+  pvpEnergy: 8
 Surf: 
   pow: 65
   ms: 1700
   eps: 29.41
   bars: 2
   type: 'WATER'
+  pvpPower: 65
+  pvpTurns: 1
+  pvpEnergy: 40
 Gunk Shot: 
   pow: 130
   ms: 3100
   eps: 32.26
   bars: 1
   type: 'POISON'
+  pvpPower: 130
+  pvpTurns: 1
+  pvpEnergy: 75
 Power Whip: 
   pow: 90
   ms: 2600
   eps: 19.23
   bars: 2
   type: 'GRASS'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 50
 Ember: 
   pow: 10
   ms: 1000
   eps: 10.0
   bars: 1
   type: 'FIRE'
+  pvpPower: 6
+  pvpTurns: 2
+  pvpEnergy: 6
 Aerial Ace: 
   pow: 55
   ms: 2400
   eps: 13.75
   bars: 3
   type: 'FLYING'
+  pvpPower: 55
+  pvpTurns: 1
+  pvpEnergy: 45
 Mud Bomb: 
   pow: 55
   ms: 2300
   eps: 14.35
   bars: 3
   type: 'GROUND'
+  pvpPower: 55
+  pvpTurns: 1
+  pvpEnergy: 40
 Peck: 
   pow: 10
   ms: 1000
   eps: 10.0
   bars: 1
   type: 'FLYING'
+  pvpPower: 6
+  pvpTurns: 2
+  pvpEnergy: 5
 Hurricane: 
   pow: 110
   ms: 2700
   eps: 37.04
   bars: 1
   type: 'FLYING'
+  pvpPower: 110
+  pvpTurns: 1
+  pvpEnergy: 65
 Scratch: 
   pow: 6
   ms: 500
   eps: 8.0
   bars: 1
   type: 'NORMAL'
+  pvpPower: 4
+  pvpTurns: 1
+  pvpEnergy: 2
 Drill Peck: 
   pow: 60
   ms: 2300
   eps: 14.35
   bars: 3
   type: 'FLYING'
+  pvpPower: 60
+  pvpTurns: 1
+  pvpEnergy: 40
 Wild Charge: 
   pow: 90
   ms: 2600
   eps: 19.23
   bars: 2
   type: 'ELECTRIC'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 50
 Fire Blast: 
   pow: 140
   ms: 4200
   eps: 23.81
   bars: 1
   type: 'FIRE'
+  pvpPower: 140
+  pvpTurns: 1
+  pvpEnergy: 80
 Fire Fang: 
   pow: 11
   ms: 900
   eps: 8.89
   bars: 1
   type: 'FIRE'
+  pvpPower: 7
+  pvpTurns: 2
+  pvpEnergy: 5
 Bubble Beam: 
   pow: 45
   ms: 1900
   eps: 17.37
   bars: 3
   type: 'WATER'
+  pvpPower: 45
+  pvpTurns: 1
+  pvpEnergy: 40
 Water Pulse: 
   pow: 70
   ms: 3200
   eps: 15.63
   bars: 2
   type: 'WATER'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 60
 Dragon Tail: 
   pow: 15
   ms: 1100
   eps: 8.18
   bars: 1
   type: 'DRAGON'
+  pvpPower: 9
+  pvpTurns: 3
+  pvpEnergy: 10
 Hidden Power: 
   pow: 15
   ms: 1500
   eps: 10.0
   bars: 1
   type: 'NORMAL'
+  pvpPower: 9
+  pvpTurns: 3
+  pvpEnergy: 8
 Icy Wind: 
   pow: 60
   ms: 3300
   eps: 10.0
   bars: 3
   type: 'ICE'
+  pvpPower: 60
+  pvpTurns: 1
+  pvpEnergy: 45
 Petal Blizzard: 
   pow: 110
   ms: 2600
   eps: 38.46
   bars: 1
   type: 'GRASS'
+  pvpPower: 110
+  pvpTurns: 1
+  pvpEnergy: 65
 Last Resort: 
   pow: 90
   ms: 2900
   eps: 11.67
   bars: 2
   type: 'NORMAL'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 55
 Body Slam: 
   pow: 50
   ms: 1900
   eps: 17.37
   bars: 3
   type: 'NORMAL'
+  pvpPower: 50
+  pvpTurns: 1
+  pvpEnergy: 35
 Aqua Jet: 
   pow: 45
   ms: 2600
   eps: 12.69
   bars: 3
   type: 'WATER'
+  pvpPower: 45
+  pvpTurns: 1
+  pvpEnergy: 45
 Smack Down: 
   pow: 16
   ms: 1200
   eps: 6.67
   bars: 1
   type: 'ROCK'
+  pvpPower: 10
+  pvpTurns: 3
+  pvpEnergy: 8
 Aurora Beam: 
   pow: 80
   ms: 3500
   eps: 14.08
   bars: 2
   type: 'ICE'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 60
 Aqua Tail: 
   pow: 50
   ms: 1900
   eps: 17.37
   bars: 3
   type: 'WATER'
+  pvpPower: 50
+  pvpTurns: 1
+  pvpEnergy: 35
 Thunder Punch: 
   pow: 45
   ms: 1800
   eps: 18.33
   bars: 3
   type: 'ELECTRIC'
+  pvpPower: 45
+  pvpTurns: 1
+  pvpEnergy: 35
 Take Down: 
   pow: 8
   ms: 1200
   eps: 8.33
   bars: 1
   type: 'NORMAL'
+  pvpPower: 5
+  pvpTurns: 3
+  pvpEnergy: 8
 Stone Edge: 
   pow: 100
   ms: 2300
   eps: 43.5
   bars: 1
   type: 'ROCK'
+  pvpPower: 100
+  pvpTurns: 1
+  pvpEnergy: 55
 Cut: 
   pow: 5
   ms: 500
   eps: 10.0
   bars: 1
   type: 'NORMAL'
+  pvpPower: 3
+  pvpTurns: 1
+  pvpEnergy: 2
 Heavy Slam: 
   pow: 70
   ms: 2100
   eps: 23.81
   bars: 2
   type: 'STEEL'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 50
 Thunderbolt: 
   pow: 80
   ms: 2500
   eps: 20.0
   bars: 2
   type: 'ELECTRIC'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 45
 Grass Knot: 
   pow: 90
   ms: 2600
   eps: 19.23
   bars: 2
   type: 'GRASS'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 50
 Vine Whip: 
   pow: 7
   ms: 600
   eps: 10.0
   bars: 1
   type: 'GRASS'
+  pvpPower: 5
+  pvpTurns: 2
+  pvpEnergy: 8
 Focus Blast: 
   pow: 140
   ms: 3500
   eps: 28.57
   bars: 1
   type: 'FIGHTING'
+  pvpPower: 150
+  pvpTurns: 2
+  pvpEnergy: 75
 Dragon Claw: 
   pow: 50
   ms: 1700
   eps: 19.41
   bars: 3
   type: 'DRAGON'
+  pvpPower: 50
+  pvpTurns: 1
+  pvpEnergy: 35
 Low Kick: 
   pow: 6
   ms: 600
   eps: 10.0
   bars: 1
   type: 'FIGHTING'
+  pvpPower: 4
+  pvpTurns: 2
+  pvpEnergy: 5
 Psybeam: 
   pow: 70
   ms: 3200
   eps: 15.63
   bars: 2
   type: 'PSYCHIC'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 60
 Quick Attack: 
   pow: 8
   ms: 800
   eps: 12.5
   bars: 1
   type: 'NORMAL'
+  pvpPower: 5
+  pvpTurns: 2
+  pvpEnergy: 7
 Bulldoze: 
   pow: 80
   ms: 3500
   eps: 14.29
   bars: 2
   type: 'GROUND'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 60
 Spark: 
   pow: 6
   ms: 700
   eps: 12.85
   bars: 1
   type: 'ELECTRIC'
+  pvpPower: 4
+  pvpTurns: 2
+  pvpEnergy: 8
 Zen Headbutt: 
   pow: 12
   ms: 1100
   eps: 9.09
   bars: 1
   type: 'PSYCHIC'
+  pvpPower: 8
+  pvpTurns: 3
+  pvpEnergy: 6
 Bubble: 
   pow: 12
   ms: 1200
   eps: 11.67
   bars: 1
   type: 'WATER'
+  pvpPower: 8
+  pvpTurns: 3
+  pvpEnergy: 11
 Overheat: 
   pow: 160
   ms: 4000
   eps: 25.0
   bars: 1
   type: 'FIRE'
+  pvpPower: 150
+  pvpTurns: 1
+  pvpEnergy: 80
 Poison Fang: 
   pow: 35
   ms: 1700
   eps: 19.41
   bars: 3
   type: 'POISON'
+  pvpPower: 40
+  pvpTurns: 1
+  pvpEnergy: 35
 Foul Play: 
   pow: 70
   ms: 2000
   eps: 25.0
   bars: 2
   type: 'DARK'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 45
 Waterfall: 
   pow: 16
   ms: 1200
   eps: 6.67
   bars: 1
   type: 'WATER'
+  pvpPower: 10
+  pvpTurns: 3
+  pvpEnergy: 8
 Meteor Mash: 
   pow: 100
   ms: 2600
   eps: 19.2
   bars: 2
   type: 'STEEL'
+  pvpPower: 100
+  pvpTurns: 2
+  pvpEnergy: 50
 Fury Cutter: 
   pow: 3
   ms: 400
   eps: 15.0
   bars: 1
   type: 'BUG'
+  pvpPower: 2
+  pvpTurns: 1
+  pvpEnergy: 4
 Karate Chop: 
   pow: 8
   ms: 800
   eps: 12.5
   bars: 1
   type: 'FIGHTING'
+  pvpPower: 5
+  pvpTurns: 2
+  pvpEnergy: 7
 Horn Attack: 
   pow: 40
   ms: 1850
   eps: 17.84
   bars: 3
   type: 'NORMAL'
+  pvpPower: 40
+  pvpTurns: 1
+  pvpEnergy: 35
 Blizzard: 
   pow: 130
   ms: 3100
   eps: 32.26
   bars: 1
   type: 'ICE'
+  pvpPower: 130
+  pvpTurns: 1
+  pvpEnergy: 75
 Zap Cannon: 
   pow: 140
   ms: 3700
   eps: 27.03
   bars: 1
   type: 'ELECTRIC'
+  pvpPower: 150
+  pvpTurns: 1
+  pvpEnergy: 80
 Mud Shot: 
   pow: 5
   ms: 600
   eps: 11.67
   bars: 1
   type: 'GROUND'
+  pvpPower: 3
+  pvpTurns: 2
+  pvpEnergy: 9
 Dragon Pulse: 
   pow: 90
   ms: 3600
   eps: 13.89
   bars: 2
   type: 'DRAGON'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 60
 Blast Burn: 
   pow: 110
   ms: 3300
   eps: 27.03
   bars: 2
   type: 'FIRE'
+  pvpPower: 110
+  pvpTurns: 1
+  pvpEnergy: 50
 Dragon Breath: 
   pow: 6
   ms: 500
   eps: 8.0
   bars: 1
   type: 'DRAGON'
+  pvpPower: 4
+  pvpTurns: 1
+  pvpEnergy: 3
 Iron Tail: 
   pow: 15
   ms: 1100
   eps: 6.36
   bars: 1
   type: 'STEEL'
+  pvpPower: 9
+  pvpTurns: 3
+  pvpEnergy: 6
 Moonblast: 
   pow: 130
   ms: 3900
   eps: 25.64
   bars: 1
   type: 'FAIRY'
+  pvpPower: 130
+  pvpTurns: 1
+  pvpEnergy: 70
 Infestation: 
   pow: 10
   ms: 1100
   eps: 12.73
   bars: 1
   type: 'BUG'
+  pvpPower: 6
+  pvpTurns: 3
+  pvpEnergy: 11
 Dark Pulse: 
   pow: 80
   ms: 3000
   eps: 16.67
   bars: 2
   type: 'DARK'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 50
 Bullet Seed: 
   pow: 8
   ms: 1100
   eps: 12.73
   bars: 1
   type: 'GRASS'
+  pvpPower: 5
+  pvpTurns: 3
+  pvpEnergy: 11
 Twister: 
   pow: 45
   ms: 2800
   eps: 11.79
   bars: 3
   type: 'DRAGON'
+  pvpPower: 45
+  pvpTurns: 1
+  pvpEnergy: 45
 Submission: 
   pow: 60
   ms: 2200
   eps: 22.73
   bars: 2
   type: 'FIGHTING'
+  pvpPower: 60
+  pvpTurns: 1
+  pvpEnergy: 50
 Hydro Cannon: 
   pow: 90
   ms: 1900
   eps: 11.67
   bars: 2
   type: 'WATER'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 40
 Psyshock: 
   pow: 65
   ms: 2700
   eps: 12.22
   bars: 3
   type: 'PSYCHIC'
+  pvpPower: 65
+  pvpTurns: 1
+  pvpEnergy: 45
 Wrap: 
   pow: 60
   ms: 2900
   eps: 11.38
   bars: 3
   type: 'NORMAL'
+  pvpPower: 60
+  pvpTurns: 1
+  pvpEnergy: 45
 Ominous Wind: 
   pow: 50
   ms: 2300
   eps: 14.35
   bars: 3
   type: 'GHOST'
+  pvpPower: 50
+  pvpTurns: 1
+  pvpEnergy: 40
 Dig: 
   pow: 100
   ms: 4700
   eps: 10.64
   bars: 2
   type: 'GROUND'
+  pvpPower: 100
+  pvpTurns: 1
+  pvpEnergy: 80
 Powder Snow: 
   pow: 6
   ms: 1000
   eps: 15.0
   bars: 1
   type: 'ICE'
+  pvpPower: 4
+  pvpTurns: 2
+  pvpEnergy: 8
 Frost Breath: 
   pow: 10
   ms: 900
   eps: 8.89
   bars: 1
   type: 'ICE'
+  pvpPower: 6
+  pvpTurns: 2
+  pvpEnergy: 5
 Extrasensory: 
   pow: 12
   ms: 1100
   eps: 10.91
   bars: 1
   type: 'PSYCHIC'
+  pvpPower: 8
+  pvpTurns: 3
+  pvpEnergy: 10
 Outrage: 
   pow: 110
   ms: 3900
   eps: 12.82
   bars: 2
   type: 'DRAGON'
+  pvpPower: 110
+  pvpTurns: 1
+  pvpEnergy: 60
 Ice Beam: 
   pow: 90
   ms: 3300
   eps: 15.15
   bars: 2
   type: 'ICE'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 55
 Doom Desire: 
   pow: 80
   ms: 1700
   eps: 29.4
   bars: 2
   type: 'STEEL'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 35
 Solarbeam: 
   pow: 180
   ms: 4900
   eps: 20.41
   bars: 1
   type: 'GRASS'
+  pvpPower: 150
+  pvpTurns: 1
+  pvpEnergy: 80
 Thunder: 
   pow: 100
   ms: 2400
   eps: 41.67
   bars: 1
   type: 'ELECTRIC'
+  pvpPower: 100
+  pvpTurns: 1
+  pvpEnergy: 60
 Energy Ball: 
   pow: 90
   ms: 3900
   eps: 12.82
   bars: 2
   type: 'GRASS'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 60
 Low Sweep: 
   pow: 40
   ms: 1900
   eps: 17.37
   bars: 3
   type: 'FIGHTING'
+  pvpPower: 40
+  pvpTurns: 1
+  pvpEnergy: 40
 Acid: 
   pow: 9
   ms: 800
   eps: 10.0
   bars: 1
   type: 'POISON'
+  pvpPower: 6
+  pvpTurns: 2
+  pvpEnergy: 5
 Water Gun: 
   pow: 5
   ms: 500
   eps: 10.0
   bars: 1
   type: 'WATER'
+  pvpPower: 3
+  pvpTurns: 1
+  pvpEnergy: 3
 Hydro Pump: 
   pow: 130
   ms: 3300
   eps: 30.3
   bars: 1
   type: 'WATER'
+  pvpPower: 130
+  pvpTurns: 1
+  pvpEnergy: 75
 Cross Poison: 
   pow: 40
   ms: 1500
   eps: 22.0
   bars: 3
   type: 'POISON'
+  pvpPower: 40
+  pvpTurns: 1
+  pvpEnergy: 35
 Fire Spin: 
   pow: 14
   ms: 1100
   eps: 9.09
   bars: 1
   type: 'FIRE'
+  pvpPower: 9
+  pvpTurns: 3
+  pvpEnergy: 10
 Lick: 
   pow: 5
   ms: 500
   eps: 12.0
   bars: 1
   type: 'GHOST'
+  pvpPower: 3
+  pvpTurns: 1
+  pvpEnergy: 3
 Discharge: 
   pow: 65
   ms: 2500
   eps: 13.2
   bars: 3
   type: 'ELECTRIC'
+  pvpPower: 65
+  pvpTurns: 1
+  pvpEnergy: 45
 Mud Slap: 
   pow: 15
   ms: 1400
   eps: 8.57
   bars: 1
   type: 'GROUND'
+  pvpPower: 9
+  pvpTurns: 3
+  pvpEnergy: 8
 Disarming Voice: 
   pow: 70
   ms: 3900
   eps: 8.46
   bars: 3
   type: 'FAIRY'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 45
 Rock Tomb: 
   pow: 70
   ms: 3200
   eps: 15.63
   bars: 2
   type: 'STEEL'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 60
 Rock Blast: 
   pow: 50
   ms: 2100
   eps: 15.71
   bars: 3
   type: 'ROCK'
+  pvpPower: 50
+  pvpTurns: 1
+  pvpEnergy: 40
 Bone Club: 
   pow: 40
   ms: 1600
   eps: 20.63
   bars: 3
   type: 'GROUND'
+  pvpPower: 40
+  pvpTurns: 1
+  pvpEnergy: 35
 Swift: 
   pow: 60
   ms: 2800
   eps: 17.86
   bars: 2
   type: 'NORMAL'
+  pvpPower: 60
+  pvpTurns: 1
+  pvpEnergy: 55
 Frenzy Plant: 
   pow: 100
   ms: 2600
   eps: 11.67
   bars: 2
   type: 'GRASS'
+  pvpPower: 100
+  pvpTurns: 1
+  pvpEnergy: 45
 X Scissor: 
   pow: 45
   ms: 1600
   eps: 20.63
   bars: 3
   type: 'BUG'
+  pvpPower: 45
+  pvpTurns: 1
+  pvpEnergy: 35
 Wing Attack: 
   pow: 8
   ms: 800
   eps: 11.25
   bars: 1
   type: 'FLYING'
+  pvpPower: 5
+  pvpTurns: 2
+  pvpEnergy: 7
 Snarl: 
   pow: 12
   ms: 1100
   eps: 10.91
   bars: 1
   type: 'DARK'
+  pvpPower: 8
+  pvpTurns: 3
+  pvpEnergy: 10
 Fire Punch: 
   pow: 55
   ms: 2200
   eps: 15.0
   bars: 3
   type: 'FIRE'
+  pvpPower: 55
+  pvpTurns: 1
+  pvpEnergy: 40
 Night Slash: 
   pow: 50
   ms: 2200
   eps: 15.0
   bars: 3
   type: 'DARK'
+  pvpPower: 50
+  pvpTurns: 1
+  pvpEnergy: 40
 Earthquake: 
   pow: 120
   ms: 3600
   eps: 27.78
   bars: 1
   type: 'GROUND'
+  pvpPower: 120
+  pvpTurns: 1
+  pvpEnergy: 65
 Ice Punch: 
   pow: 50
   ms: 1900
   eps: 17.37
   bars: 3
   type: 'ICE'
+  pvpPower: 50
+  pvpTurns: 1
+  pvpEnergy: 40
 Magnet Bomb: 
   pow: 70
   ms: 2800
   eps: 11.79
   bars: 3
   type: 'STEEL'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 45
 Thunder Shock: 
   pow: 5
   ms: 600
   eps: 13.33
   bars: 1
   type: 'ELECTRIC'
+  pvpPower: 3
+  pvpTurns: 2
+  pvpEnergy: 9
 Steel Wing: 
   pow: 11
   ms: 800
   eps: 7.5
   bars: 1
   type: 'STEEL'
+  pvpPower: 7
+  pvpTurns: 2
+  pvpEnergy: 5
 Rock Smash: 
   pow: 15
   ms: 1300
   eps: 7.69
   bars: 1
   type: 'FIGHTING'
+  pvpPower: 9
+  pvpTurns: 3
+  pvpEnergy: 7
 Razor Leaf: 
   pow: 13
   ms: 1000
   eps: 7.0
   bars: 1
   type: 'GRASS'
+  pvpPower: 8
+  pvpTurns: 2
+  pvpEnergy: 4
 Psycho Boost: 
   pow: 70
   ms: 4000
   eps: 12.5
   bars: 2
   type: 'PSYCHIC'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 40
 Shadow Ball: 
   pow: 100
   ms: 3000
   eps: 16.67
   bars: 2
   type: 'GHOST'
+  pvpPower: 100
+  pvpTurns: 1
+  pvpEnergy: 55
 Rock Throw: 
   pow: 12
   ms: 900
   eps: 7.78
   bars: 1
   type: 'ROCK'
+  pvpPower: 8
+  pvpTurns: 2
+  pvpEnergy: 5
 Brick Break: 
   pow: 40
   ms: 1600
   eps: 20.64
   bars: 3
   type: 'FIGHTING'
+  pvpPower: 40
+  pvpTurns: 1
+  pvpEnergy: 35
 Signal Beam: 
   pow: 75
   ms: 2900
   eps: 17.24
   bars: 2
   type: 'BUG'
+  pvpPower: 75
+  pvpTurns: 1
+  pvpEnergy: 55
 Sludge Wave: 
   pow: 110
   ms: 3200
   eps: 31.25
   bars: 1
   type: 'POISON'
+  pvpPower: 110
+  pvpTurns: 1
+  pvpEnergy: 65
 Tackle: 
   pow: 5
   ms: 500
   eps: 10.0
   bars: 1
   type: 'NORMAL'
+  pvpPower: 3
+  pvpTurns: 1
+  pvpEnergy: 2
 Weather Ball Ice: 
   pow: 60
   ms: 1600
   eps: 33.0
   bars: 3
   type: 'ICE'
+  pvpPower: 60
+  pvpTurns: 1
+  pvpEnergy: 35
 Flash Cannon: 
   pow: 100
   ms: 2700
   eps: 37.04
   bars: 1
   type: 'STEEL'
+  pvpPower: 110
+  pvpTurns: 1
+  pvpEnergy: 65
 Air Cutter: 
   pow: 60
   ms: 2700
   eps: 18.52
   bars: 2
   type: 'FLYING'
+  pvpPower: 60
+  pvpTurns: 1
+  pvpEnergy: 55
 Confusion: 
   pow: 20
   ms: 1600
   eps: 9.38
   bars: 1
   type: 'PSYCHIC'
+  pvpPower: 12
+  pvpTurns: 4
+  pvpEnergy: 12
 Close Combat: 
   pow: 100
   ms: 2300
   eps: 43.48
   bars: 1
   type: 'FIGHTING'
+  pvpPower: 100
+  pvpTurns: 1
+  pvpEnergy: 60
 Poison Sting: 
   pow: 5
   ms: 600
   eps: 11.67
   bars: 1
   type: 'POISON'
+  pvpPower: 3
+  pvpTurns: 2
+  pvpEnergy: 6
 Crunch: 
   pow: 70
   ms: 3200
   eps: 10.31
   bars: 3
   type: 'DARK'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 45
 Shadow Punch: 
   pow: 40
   ms: 1700
   eps: 19.41
   bars: 3
   type: 'GHOST'
+  pvpPower: 40
+  pvpTurns: 1
+  pvpEnergy: 35
 Sky Attack: 
   pow: 70
   ms: 2000
   eps: 25.0
   bars: 2
   type: 'FLYING'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 45
 Psycho Cut: 
   pow: 5
   ms: 600
   eps: 13.33
   bars: 1
   type: 'PSYCHIC'
+  pvpPower: 3
+  pvpTurns: 2
+  pvpEnergy: 9
 Draining Kiss: 
   pow: 60
   ms: 2600
   eps: 19.23
   bars: 2
   type: 'FAIRY'
+  pvpPower: 60
+  pvpTurns: 1
+  pvpEnergy: 55
 Dynamic Punch: 
   pow: 90
   ms: 2700
   eps: 18.52
   bars: 2
   type: 'FIGHTING'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 50
 Pound: 
   pow: 7
   ms: 600
   eps: 10.0
   bars: 1
   type: 'NORMAL'
+  pvpPower: 5
+  pvpTurns: 2
+  pvpEnergy: 4
 Weather Ball Fire: 
   pow: 60
   ms: 1600
   eps: 33.0
   bars: 3
   type: 'FIRE'
+  pvpPower: 60
+  pvpTurns: 1
+  pvpEnergy: 35
 Air Slash: 
   pow: 14
   ms: 1200
   eps: 8.33
   bars: 1
   type: 'FLYING'
+  pvpPower: 9
+  pvpTurns: 3
+  pvpEnergy: 9
 Flamethrower: 
   pow: 70
   ms: 2200
   eps: 22.73
   bars: 2
   type: 'FIRE'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 50
 Bite: 
   pow: 6
   ms: 500
   eps: 8.0
   bars: 1
   type: 'DARK'
+  pvpPower: 4
+  pvpTurns: 1
+  pvpEnergy: 2
 Psychic: 
   pow: 100
   ms: 2800
   eps: 35.71
   bars: 1
   type: 'PSYCHIC'
+  pvpPower: 100
+  pvpTurns: 1
+  pvpEnergy: 70
 Stomp: 
   pow: 55
   ms: 1700
   eps: 29.41
   bars: 2
   type: 'NORMAL'
+  pvpPower: 55
+  pvpTurns: 1
+  pvpEnergy: 40
 Bug Buzz: 
   pow: 90
   ms: 3700
   eps: 13.51
   bars: 2
   type: 'BUG'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 60
 Volt Switch: 
   pow: 20
   ms: 2300
   eps: 10.87
   bars: 1
   type: 'ELECTRIC'
+  pvpPower: 12
+  pvpTurns: 5
+  pvpEnergy: 10
 Feint Attack: 
   pow: 10
   ms: 900
   eps: 10.0
   bars: 1
   type: 'DARK'
+  pvpPower: 6
+  pvpTurns: 2
+  pvpEnergy: 6
 Hyper Beam: 
   pow: 150
   ms: 3800
   eps: 26.32
   bars: 1
   type: 'NORMAL'
+  pvpPower: 150
+  pvpTurns: 1
+  pvpEnergy: 80
 Heat Wave: 
   pow: 95
   ms: 3000
   eps: 33.33
   bars: 1
   type: 'FIRE'
+  pvpPower: 95
+  pvpTurns: 1
+  pvpEnergy: 75
 Silver Wind: 
   pow: 70
   ms: 3700
   eps: 8.92
   bars: 3
   type: 'BUG'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 45
 Weather Ball Water: 
   pow: 60
   ms: 1600
   eps: 33.0
   bars: 3
   type: 'WATER'
+  pvpPower: 60
+  pvpTurns: 1
+  pvpEnergy: 35
 Rock Slide: 
   pow: 80
   ms: 2700
   eps: 18.52
   bars: 2
   type: 'ROCK'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 45
 Yawn: 
   pow: 0
   ms: 1700
   eps: 8.82
   bars: 1
   type: 'NORMAL'
+  pvpPower: 0
+  pvpTurns: 4
+  pvpEnergy: 12
 Sucker Punch: 
   pow: 7
   ms: 700
   eps: 11.43
   bars: 1
   type: 'DARK'
+  pvpPower: 5
+  pvpTurns: 2
+  pvpEnergy: 7
 Hyper Fang: 
   pow: 80
   ms: 2500
   eps: 20.0
   bars: 2
   type: 'NORMAL'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 50
 Counter: 
   pow: 12
   ms: 900
   eps: 8.89
   bars: 1
   type: 'FIGHTING'
+  pvpPower: 8
+  pvpTurns: 2
+  pvpEnergy: 7
 Iron Head: 
   pow: 60
   ms: 1900
   eps: 26.32
   bars: 2
   type: 'STEEL'
+  pvpPower: 60
+  pvpTurns: 1
+  pvpEnergy: 50
 Mirror Coat: 
   pow: 60
   ms: 2600
   eps: 19.23
   bars: 2
   type: 'PSYCHIC'
+  pvpPower: 60
+  pvpTurns: 1
+  pvpEnergy: 55
 Leaf Blade: 
   pow: 70
   ms: 2400
   eps: 13.75
   bars: 3
   type: 'GRASS'
+  pvpPower: 70
+  pvpTurns: 2
+  pvpEnergy: 35
 Poison Jab: 
   pow: 10
   ms: 800
   eps: 8.75
   bars: 1
   type: 'POISON'
+  pvpPower: 6
+  pvpTurns: 2
+  pvpEnergy: 7
 Flame Charge: 
   pow: 70
   ms: 3800
   eps: 18.42
   bars: 3
   type: 'FIRE'
+  pvpPower: 70
+  pvpTurns: 1
+  pvpEnergy: 50
 Posion Jab: 
   pow: 10
   ms: 800
   eps: 8.75
   bars: 1
   type: 'POISON'
+  pvpPower: 6
+  pvpTurns: 2
+  pvpEnergy: 7
 Megahorn: 
   pow: 90
   ms: 2200
   eps: 45.45
   bars: 1
   type: 'BUG'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 55
 Play Rough: 
   pow: 90
   ms: 2900
   eps: 17.24
   bars: 2
   type: 'FAIRY'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 60
 Sand Tomb: 
   pow: 80
   ms: 4000
   eps: 12.5
   bars: 2
   type: 'GROUND'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 60
 Cross Chop: 
   pow: 50
   ms: 1500
   eps: 33.33
   bars: 2
   type: 'FIGHTING'
+  pvpPower: 50
+  pvpTurns: 1
+  pvpEnergy: 35
 Avalanche: 
   pow: 90
   ms: 2700
   eps: 18.52
   bars: 2
   type: 'ICE'
+  pvpPower: 90
+  pvpTurns: 1
+  pvpEnergy: 45
 Bubblebeam: 
   pow: 45
   ms: 1900
   eps: 1.0
   bars: 3
   type: 'WATER'
+  pvpPower: 45
+  pvpTurns: 1
+  pvpEnergy: 40
 Drill Run: 
   pow: 80
   ms: 2800
   eps: 17.86
   bars: 2
   type: 'GROUND'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 55
 Charge Beam: 
   pow: 8
   ms: 1100
   eps: 13.64
   bars: 1
   type: 'ELECTRIC'
+  pvpPower: 5
+  pvpTurns: 3
+  pvpEnergy: 11
 Power Gem: 
   pow: 80
   ms: 2900
   eps: 17.24
   bars: 2
   type: 'ROCK'
+  pvpPower: 80
+  pvpTurns: 1
+  pvpEnergy: 60
 Splash: 
   pow: 0
   ms: 1730
   eps: 11.56
   bars: 1
   type: 'WATER'
+  pvpPower: 0
+  pvpTurns: 4
+  pvpEnergy: 12
 Astonish: 
   pow: 8
   ms: 1100
   eps: 12.73
   bars: 1
   type: 'GHOST'
+  pvpPower: 5
+  pvpTurns: 3
+  pvpEnergy: 9
 Night Shade: 
   pow: 60
   ms: 2600
   eps: 19.23
   bars: 2
   type: 'GHOST'
+  pvpPower: 50
+  pvpTurns: 1
+  pvpEnergy: 40

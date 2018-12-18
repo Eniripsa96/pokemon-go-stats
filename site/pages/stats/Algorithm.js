@@ -134,6 +134,19 @@ class Algorithm {
     return (quickDps * quickTime + chargeStab * chargeEffectiveness * chargeMove.pow * chargeMove.bars)
       / (quickTime + (chargeMove.ms / 1000) * chargeMove.bars);
   }
+
+  calcPvPMoveDps(pokemon, quickMove, chargeMove, typeEffectiveness = { }) {
+    const quickStab = pokemon.types.includes(quickMove.type) ? 1.2 : 1;
+    const chargeStab = pokemon.types.includes(chargeMove.type) ? 1.2 : 1;
+
+    const quickEffectiveness = typeEffectiveness[quickMove.type] || 1;
+    const chargeEffectiveness = typeEffectiveness[chargeMove.type] || 1;
+
+    const quickDps = quickStab * quickMove.pvpPower * 2 / quickMove.pvpTurns;
+    const chargeUses = quickMove.pvpEnergy * 2 / (chargeMove.pvpEnergy * quickMove.pvpTurns);
+
+    return (quickDps + chargeStab * chargeMove.pow * chargeUses);
+  }
 }
 
 export default Algorithm
