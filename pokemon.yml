@@ -188,6 +188,7 @@ Snorlax:
   - 'Heavy Slam'
   - 'Earthquake'
   - 'Body Slam'
+  - 'Outrage'
   types: 
   - 'NORMAL'
 Lopunny: 
@@ -292,6 +293,7 @@ Ninetails:
   - 'Flamethrower'
   - 'Heat Wave'
   - 'Solarbeam'
+  - 'Psyshock'
   types: 
   - 'FIRE'
 Persian: 
@@ -345,6 +347,7 @@ Alakazam:
   - 'Focus Blast'
   - 'Shadow Ball'
   - 'Dazzling Gleam'
+  - 'Fire Punch'
   types: 
   - 'PSYCHIC'
 Alolan Persian: 
@@ -581,6 +584,7 @@ Honchkrow:
   - 'Brave Bird'
   - 'Psychic'
   - 'Dark Pulse'
+  - 'Sky Attack'
   types: 
   - 'DARK'
   - 'FLYING'
@@ -849,6 +853,7 @@ Wigglytuff:
   - 'Hyper Beam'
   - 'Play Rough'
   - 'Dazzling Gleam'
+  - 'Ice Beam'
   types: 
   - 'NORMAL'
   - 'FAIRY'
@@ -882,6 +887,7 @@ Breloom:
   - 'Dynamic Punch'
   - 'Sludge Bomb'
   - 'Seed Bomb'
+  - 'Grass Knot'
   types: 
   - 'GRASS'
   - 'FIGHTING'
@@ -902,6 +908,8 @@ Starmie:
   - 'Psychic'
   - 'Power Gem'
   - 'Psybeam'
+  - 'Thunder'
+  - 'Ice Beam'
   types: 
   - 'WATER'
   - 'PSYCHIC'
@@ -932,6 +940,7 @@ Arbok:
   quickMoves: 
   - 'Acid'
   - 'Bite'
+  - 'Dragon Tail'
   chargeMoves: 
   - 'Gunk Shot'
   - 'Sludge Wave'
@@ -952,6 +961,7 @@ Alolan Ninetails:
   - 'Blizzard'
   - 'Dazzling Gleam'
   - 'Ice Beam'
+  - 'Psyshock'
   types: 
   - 'ICE'
   - 'FAIRY'
@@ -999,6 +1009,7 @@ Ursaring:
   quickMoves: 
   - 'Counter'
   - 'Metal Claw'
+  - 'Shadow Claw'
   chargeMoves: 
   - 'Hyper Beam'
   - 'Close Combat'
@@ -1019,6 +1030,8 @@ Miltank:
   - 'Stomp'
   - 'Body Slam'
   - 'Gyro Ball'
+  - 'Thunderbolt'
+  - 'Ice Beam'
   types: 
   - 'NORMAL'
 Slowking: 
@@ -1083,6 +1096,7 @@ Donphan:
   quickMoves: 
   - 'Counter'
   - 'Tackle'
+  - 'Mud Slap'
   chargeMoves: 
   - 'Earthquake'
   - 'Heavy Slam'
@@ -1206,6 +1220,7 @@ Clefable:
   - 'Moonblast'
   - 'Psychic'
   - 'Dazzling Gleam'
+  - 'Meteor Mash'
   types: 
   - 'FAIRY'
 Pelipper: 
@@ -1252,6 +1267,7 @@ Alolan Muk:
   quickMoves: 
   - 'Posion Jab'
   - 'Bite'
+  - 'Snarl'
   chargeMoves: 
   - 'Gunk Shot'
   - 'Sludge Wave'
@@ -1374,6 +1390,7 @@ Feraligatr:
   - 'Hydro Pump'
   - 'Ice Beam'
   - 'Crunch'
+  - 'Hydro Cannon'
   types: 
   - 'WATER'
 Heracross: 
@@ -1453,6 +1470,7 @@ Mantine:
   quickMoves: 
   - 'Wing Attack'
   - 'Bubble'
+  - 'Bullet Seed'
   chargeMoves: 
   - 'Aerial Ace'
   - 'Ice Beam'
@@ -1589,6 +1607,7 @@ Roserade:
   - 'Solarbeam'
   - 'Sludge Bomb'
   - 'Dazzling Gleam'
+  - 'Grass Knot'
   types: 
   - 'GRASS'
   - 'POISON'
@@ -1774,6 +1793,7 @@ Houndoom:
   - 'Foul Play'
   - 'Fire Blast'
   - 'Crunch'
+  - 'Flamethrower'
   types: 
   - 'DARK'
   - 'FIRE'
@@ -2318,6 +2338,7 @@ Aerodactyl:
   - 'Hyper Beam'
   - 'Iron Head'
   - 'Ancient Power'
+  - 'Rock Slide'
   types: 
   - 'ROCK'
   - 'FLYING'
@@ -2487,6 +2508,7 @@ Entei:
   - 'Overheat'
   - 'Fire Blast'
   - 'Flamethrower'
+  - 'Iron Head'
   types: 
   - 'FIRE'
 Glalie: 
@@ -2689,6 +2711,7 @@ Machamp:
   - 'Cross Chop'
   - 'Heavy Slam'
   - 'Submission'
+  - 'Rock Slide'
   types: 
   - 'FIGHTING'
 Rhydon: 
@@ -2823,6 +2846,7 @@ Raikou:
   - 'Thunder'
   - 'Wild Charge'
   - 'Thunderbolt'
+  - 'Shadow Ball'
   types: 
   - 'ELECTRIC'
 Ambipom: 
@@ -2927,6 +2951,7 @@ Togekiss:
   - 'Ancient Power'
   - 'Dazzling Gleam'
   - 'Aerial Ace'
+  - 'Flamethrower'
   types: 
   - 'FAIRY'
   - 'FLYING'
@@ -3104,6 +3129,7 @@ Luxray:
   quickMoves: 
   - 'Spark'
   - 'Snarl'
+  - 'Hidden Power'
   chargeMoves: 
   - 'Hyper Beam'
   - 'Wild Charge'
@@ -3255,6 +3281,7 @@ Kabutops:
   - 'Rock Smash'
   - 'Fury Cutter'
   - 'Mud Shot'
+  - 'Waterfall'
   chargeMoves: 
   - 'Stone Edge'
   - 'Water Pulse'
@@ -3292,6 +3319,7 @@ Porygon-Z:
   - 'Solarbeam'
   - 'Hyper Beam'
   - 'Zap Cannon'
+  - 'Blizzard'
   types: 
   - 'NORMAL'
 Probopass: 
@@ -3411,6 +3439,7 @@ Jynx:
   - 'Ice Punch'
   - 'Psyshock'
   - 'Draining Kiss'
+  - 'Focus Blast'
   types: 
   - 'ICE'
   - 'PSYCHIC'
@@ -3462,6 +3491,7 @@ Ludicolo:
   - 'Hydro Pump'
   - 'Solarbeam'
   - 'Blizzard'
+  - 'Ice Beam'
   types: 
   - 'GRASS'
   - 'WATER'
@@ -3529,6 +3559,7 @@ Suicune:
   - 'Hydro Pump'
   - 'Bubble Beam'
   - 'Water Pulse'
+  - 'Ice Beam'
   types: 
   - 'WATER'
 Lanturn: 
@@ -3733,6 +3764,7 @@ Ampharos:
   - 'Zap Cannon'
   - 'Focus Blast'
   - 'Dragon Pulse'
+  - 'Power Gem'
   types: 
   - 'ELECTRIC'
   - 'DRAGON'
@@ -3763,6 +3795,7 @@ Drapion:
   quickMoves: 
   - 'Poison Sting'
   - 'Infestation'
+  - 'Bite'
   chargeMoves: 
   - 'Crunch'
   - 'Aqua Tail'
@@ -3830,6 +3863,7 @@ Ho-Oh:
   quickMoves: 
   - 'Steel Wing'
   - 'Extrasensory'
+  - 'Hidden Power'
   chargeMoves: 
   - 'Brave Bird'
   - 'Fire Blast'
@@ -3847,6 +3881,7 @@ Salamence:
   quickMoves: 
   - 'Dragon Tail'
   - 'Fire Fang'
+  - 'Bite'
   chargeMoves: 
   - 'Draco Meteor'
   - 'Hydro Pump'
@@ -3969,6 +4004,7 @@ Magmortar:
   - 'Brick Break'
   - 'Fire Punch'
   - 'Fire Blast'
+  - 'Psychic'
   types: 
   - 'FIRE'
 Muk: 
@@ -3987,6 +4023,7 @@ Muk:
   - 'Gunk Shot'
   - 'Sludge Wave'
   - 'Dark Pulse'
+  - 'Thunder Punch'
   types: 
   - 'POISON'
 Sceptile: 
@@ -4237,6 +4274,7 @@ Weezing:
   - 'Sludge Bomb'
   - 'Shadow Ball'
   - 'Dark Pulse'
+  - 'Thunderbolt'
   types: 
   - 'POISON'
 Rampardos: 

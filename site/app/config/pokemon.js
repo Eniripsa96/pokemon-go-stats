@@ -16,7 +16,7 @@ const POKEMON_DATA = {
     "spAtk": 65,
     "def": 69,
     "hp": 60,
-    "quickMoves": ["Acid", "Bite"],
+    "quickMoves": ["Acid", "Bite", "Dragon Tail"],
     "atk": 95,
     "chargeMoves": ["Gunk Shot", "Sludge Wave", "Dark Pulse"],
     "speed": 80
@@ -128,7 +128,7 @@ const POKEMON_DATA = {
     "hp": 100,
     "quickMoves": ["Hidden Power", "Snarl", "Extrasensory"],
     "atk": 75,
-    "chargeMoves": ["Hydro Pump", "Bubble Beam", "Water Pulse"],
+    "chargeMoves": ["Hydro Pump", "Bubble Beam", "Water Pulse", "Ice Beam"],
     "speed": 85
   },
   "Mightyena": {
@@ -221,13 +221,13 @@ const POKEMON_DATA = {
   },
   "Ampharos": {
     "spDef": 90,
-    "types": ["ELECTRIC"],
+    "types": ["ELECTRIC", "DRAGON"],
     "spAtk": 115,
     "def": 85,
     "hp": 90,
     "quickMoves": ["Volt Switch", "Charge Beam"],
     "atk": 75,
-    "chargeMoves": ["Thunder", "Zap Cannon", "Focus Blast", "Dragon Pulse"],
+    "chargeMoves": ["Thunder", "Zap Cannon", "Focus Blast", "Dragon Pulse", "Power Gem"],
     "speed": 55
   },
   "Raikou": {
@@ -238,7 +238,7 @@ const POKEMON_DATA = {
     "hp": 90,
     "quickMoves": ["Volt Switch", "Thunder Shock"],
     "atk": 85,
-    "chargeMoves": ["Thunder", "Wild Charge", "Thunderbolt"],
+    "chargeMoves": ["Thunder", "Wild Charge", "Thunderbolt", "Shadow Ball"],
     "speed": 115
   },
   "Minun": {
@@ -302,7 +302,7 @@ const POKEMON_DATA = {
     "spAtk": 80,
     "def": 70,
     "hp": 85,
-    "quickMoves": ["Wing Attack", "Bubble"],
+    "quickMoves": ["Wing Attack", "Bubble", "Bullet Seed"],
     "atk": 40,
     "chargeMoves": ["Aerial Ace", "Ice Beam", "Water Pulse"],
     "speed": 70
@@ -535,7 +535,7 @@ const POKEMON_DATA = {
     "hp": 75,
     "quickMoves": ["Fire Spin", "Karate Chop"],
     "atk": 95,
-    "chargeMoves": ["Brick Break", "Fire Punch", "Fire Blast"],
+    "chargeMoves": ["Brick Break", "Fire Punch", "Fire Blast", "Psychic"],
     "speed": 83
   },
   "Forretress": {
@@ -590,7 +590,7 @@ const POKEMON_DATA = {
     "hp": 90,
     "quickMoves": ["Counter", "Karate Chop", "Bullet Punch"],
     "atk": 130,
-    "chargeMoves": ["Close Combat", "Stone Edge", "Dynamic Punch", "Cross Chop", "Heavy Slam", "Submission"],
+    "chargeMoves": ["Close Combat", "Stone Edge", "Dynamic Punch", "Cross Chop", "Heavy Slam", "Submission", "Rock Slide"],
     "speed": 55
   },
   "Gardevoir": {
@@ -632,7 +632,7 @@ const POKEMON_DATA = {
     "spAtk": 75,
     "def": 75,
     "hp": 90,
-    "quickMoves": ["Counter", "Metal Claw"],
+    "quickMoves": ["Counter", "Metal Claw", "Shadow Claw"],
     "atk": 130,
     "chargeMoves": ["Hyper Beam", "Close Combat", "Play Rough"],
     "speed": 55
@@ -766,7 +766,7 @@ const POKEMON_DATA = {
     "hp": 95,
     "quickMoves": ["Pound", "Zen Headbutt", "Charge Beam"],
     "atk": 70,
-    "chargeMoves": ["Moonblast", "Psychic", "Dazzling Gleam"],
+    "chargeMoves": ["Moonblast", "Psychic", "Dazzling Gleam", "Meteor Mash"],
     "speed": 60
   },
   "Blaziken": {
@@ -797,7 +797,7 @@ const POKEMON_DATA = {
     "spAtk": 65,
     "def": 75,
     "hp": 105,
-    "quickMoves": ["Posion Jab", "Bite"],
+    "quickMoves": ["Posion Jab", "Bite", "Snarl"],
     "atk": 105,
     "chargeMoves": ["Gunk Shot", "Sludge Wave", "Dark Pulse"],
     "speed": 50
@@ -808,7 +808,7 @@ const POKEMON_DATA = {
     "spAtk": 110,
     "def": 90,
     "hp": 106,
-    "quickMoves": ["Steel Wing", "Extrasensory"],
+    "quickMoves": ["Steel Wing", "Extrasensory", "Hidden Power"],
     "atk": 130,
     "chargeMoves": ["Brave Bird", "Fire Blast", "Solarbeam"],
     "speed": 90
@@ -832,7 +832,7 @@ const POKEMON_DATA = {
     "hp": 85,
     "quickMoves": ["Waterfall", "Water Gun", "Bite"],
     "atk": 105,
-    "chargeMoves": ["Hydro Pump", "Ice Beam", "Crunch"],
+    "chargeMoves": ["Hydro Pump", "Ice Beam", "Crunch", "Hydro Cannon"],
     "speed": 78
   },
   "Pachirisu": {
@@ -854,7 +854,7 @@ const POKEMON_DATA = {
     "hp": 65,
     "quickMoves": ["Acid", "Infestation", "Tackle"],
     "atk": 90,
-    "chargeMoves": ["Sludge Bomb", "Shadow Ball", "Dark Pulse"],
+    "chargeMoves": ["Sludge Bomb", "Shadow Ball", "Dark Pulse", "Thunderbolt"],
     "speed": 60
   },
   "Masquerain": {
@@ -1019,7 +1019,7 @@ const POKEMON_DATA = {
     "hp": 73,
     "quickMoves": ["Fire Spin", "Ember", "Feint Attack"],
     "atk": 76,
-    "chargeMoves": ["Overheat", "Fire Blast", "Flamethrower", "Heat Wave", "Solarbeam"],
+    "chargeMoves": ["Overheat", "Fire Blast", "Flamethrower", "Heat Wave", "Solarbeam", "Psyshock"],
     "speed": 100
   },
   "Kingdra": {
@@ -1052,7 +1052,7 @@ const POKEMON_DATA = {
     "hp": 75,
     "quickMoves": ["Fire Fang", "Snarl"],
     "atk": 90,
-    "chargeMoves": ["Foul Play", "Fire Blast", "Crunch"],
+    "chargeMoves": ["Foul Play", "Fire Blast", "Crunch", "Flamethrower"],
     "speed": 95
   },
   "Manectric": {
@@ -1085,7 +1085,7 @@ const POKEMON_DATA = {
     "hp": 115,
     "quickMoves": ["Fire Fang", "Fire Spin"],
     "atk": 115,
-    "chargeMoves": ["Overheat", "Fire Blast", "Flamethrower"],
+    "chargeMoves": ["Overheat", "Fire Blast", "Flamethrower", "Iron Head"],
     "speed": 100
   },
   "Drapion": {
@@ -1094,7 +1094,7 @@ const POKEMON_DATA = {
     "spAtk": 60,
     "def": 110,
     "hp": 70,
-    "quickMoves": ["Poison Sting", "Infestation"],
+    "quickMoves": ["Poison Sting", "Infestation", "Bite"],
     "atk": 90,
     "chargeMoves": ["Crunch", "Aqua Tail", "Sludge Bomb"],
     "speed": 95
@@ -1118,7 +1118,7 @@ const POKEMON_DATA = {
     "hp": 60,
     "quickMoves": ["Water Gun", "Tackle", "Quick Attack", "Hidden Power"],
     "atk": 75,
-    "chargeMoves": ["Hydro Pump", "Psychic", "Power Gem", "Psybeam"],
+    "chargeMoves": ["Hydro Pump", "Psychic", "Power Gem", "Psybeam", "Thunder", "Ice Beam"],
     "speed": 115
   },
   "Gyarados": {
@@ -1547,7 +1547,7 @@ const POKEMON_DATA = {
     "hp": 85,
     "quickMoves": ["Hidden Power", "Charge Beam"],
     "atk": 80,
-    "chargeMoves": ["Solarbeam", "Hyper Beam", "Zap Cannon"],
+    "chargeMoves": ["Solarbeam", "Hyper Beam", "Zap Cannon", "Blizzard"],
     "speed": 90
   },
   "Kangaskhan": {
@@ -1745,7 +1745,7 @@ const POKEMON_DATA = {
     "hp": 73,
     "quickMoves": ["Feint Attack", "Powder Snow"],
     "atk": 67,
-    "chargeMoves": ["Blizzard", "Dazzling Gleam", "Ice Beam"],
+    "chargeMoves": ["Blizzard", "Dazzling Gleam", "Ice Beam", "Psyshock"],
     "speed": 109
   },
   "Donphan": {
@@ -1754,7 +1754,7 @@ const POKEMON_DATA = {
     "spAtk": 60,
     "def": 120,
     "hp": 90,
-    "quickMoves": ["Counter", "Tackle"],
+    "quickMoves": ["Counter", "Tackle", "Mud Slap"],
     "atk": 120,
     "chargeMoves": ["Earthquake", "Heavy Slam", "Play Rough"],
     "speed": 50
@@ -1800,7 +1800,7 @@ const POKEMON_DATA = {
     "hp": 60,
     "quickMoves": ["Poison Jab", "Razor Leaf"],
     "atk": 70,
-    "chargeMoves": ["Solarbeam", "Sludge Bomb", "Dazzling Gleam"],
+    "chargeMoves": ["Solarbeam", "Sludge Bomb", "Dazzling Gleam", "Grass Knot"],
     "speed": 90
   },
   "Blastoise": {
@@ -1987,7 +1987,7 @@ const POKEMON_DATA = {
     "hp": 85,
     "quickMoves": ["Air Slash", "Hidden Power"],
     "atk": 50,
-    "chargeMoves": ["Ancient Power", "Dazzling Gleam", "Aerial Ace"],
+    "chargeMoves": ["Ancient Power", "Dazzling Gleam", "Aerial Ace", "Flamethrower"],
     "speed": 80
   },
   "Hypno": {
@@ -2075,7 +2075,7 @@ const POKEMON_DATA = {
     "hp": 65,
     "quickMoves": ["Confusion", "Frost Breath", "Pound"],
     "atk": 50,
-    "chargeMoves": ["Avalanche", "Ice Punch", "Psyshock", "Draining Kiss"],
+    "chargeMoves": ["Avalanche", "Ice Punch", "Psyshock", "Draining Kiss", "Focus Blast"],
     "speed": 95
   },
   "Skuntank": {
@@ -2161,7 +2161,7 @@ const POKEMON_DATA = {
     "spAtk": 110,
     "def": 80,
     "hp": 95,
-    "quickMoves": ["Dragon Tail", "Fire Fang"],
+    "quickMoves": ["Dragon Tail", "Fire Fang", "Bite"],
     "atk": 135,
     "chargeMoves": ["Draco Meteor", "Hydro Pump", "Fire Blast"],
     "speed": 100
@@ -2185,7 +2185,7 @@ const POKEMON_DATA = {
     "hp": 80,
     "quickMoves": ["Razor Leaf", "Bubble"],
     "atk": 70,
-    "chargeMoves": ["Hydro Pump", "Solarbeam", "Blizzard"],
+    "chargeMoves": ["Hydro Pump", "Solarbeam", "Blizzard", "Ice Beam"],
     "speed": 70
   },
   "Delibird": {
@@ -2337,7 +2337,7 @@ const POKEMON_DATA = {
     "spAtk": 95,
     "def": 79,
     "hp": 80,
-    "quickMoves": ["Spark", "Snarl"],
+    "quickMoves": ["Spark", "Snarl", "Hidden Power"],
     "atk": 120,
     "chargeMoves": ["Hyper Beam", "Wild Charge", "Crunch"],
     "speed": 70
@@ -2372,7 +2372,7 @@ const POKEMON_DATA = {
     "hp": 140,
     "quickMoves": ["Pound", "Feint Attack"],
     "atk": 70,
-    "chargeMoves": ["Hyper Beam", "Play Rough", "Dazzling Gleam"],
+    "chargeMoves": ["Hyper Beam", "Play Rough", "Dazzling Gleam", "Ice Beam"],
     "speed": 45
   },
   "Mawile": {
@@ -2416,7 +2416,7 @@ const POKEMON_DATA = {
     "hp": 95,
     "quickMoves": ["Tackle", "Zen Headbutt"],
     "atk": 80,
-    "chargeMoves": ["Stomp", "Body Slam", "Gyro Ball"],
+    "chargeMoves": ["Stomp", "Body Slam", "Gyro Ball", "Thunderbolt", "Ice Beam"],
     "speed": 100
   },
   "Hitmonlee": {
@@ -2436,7 +2436,7 @@ const POKEMON_DATA = {
     "spAtk": 65,
     "def": 105,
     "hp": 60,
-    "quickMoves": ["Rock Smash", "Fury Cutter", "Mud Shot"],
+    "quickMoves": ["Rock Smash", "Fury Cutter", "Mud Shot", "Waterfall"],
     "atk": 115,
     "chargeMoves": ["Stone Edge", "Water Pulse", "Ancient Power"],
     "speed": 80
@@ -2504,7 +2504,7 @@ const POKEMON_DATA = {
     "hp": 105,
     "quickMoves": ["Poison Jab", "Acid", "Lick", "Infestation"],
     "atk": 105,
-    "chargeMoves": ["Gunk Shot", "Sludge Wave", "Dark Pulse"],
+    "chargeMoves": ["Gunk Shot", "Sludge Wave", "Dark Pulse", "Thunder Punch"],
     "speed": 50
   },
   "Articuno": {
@@ -2614,7 +2614,7 @@ const POKEMON_DATA = {
     "hp": 60,
     "quickMoves": ["Counter", "Bullet Seed"],
     "atk": 130,
-    "chargeMoves": ["Dynamic Punch", "Sludge Bomb", "Seed Bomb"],
+    "chargeMoves": ["Dynamic Punch", "Sludge Bomb", "Seed Bomb", "Grass Knot"],
     "speed": 70
   },
   "Kecleon": {
@@ -2656,9 +2656,9 @@ const POKEMON_DATA = {
     "spAtk": 100,
     "def": 100,
     "hp": 100,
-    "quickMoves": ["Steel Wing", "Charge Beam", "Shadow Claw"],
+    "quickMoves": ["Steel Wing", "Charge Beam", "Shadow Claw", "Volt Switch", "Struggle Bug", "Dragon Tail", "Frost Breath", "Infestation", "Poison Jab", "Rock Smash", "Snarl", "Cut", "Pound", "Waterfall"],
     "atk": 100,
-    "chargeMoves": ["Sludge Bomb", "X Scissor", "Aerial Ace", "Petal Blizzard", "Solarbeam", "Earthquake", "Frenzy Plant", "Psychic", "Rock Slide", "Water Pulse", "Blizzard", "Silver Wind", "Thunder", "Shadow Ball", "Dazzling Gleam", "Focus Blast", "Overheat", "Brave Bird", "Stone Edge", "Sludge Wave", "Dark Pulse", "Poison Fang", "Crunch", "Wrap", "Hydro Pump", "Outrage", "Dragon Pulse", "Twister", "Bubblebeam", "Surf", "Hyper Beam", "Heavy Slam", "Body Slam", "Fire Punch", "Avalanche", "Aurora Beam", "Icy Wind", "Megahorn", "Cross Poison", "Shadow Sneak", "Mirror Coat", "Sky Attack", "Fire Blast", "Flamethrower", "Heat Wave", "Foul Play", "Play Rough", "Power Gem", "Night Slash", "Future Sight", "Stomp", "Wild Charge", "Flash Cannon", "Bug Buzz", "Grass Knot", "Dynamic Punch", "Submission", "Ice Punch", "Close Combat", "Vice Grip", "Thunderbolt", "Power Whip", "Thunder Punch", "Brick Break", "Swift", "Drill Run", "Dig", "Aqua Tail", "Last Resort", "Zap Cannon", "Bulldoze", "Rock Tomb", "Iron Head", "Horn Attack", "Night Shade", "Draining Kiss", "Aqua Jet", "Dragon Claw", "Blast Burn", "Discharge", "Seed Bomb", "Psybeam", "Gunk Shot", "Ice Beam", "Mud Bomb", "Gyro Ball", "Psyshock", "Rock Blast", "Ancient Power", "Bone Club", "Moonblast", "Hurricane", "Leaf Blade", "Ominous Wind", "Energy Ball", "Psycho Boost", "Signal Beam", "Weather Ball Fire", "Weather Ball Ice", "Doom Desire", "Draco Meteor", "Air Cutter", "Hydro Cannon", "Struggle", "Hyper Fang", "Disarming Voice", "Low Sweep", "Cross Chop", "Bubble Beam", "Weather Ball Water", "Magnet Bomb", "Drill Peck", "Meteor Mash", "Flame Burst"],
+    "chargeMoves": ["Psychic", "Ancient Power", "Dragon Claw", "Psyshock", "Ice Beam", "Blizzard", "Hyper Beam", "Solarbeam", "Thunderbolt", "Thunder", "Flame Charge", "Low Sweep", "Overheat", "Energy Ball", "Stone Edge", "Focus Blast", "Gyro Ball", "Bulldoze", "Rock Slide", "Grass Knot", "Flash Cannon", "Wild Charge", "Dark Pulse", "Dazzling Gleam", "Surf"],
     "speed": 100
   },
   "Alakazam": {
@@ -2669,7 +2669,7 @@ const POKEMON_DATA = {
     "hp": 55,
     "quickMoves": ["Confusion", "Psycho Cut"],
     "atk": 50,
-    "chargeMoves": ["Future Sight", "Psychic", "Focus Blast", "Shadow Ball", "Dazzling Gleam"],
+    "chargeMoves": ["Future Sight", "Psychic", "Focus Blast", "Shadow Ball", "Dazzling Gleam", "Fire Punch"],
     "speed": 120
   },
   "Nidoking": {
@@ -2922,7 +2922,7 @@ const POKEMON_DATA = {
     "hp": 80,
     "quickMoves": ["Steel Wing", "Bite"],
     "atk": 105,
-    "chargeMoves": ["Hyper Beam", "Iron Head", "Ancient Power"],
+    "chargeMoves": ["Hyper Beam", "Iron Head", "Ancient Power", "Rock Slide"],
     "speed": 130
   },
   "Gallade": {
@@ -2988,7 +2988,7 @@ const POKEMON_DATA = {
     "hp": 160,
     "quickMoves": ["Lick", "Zen Headbutt"],
     "atk": 110,
-    "chargeMoves": ["Hyper Beam", "Heavy Slam", "Earthquake", "Body Slam"],
+    "chargeMoves": ["Hyper Beam", "Heavy Slam", "Earthquake", "Body Slam", "Outrage"],
     "speed": 30
   },
   "Honchkrow": {
@@ -2999,7 +2999,7 @@ const POKEMON_DATA = {
     "hp": 100,
     "quickMoves": ["Peck", "Snarl"],
     "atk": 125,
-    "chargeMoves": ["Brave Bird", "Psychic", "Dark Pulse"],
+    "chargeMoves": ["Brave Bird", "Psychic", "Dark Pulse", "Sky Attack"],
     "speed": 71
   },
   "Lapras": {

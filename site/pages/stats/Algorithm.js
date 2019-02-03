@@ -145,7 +145,7 @@ class Algorithm {
     const quickDps = quickStab * quickMove.pvpPower * 2 / quickMove.pvpTurns;
     const chargeUses = quickMove.pvpEnergy * 2 / (chargeMove.pvpEnergy * quickMove.pvpTurns);
 
-    return (quickDps + chargeStab * chargeMove.pow * chargeUses);
+    return (quickDps * quickEffectiveness + chargeStab * chargeMove.pow * chargeUses * chargeEffectiveness);
   }
 }
 

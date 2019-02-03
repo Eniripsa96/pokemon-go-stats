@@ -50,7 +50,9 @@ public class MovesConfig {
   }
 
   public Move getMove(final String name) {
-    return moves.get(name.toLowerCase());
+    return moves.computeIfAbsent(name.toLowerCase(), n -> {
+      throw new IllegalArgumentException(name + " is not a defined move!");
+    });
   }
 
   public void addMove(final Move move) {

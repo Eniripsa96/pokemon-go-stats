@@ -15,7 +15,8 @@ class PvPAlgorithm extends Algorithm {
     const dps = this.calcPvPMoveDps(pokemon, quickMove, chargeMove, typeEffectiveness);
     const cp = pokemon.getAttack() * Math.sqrt(pokemon.getDefense()) * Math.sqrt(pokemon.getStamina()) * MAX_CPM * MAX_CPM * 0.1 | 0;
     const cpM = Math.min(1, this.maxCp / cp);
-    return cpM * pokemon.getAttack() * pokemon.getDefense() * pokemon.getStamina() * dps;
+    const chargeTurns = chargeMove.pvpEnergy * quickMove.pvpTurns / quickMove.pvpEnergy;
+    return cpM * pokemon.getAttack() * pokemon.getDefense() * pokemon.getStamina() * dps / Math.log(chargeTurns);
   }
 }
 

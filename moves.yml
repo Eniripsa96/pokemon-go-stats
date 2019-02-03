@@ -58,7 +58,7 @@ Dazzling Gleam:
   eps: 14.29
   bars: 2
   type: 'FAIRY'
-  pvpPower: 100
+  pvpPower: 110
   pvpTurns: 1
   pvpEnergy: 70
 Brave Bird: 
@@ -85,7 +85,7 @@ Ice Shard:
   eps: 10.0
   bars: 1
   type: 'ICE'
-  pvpPower: 8
+  pvpPower: 9
   pvpTurns: 3
   pvpEnergy: 10
 Shadow Claw: 
@@ -96,7 +96,7 @@ Shadow Claw:
   type: 'GHOST'
   pvpPower: 6
   pvpTurns: 2
-  pvpEnergy: 7
+  pvpEnergy: 8
 Future Sight: 
   pow: 120
   ms: 2700
@@ -364,7 +364,7 @@ Body Slam:
   eps: 17.37
   bars: 3
   type: 'NORMAL'
-  pvpPower: 50
+  pvpPower: 60
   pvpTurns: 1
   pvpEnergy: 35
 Aqua Jet: 
@@ -382,7 +382,7 @@ Smack Down:
   eps: 6.67
   bars: 1
   type: 'ROCK'
-  pvpPower: 10
+  pvpPower: 12
   pvpTurns: 3
   pvpEnergy: 8
 Aurora Beam: 
@@ -409,9 +409,9 @@ Thunder Punch:
   eps: 18.33
   bars: 3
   type: 'ELECTRIC'
-  pvpPower: 45
+  pvpPower: 55
   pvpTurns: 1
-  pvpEnergy: 35
+  pvpEnergy: 40
 Take Down: 
   pow: 8
   ms: 1200
@@ -454,9 +454,9 @@ Thunderbolt:
   eps: 20.0
   bars: 2
   type: 'ELECTRIC'
-  pvpPower: 80
+  pvpPower: 90
   pvpTurns: 1
-  pvpEnergy: 45
+  pvpEnergy: 55
 Grass Knot: 
   pow: 90
   ms: 2600
@@ -589,7 +589,7 @@ Waterfall:
   eps: 6.67
   bars: 1
   type: 'WATER'
-  pvpPower: 10
+  pvpPower: 12
   pvpTurns: 3
   pvpEnergy: 8
 Meteor Mash: 
@@ -760,7 +760,7 @@ Psyshock:
   eps: 12.22
   bars: 3
   type: 'PSYCHIC'
-  pvpPower: 65
+  pvpPower: 70
   pvpTurns: 1
   pvpEnergy: 45
 Wrap: 
@@ -805,7 +805,7 @@ Frost Breath:
   eps: 8.89
   bars: 1
   type: 'ICE'
-  pvpPower: 6
+  pvpPower: 7
   pvpTurns: 2
   pvpEnergy: 5
 Extrasensory: 
@@ -1066,7 +1066,7 @@ Ice Punch:
   eps: 17.37
   bars: 3
   type: 'ICE'
-  pvpPower: 50
+  pvpPower: 55
   pvpTurns: 1
   pvpEnergy: 40
 Magnet Bomb: 
@@ -1111,7 +1111,7 @@ Razor Leaf:
   eps: 7.0
   bars: 1
   type: 'GRASS'
-  pvpPower: 8
+  pvpPower: 11
   pvpTurns: 2
   pvpEnergy: 4
 Psycho Boost: 
@@ -1210,7 +1210,7 @@ Confusion:
   eps: 9.38
   bars: 1
   type: 'PSYCHIC'
-  pvpPower: 12
+  pvpPower: 16
   pvpTurns: 4
   pvpEnergy: 12
 Close Combat: 
@@ -1250,7 +1250,7 @@ Shadow Punch:
   pvpTurns: 1
   pvpEnergy: 35
 Sky Attack: 
-  pow: 70
+  pow: 80
   ms: 2000
   eps: 25.0
   bars: 2
@@ -1318,9 +1318,9 @@ Flamethrower:
   eps: 22.73
   bars: 2
   type: 'FIRE'
-  pvpPower: 70
+  pvpPower: 90
   pvpTurns: 1
-  pvpEnergy: 50
+  pvpEnergy: 55
 Bite: 
   pow: 6
   ms: 500
@@ -1427,7 +1427,7 @@ Yawn:
   bars: 1
   type: 'NORMAL'
   pvpPower: 0
-  pvpTurns: 4
+  pvpTurns: 3
   pvpEnergy: 12
 Sucker Punch: 
   pow: 7
@@ -1462,7 +1462,7 @@ Iron Head:
   eps: 26.32
   bars: 2
   type: 'STEEL'
-  pvpPower: 60
+  pvpPower: 70
   pvpTurns: 1
   pvpEnergy: 50
 Mirror Coat: 
@@ -1598,7 +1598,7 @@ Splash:
   bars: 1
   type: 'WATER'
   pvpPower: 0
-  pvpTurns: 4
+  pvpTurns: 3
   pvpEnergy: 12
 Astonish: 
   pow: 8

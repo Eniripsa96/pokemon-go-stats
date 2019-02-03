@@ -1,6 +1,6 @@
-const NOT_VERY_EFFECTIVE = 1 / 1.4;
-const SUPER_EFFECTIVE = 1.4;
-const NO_EFFECT = 0.51;
+const NOT_VERY_EFFECTIVE = 1 / 1.6;
+const SUPER_EFFECTIVE = 1.6;
+const NO_EFFECT = 0.391;
 
 const TYPE_TABLE = {
   BUG: {

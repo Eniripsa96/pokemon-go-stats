@@ -13,10 +13,6 @@ class Pokemon {
     this.atkIv = 15;
     this.defIv = 15;
     this.staIv = 15;
-
-    const higherAtk = Math.max(this.attack, this.specialAttack);
-    const lowerAtk = Math.min(this.attack, this.specialAttack);
-    console.log(this.name + ' - ' + this.getAttack() + ' / ' + this.getDefense() + ' / ' + this.getStamina() + " : " + (Math.round(2 * (7 * higherAtk / 8 + lowerAtk / 8))));
   }
 
   getAttack(iv = this.atkIv) {
